@@ -6,7 +6,7 @@ Welcome to the official documentation for **NTNH Server**.
 This guide will walk you through everything you need to know - from understanding how the server works, to deploying it on your machine, and finally customizing it to your exact liking.
 
 > 💬 **Need help?** Got a suggestion, found a typo, or just want to say hi?  
-> Join our Discord and ping **@Bufka2011** - we’re happy to help!
+> Join our Discord and ping **@Admin** - we’re happy to help!
 
 ---
 
