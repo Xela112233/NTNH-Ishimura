@@ -12,7 +12,7 @@ This guide will walk you through everything you need to know - from understandin
 
 ## 📚 Table of Contents
 
-| Step | Title | Description |
+| Level | Title | Description |
 |------|-------|-------------|
 | ✅ **1** | [Theory](theory.md) | Understand how a Minecraft server works, what components are involved, and what you’ll need before deploying. |
 | ✅ **2** | [Deploying](deploying.md) | Step-by-step instructions to install, configure, and launch your server for the first time. |
