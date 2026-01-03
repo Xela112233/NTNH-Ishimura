@@ -4,732 +4,1161 @@
     "modId": "forge",
     "version": "forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
   },
-  "!!!CrashAssistant-forge-1.7.10-1.10.20-NTNH.jar": {
-    "jarName": "!!!CrashAssistant-forge-1.7.10-1.10.20-NTNH.jar",
+  "!!!CrashAssistant-forge-1.7.10-1.10.28.jar": {
+    "jarName": "!!!CrashAssistant-forge-1.7.10-1.10.28.jar",
     "modId": "crash_assistant",
-    "version": "1.10.20-NTNH"
+    "version": "1.10.28",
+    "curseForgeHash": 771802315,
+    "modrinthHash": "9c9f4cf4c67a524ec029abf4eefc6ea15743525f"
   },
   "+Mycelium-2.3.jar": {
     "jarName": "+Mycelium-2.3.jar",
     "modId": "mycelium",
-    "version": "2.3"
+    "version": "2.3",
+    "curseForgeHash": 4110463552,
+    "modrinthHash": "7888bdefa731a97580c5a2e59c2de102be2cbff7"
   },
   "+unimixins-all-1.7.10-0.1.23.jar": {
     "jarName": "+unimixins-all-1.7.10-0.1.23.jar",
     "modId": "unimixins",
-    "version": "0.1.23"
+    "version": "0.1.23",
+    "curseForgeHash": 1512532393,
+    "modrinthHash": "758ddc3f969d22f85da74fc8b1680d9ea822d8be"
+  },
+  "1.7.10-ASJCore-1.5.2.2.jar": {
+    "jarName": "1.7.10-ASJCore-1.5.2.2.jar",
+    "modId": "asjpatcher",
+    "version": "1.5.2.2",
+    "curseForgeHash": 368369078,
+    "modrinthHash": "73b00ca9ad5b4a1cda751d1bd0228ccf7a785ae5"
   },
   "adventurebackpack-1.4.5-GTNH-pre.jar": {
     "jarName": "adventurebackpack-1.4.5-GTNH-pre.jar",
     "modId": "adventurebackpack",
-    "version": "1.4.5-GTNH-pre"
+    "version": "1.4.5-GTNH-pre",
+    "curseForgeHash": 3297295074,
+    "modrinthHash": "68a76b4bc84a12654e2902161ba24c4b116177bf"
   },
   "ae2fc-1.5.28-gtnh-pre.jar": {
     "jarName": "ae2fc-1.5.28-gtnh-pre.jar",
     "modId": "ae2fc",
-    "version": "1.5.28-gtnh-pre"
+    "version": "1.5.28-gtnh-pre",
+    "curseForgeHash": 3428297362,
+    "modrinthHash": "c9bf9fca6b31c185a807e37f68a149a727c0770f"
   },
   "ae2stuff-0.10.3-GTNH-pre.jar": {
     "jarName": "ae2stuff-0.10.3-GTNH-pre.jar",
     "modId": "ae2stuff",
-    "version": "0.10.3-GTNH-pre"
+    "version": "0.10.3-GTNH-pre",
+    "curseForgeHash": 95633386,
+    "modrinthHash": "47e351cae222e67a1ec3ead605e416b3376dc5f0"
   },
   "AgriCraft-1.7.10-1.5.0.jar": {
     "jarName": "AgriCraft-1.7.10-1.5.0.jar",
     "modId": "AgriCraft",
-    "version": "1.5.0"
+    "version": "1.5.0",
+    "curseForgeHash": 3166491082,
+    "modrinthHash": "cdc3f95c7a0ad28938c3b51a4c8826852818e095"
   },
   "amazingtrophies-1.4.0.jar": {
     "jarName": "amazingtrophies-1.4.0.jar",
     "modId": "amazingtrophies",
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "curseForgeHash": 834855650,
+    "modrinthHash": "09bd87808d7a5d369e68dec3899dbcc3da7c264e"
   },
   "angelica-1.0.0-beta78-pre.jar": {
     "jarName": "angelica-1.0.0-beta78-pre.jar",
     "modId": "angelica",
-    "version": "1.0.0-beta78-pre"
+    "version": "1.0.0-beta78-pre",
+    "curseForgeHash": 2717992899,
+    "modrinthHash": "9c9ab16b3da0169316e7b533bbd7175fe155d557"
+  },
+  "antiqueatlas-1.7.10-4.4.4.jar": {
+    "jarName": "antiqueatlas-1.7.10-4.4.4.jar",
+    "modId": "antiqueatlas",
+    "version": "4.4.4",
+    "curseForgeHash": 2222662937,
+    "modrinthHash": "43ac5b41bc0ef06f8f8e20c957169584d4f45e6c"
+  },
+  "AntiqueAtlasOverlay-1.7.10-1.2.jar": {
+    "jarName": "AntiqueAtlasOverlay-1.7.10-1.2.jar",
+    "modId": "AntiqueAtlasOverlay",
+    "version": "1.2",
+    "curseForgeHash": 646065803,
+    "modrinthHash": "79e11c64ccf9f0a15ba596339941580e638891c4"
   },
   "AppleCore-3.3.8.jar": {
     "jarName": "AppleCore-3.3.8.jar",
     "modId": "AppleCore",
-    "version": "3.3.8"
+    "version": "3.3.8",
+    "curseForgeHash": 711728620,
+    "modrinthHash": "aaa9de07e77abf6d029e57e23a4d6958068339f4"
   },
   "appliedenergistics2-rv3-beta-753-GTNH-pre.jar": {
     "jarName": "appliedenergistics2-rv3-beta-753-GTNH-pre.jar",
     "modId": "appliedenergistics2",
-    "version": "rv3-beta-753-GTNH-pre"
+    "version": "rv3-beta-753-GTNH-pre",
+    "curseForgeHash": 1652907760,
+    "modrinthHash": "c72b4b68530f982532219cad5968c108c415b7d8"
   },
   "archaicfix-0.7.6.jar": {
     "jarName": "archaicfix-0.7.6.jar",
     "modId": "archaicfix",
-    "version": "0.7.6"
+    "version": "0.7.6",
+    "curseForgeHash": 1670396781,
+    "modrinthHash": "b584eb7dc97e5a2d53445f84a15b1b1b255d108d"
   },
   "ArchitectureCraft-1.12.2-pre.jar": {
     "jarName": "ArchitectureCraft-1.12.2-pre.jar",
     "modId": "ArchitectureCraft",
-    "version": "1.12.2-pre"
+    "version": "1.12.2-pre",
+    "curseForgeHash": 101234479,
+    "modrinthHash": "528432c85c1967cc1adbc98c8a1ef4de270a2622"
   },
   "AsieLib-0.7.0.jar": {
     "jarName": "AsieLib-0.7.0.jar",
     "modId": "asielib",
-    "version": "0.7.0"
+    "version": "0.7.0",
+    "curseForgeHash": 2198578734,
+    "modrinthHash": "b12947d00781147c7edeab3e863b995acab3ac33"
   },
   "backhand-1.7.5.jar": {
     "jarName": "backhand-1.7.5.jar",
     "modId": "backhand",
-    "version": "1.7.5"
+    "version": "1.7.5",
+    "curseForgeHash": 46318900,
+    "modrinthHash": "8f8d52ce36830d1b8e469bb0ff63567e08b44ede"
   },
   "Baubles-1.0.4.jar": {
     "jarName": "Baubles-1.0.4.jar",
     "modId": "Baubles",
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "curseForgeHash": 1604358451,
+    "modrinthHash": "858dc92bb73f7af5c4da51ecd7dff8ae09f50982"
   },
   "bdlib-1.11.0-GTNH.jar": {
     "jarName": "bdlib-1.11.0-GTNH.jar",
     "modId": "bdlib",
-    "version": "1.11.0-GTNH"
+    "version": "1.11.0-GTNH",
+    "curseForgeHash": 626724036,
+    "modrinthHash": "cb33b381109b16dfb22707b1256ba3cf31979606"
+  },
+  "Better HUD by NukeDuck [1.7.10][1.3.5].jar": {
+    "jarName": "Better HUD by NukeDuck [1.7.10][1.3.5].jar",
+    "modId": "hud",
+    "version": "1.3.5",
+    "curseForgeHash": 4261456233,
+    "modrinthHash": "539ce46558d79394ea8e80167a3aa2882402af57"
   },
   "BetterAchievements-0.3.0.jar": {
     "jarName": "BetterAchievements-0.3.0.jar",
     "modId": "BetterAchievements",
-    "version": "0.3.0"
-  },
-  "BetterBoat-1.7.10-1.1.0.jar": {
-    "jarName": "BetterBoat-1.7.10-1.1.0.jar",
-    "modId": "betterboat",
-    "version": "1.7.10-1.1.0"
+    "version": "0.3.0",
+    "curseForgeHash": 365561213,
+    "modrinthHash": "1ed92b934fe46e55fc57027a5bb9895b02309a4b"
   },
   "BetterBuildersWands-0.13.5-GTNH-pre.jar": {
     "jarName": "BetterBuildersWands-0.13.5-GTNH-pre.jar",
     "modId": "betterbuilderswands",
-    "version": "0.13.5-GTNH-pre"
+    "version": "0.13.5-GTNH-pre",
+    "curseForgeHash": 3760237364,
+    "modrinthHash": "40318011f79cc2276ff4c2093c31cda13cfe5026"
+  },
+  "BetterBurning-1.7.10-0.4.2.jar": {
+    "jarName": "BetterBurning-1.7.10-0.4.2.jar",
+    "modId": "betterburning",
+    "version": "${version}",
+    "curseForgeHash": 1116729292,
+    "modrinthHash": "a46bf1e96a186dd3456b2088d4403e1618f0040a"
   },
   "betterloadingscreen-1.7.2-GTNH.jar": {
     "jarName": "betterloadingscreen-1.7.2-GTNH.jar",
     "modId": "betterloadingscreen",
-    "version": "1.7.2-GTNH"
+    "version": "1.7.2-GTNH",
+    "curseForgeHash": 3349456968,
+    "modrinthHash": "83531dd2a579c6af507e554882df49c4bc8123b1"
   },
   "betterp2p-1.4.3.jar": {
     "jarName": "betterp2p-1.4.3.jar",
     "modId": "betterp2p",
-    "version": "1.4.3"
+    "version": "1.4.3",
+    "curseForgeHash": 3409095139,
+    "modrinthHash": "8a2e779735b3f3a718e7cb29c88c000e8849829e"
   },
   "BetterPingDisplay-1.7.10-1.0.jar": {
     "jarName": "BetterPingDisplay-1.7.10-1.0.jar",
     "modId": "BetterPing",
-    "version": "1.7.10-1.0"
+    "version": "1.7.10-1.0",
+    "curseForgeHash": 1281119176,
+    "modrinthHash": "06369ef456eecced08b2651ce95c88b7fa8bd299"
   },
   "betterplacement-1.0.1.jar": {
     "jarName": "betterplacement-1.0.1.jar",
     "modId": "betterplacement",
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "curseForgeHash": 245459295,
+    "modrinthHash": "a5124131651148b66ac281aa7eab36720e2d05eb"
   },
   "BetterQuesting-3.8.15-GTNH-pre.jar": {
     "jarName": "BetterQuesting-3.8.15-GTNH-pre.jar",
     "modId": "betterquesting",
-    "version": "3.8.15-GTNH-pre"
+    "version": "3.8.15-GTNH-pre",
+    "curseForgeHash": 3957441709,
+    "modrinthHash": "7edfdc1ae806484443dd992982769e6d86f1a4b2"
   },
   "BiblioCraftv1.11.7MC1.7.10.jar": {
     "jarName": "BiblioCraftv1.11.7MC1.7.10.jar",
     "modId": "BiblioCraft",
-    "version": "1.11.7"
+    "version": "1.11.7",
+    "curseForgeHash": 1490725299,
+    "modrinthHash": "fb8af3a336e72c4268ef849f38a39b70771be8f3"
+  },
+  "Blur-MC1.7.10-1.0.1-2.jar": {
+    "jarName": "Blur-MC1.7.10-1.0.1-2.jar",
+    "modId": "blur",
+    "version": "MC1.7.10-1.0.1-2",
+    "curseForgeHash": 2478416894,
+    "modrinthHash": "a13f8d0b8aa5543c74a5740117b7a5375def83dc"
   },
   "bobfluidtranslator-1.0.5.jar": {
     "jarName": "bobfluidtranslator-1.0.5.jar",
     "modId": "examplemod",
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "curseForgeHash": 266759872,
+    "modrinthHash": "c3aa83402d42ad6ea19660b61d2b2996bdc240b3"
   },
   "bogosorter-1.3.12-GTNH-pre.jar": {
     "jarName": "bogosorter-1.3.12-GTNH-pre.jar",
     "modId": "bogosorter",
-    "version": "1.3.12-GTNH-pre"
+    "version": "1.3.12-GTNH-pre",
+    "curseForgeHash": 3058325169,
+    "modrinthHash": "1c46f5a551c4a5150cd8325e43786dd3f5f74b49"
   },
   "Bookshelf-1.7.10-1.0.4.187.jar": {
     "jarName": "Bookshelf-1.7.10-1.0.4.187.jar",
     "modId": "bookshelf",
-    "version": "1.7.10-1.0.4.187"
+    "version": "1.7.10-1.0.4.187",
+    "curseForgeHash": 3993822844,
+    "modrinthHash": "7350f513ff0a4e2fb855dcfbac1df6c17f0af401"
   },
   "buddingpolar-v1.0.6-1.7.10.jar": {
     "jarName": "buddingpolar-v1.0.6-1.7.10.jar",
     "modId": "buddingpolar",
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "curseForgeHash": 2176832990,
+    "modrinthHash": "4a95297281d86619efac3ae17f1f5a329a4e071b"
+  },
+  "BugTorched-1.7.10-1.2.14.jar": {
+    "jarName": "BugTorched-1.7.10-1.2.14.jar",
+    "modId": "bugtorch",
+    "version": "1.2.14",
+    "curseForgeHash": 3190399779,
+    "modrinthHash": "af7335bf296b80ec018080078e1c050f56db1013"
   },
   "campfirebackport-1.7.10-1.11.3.jar": {
     "jarName": "campfirebackport-1.7.10-1.11.3.jar",
     "modId": "campfirebackport",
-    "version": "1.7.10-1.11.3"
+    "version": "1.7.10-1.11.3",
+    "curseForgeHash": 3476460514,
+    "modrinthHash": "532946afac8863c5d3d3161a80ede9214decbdac"
   },
   "CarbonConfig-1.7.10-1.2.4.jar": {
     "jarName": "CarbonConfig-1.7.10-1.2.4.jar",
     "modId": "carbonconfig",
-    "version": "${version}"
+    "version": "${version}",
+    "curseForgeHash": 2533451633,
+    "modrinthHash": "315180003b92633b095b317da58c75ea597abf34"
   },
   "CarpentersBlocks-3.7.0-GTNH.jar": {
     "jarName": "CarpentersBlocks-3.7.0-GTNH.jar",
     "modId": "CarpentersBlocks",
-    "version": "3.7.0-GTNH"
+    "version": "3.7.0-GTNH",
+    "curseForgeHash": 3722452099,
+    "modrinthHash": "4f112737b1baa05e087bd26a633337fd3e49944b"
   },
   "chisel-2.17.8-GTNH-pre.jar": {
     "jarName": "chisel-2.17.8-GTNH-pre.jar",
     "modId": "chisel",
-    "version": "2.17.8-GTNH-pre"
+    "version": "2.17.8-GTNH-pre",
+    "curseForgeHash": 68472793,
+    "modrinthHash": "1525a812eabed984944fe1f1c00a6921e39b60b6"
   },
   "Chunk-Pregenerator-1.7.10-4.4.9.jar": {
     "jarName": "Chunk-Pregenerator-1.7.10-4.4.9.jar",
     "modId": "chunkpregenerator",
-    "version": "1.7.10-4.4.9"
+    "version": "1.7.10-4.4.9",
+    "curseForgeHash": 2866990690,
+    "modrinthHash": "1b7df3c0559596c68caad21e457c55e44119997a"
   },
   "CleanView-1.7.10-v2.jar": {
     "jarName": "CleanView-1.7.10-v2.jar",
     "modId": "CleanView",
-    "version": "1.7.10-v2"
+    "version": "1.7.10-v2",
+    "curseForgeHash": 2652508117,
+    "modrinthHash": "d96931bafa4a1148fd341f34abe67c479e2c163d"
   },
   "ClientFixer-1.0.jar": {
-    "jarName": "ClientFixer-1.0.jar"
+    "jarName": "ClientFixer-1.0.jar",
+    "curseForgeHash": 956070403,
+    "modrinthHash": "4ffc7464d58eb140045b3e7a4e3e0e0eb66a588b"
   },
   "CodeChickenCore-1.4.10.jar": {
     "jarName": "CodeChickenCore-1.4.10.jar",
     "modId": "CodeChickenCore",
-    "version": "1.4.10"
+    "version": "1.4.10",
+    "curseForgeHash": 3667366388,
+    "modrinthHash": "133e5c7b1c9bf410b8ebfed664d5769e9d946d93"
   },
   "CoFHCore-[1.7.10]3.1.4-329.jar": {
     "jarName": "CoFHCore-[1.7.10]3.1.4-329.jar",
     "modId": "CoFHCore",
-    "version": "3.1.4"
+    "version": "3.1.4",
+    "curseForgeHash": 355283960,
+    "modrinthHash": "b7d66be19a6898232f5498a50ac0207109a3b2e6"
   },
   "colorhearts-1.0.0.jar": {
     "jarName": "colorhearts-1.0.0.jar",
     "modId": "colorhearts",
-    "version": "NO-GIT-TAG-SET"
+    "version": "NO-GIT-TAG-SET",
+    "curseForgeHash": 1079656072,
+    "modrinthHash": "0934abe00502e8a0fa8b2525edd372c0cff023dc"
   },
   "CompatibilityLayerForCustomSkinLoader-ALPHA-11.jar": {
     "jarName": "CompatibilityLayerForCustomSkinLoader-ALPHA-11.jar",
     "modId": "CompatibilityLayerForCustomSkinLoader",
-    "version": "ALPHA-11"
+    "version": "ALPHA-11",
+    "curseForgeHash": 1095533313,
+    "modrinthHash": "71545ac3f357e9c5642a3294316412eb62e66ea1"
   },
   "Computronics-1.9.3-GTNH.jar": {
     "jarName": "Computronics-1.9.3-GTNH.jar",
     "modId": "computronics",
-    "version": "1.9.3-GTNH"
+    "version": "1.9.3-GTNH",
+    "curseForgeHash": 2755765976,
+    "modrinthHash": "86cb62a63e16804ada8981a2a0eb1ee2046cfbde"
   },
   "controlling-2.1.2.jar": {
     "jarName": "controlling-2.1.2.jar",
     "modId": "controlling",
-    "version": "2.1.2"
+    "version": "2.1.2",
+    "curseForgeHash": 205716427,
+    "modrinthHash": "c4e038de0fb2406c07b3c30e9cdb3131ae29e8b1"
   },
   "CookingForBlockheads-1.4.4-GTNH.jar": {
     "jarName": "CookingForBlockheads-1.4.4-GTNH.jar",
     "modId": "cookingforblockheads",
-    "version": "1.4.4-GTNH"
+    "version": "1.4.4-GTNH",
+    "curseForgeHash": 779830017,
+    "modrinthHash": "fc986c3a237ec40259563e1aa6968d4db1329524"
   },
   "coretweaks-0.3.3.6-GTNH.jar": {
     "jarName": "coretweaks-0.3.3.6-GTNH.jar",
     "modId": "coretweaks",
-    "version": "0.3.3.6-GTNH"
+    "version": "0.3.3.6-GTNH",
+    "curseForgeHash": 3558252078,
+    "modrinthHash": "2e018aff37cd59182916f7e5d08e8411d316ad78"
   },
   "coroutil-1.7.10-1.1.6.jar": {
     "jarName": "coroutil-1.7.10-1.1.6.jar",
     "modId": "coroutil",
-    "version": "1.1.6"
+    "version": "1.1.6",
+    "curseForgeHash": 3961648605,
+    "modrinthHash": "8f1de498a4bf1b3650bef394209be17648dc1909"
   },
   "CraftPresence-2.5.5+1.7.10-forge.jar": {
     "jarName": "CraftPresence-2.5.5+1.7.10-forge.jar",
     "modId": "craftpresence",
-    "version": "2.5.5"
+    "version": "2.5.5",
+    "curseForgeHash": 2140890636,
+    "modrinthHash": "3444f5692d5a0e9c9c6ea15c85677eaed2e895cd"
   },
   "CraftTweaker-1.7.10-3.1.0-legacy.jar": {
     "jarName": "CraftTweaker-1.7.10-3.1.0-legacy.jar",
     "modId": "MineTweaker3",
-    "version": "1.7.10-3.1.0"
+    "version": "1.7.10-3.1.0",
+    "curseForgeHash": 651322123,
+    "modrinthHash": "ecd735d334578d127b75fc4a680a2a8043e0f5d5"
   },
   "custommainmenu-1.13.0.jar": {
     "jarName": "custommainmenu-1.13.0.jar",
     "modId": "custommainmenu",
-    "version": "1.13.0"
+    "version": "1.13.0",
+    "curseForgeHash": 1997952695,
+    "modrinthHash": "d66a226ccaab4d5c897e5e9698a18ab20d4f9b53"
   },
   "CustomSkinLoader_ForgeV1-14.24.jar": {
     "jarName": "CustomSkinLoader_ForgeV1-14.24.jar",
     "modId": "customskinloader",
-    "version": "14.24"
+    "version": "14.24",
+    "curseForgeHash": 3607018684,
+    "modrinthHash": "8c1f19d59a3bf8f3380f3d29c4b04d3187784b67"
   },
   "darkerer-1.0.6.jar": {
     "jarName": "darkerer-1.0.6.jar",
     "modId": "darkerer",
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "curseForgeHash": 2595207782,
+    "modrinthHash": "20aa2116db5689d51bfee0cbd5e715b8a2d41beb"
   },
   "Decocraft-2.4.2_1.7.10.jar": {
     "jarName": "Decocraft-2.4.2_1.7.10.jar",
     "modId": "props",
-    "version": "2.4.2_1.7.10"
+    "version": "2.4.2_1.7.10",
+    "curseForgeHash": 3988256274,
+    "modrinthHash": "c938c6ed83627ef2160bc77b94a766e3d570e077"
   },
   "DMod-1.7.10-1.0.3.5+nomixin.jar": {
     "jarName": "DMod-1.7.10-1.0.3.5+nomixin.jar",
     "modId": "dmod",
-    "version": "1.0.3.5+nomixin"
+    "version": "1.0.3.5+nomixin",
+    "curseForgeHash": 4166886596,
+    "modrinthHash": "a8305df29a8ff32831df400f3956f2e3ef963090"
   },
   "duradisplay-1.4.0.jar": {
     "jarName": "duradisplay-1.4.0.jar",
     "modId": "duradisplay",
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "curseForgeHash": 2663088977,
+    "modrinthHash": "ad7fc17fa13207dfcf7f69d0849fbc0ab02d36fc"
+  },
+  "DWA_a2.jar": {
+    "jarName": "DWA_a2.jar",
+    "modId": "examplemod",
+    "version": "1.0",
+    "curseForgeHash": 3610995255,
+    "modrinthHash": "112308142e58e35735ac16498d78d24dcfb1dc4e"
   },
   "DynamicSurroundings-1.7.10-1.0.6.4.jar": {
     "jarName": "DynamicSurroundings-1.7.10-1.0.6.4.jar",
     "modId": "dsurround",
-    "version": "1.0.6.4"
+    "version": "1.0.6.4",
+    "curseForgeHash": 517962785,
+    "modrinthHash": "d13cecb71e734dee6c0f92f5814c24bd92d0b2d9"
   },
   "Emotes 1.0.1.jar": {
     "jarName": "Emotes 1.0.1.jar",
     "modId": "Emotes",
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "curseForgeHash": 2273791023,
+    "modrinthHash": "0cca444ea6455d224af84b96b62eeeae18302bcf"
   },
   "EnderCore-1.7.10-0.2.0.40_beta.jar": {
     "jarName": "EnderCore-1.7.10-0.2.0.40_beta.jar",
     "modId": "endercore",
-    "version": "1.7.10-0.2.0.40_beta"
+    "version": "1.7.10-0.2.0.40_beta",
+    "curseForgeHash": 3461046863,
+    "modrinthHash": "f8fd9953d5dacc7ec684221157e8a4066d1960af"
   },
   "EnderZoo-1.3.3.jar": {
     "jarName": "EnderZoo-1.3.3.jar",
     "modId": "EnderZoo",
-    "version": "1.3.3"
+    "version": "1.3.3",
+    "curseForgeHash": 1783143454,
+    "modrinthHash": "2638c4be57965ff196aae1ea84b0400d5b2ec722"
   },
   "EnhancedLootBags-1.2.9-pre.jar": {
     "jarName": "EnhancedLootBags-1.2.9-pre.jar",
     "modId": "enhancedlootbags",
-    "version": "1.2.9-pre"
+    "version": "1.2.9-pre",
+    "curseForgeHash": 1906134884,
+    "modrinthHash": "2e0c7faf8263fb1d6f70e19a01898574a149cd12"
   },
   "etfuturum-2.6.2.19-GTNH-daily.jar": {
     "jarName": "etfuturum-2.6.2.19-GTNH-daily.jar",
     "modId": "etfuturum",
-    "version": "2.6.2.19-GTNH-daily"
+    "version": "2.6.2.19-GTNH-daily",
+    "curseForgeHash": 4142264770,
+    "modrinthHash": "fe46e6bda4aa55587e0f80245c2ed10c42ea9b40"
   },
   "FastLeafDecay-1.7.10-1.4.jar": {
     "jarName": "FastLeafDecay-1.7.10-1.4.jar",
     "modId": "fastleafdecay",
-    "version": "1.7.10-1.4"
+    "version": "1.7.10-1.4",
+    "curseForgeHash": 2343781462,
+    "modrinthHash": "d82f7a1f7573f35a4f1dace410a7fbb88bb4b522"
   },
   "findit-1.4.0.jar": {
     "jarName": "findit-1.4.0.jar",
     "modId": "findit",
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "curseForgeHash": 2431744736,
+    "modrinthHash": "85c448411df2c40867ea5575c78e77534817e1ae"
   },
   "forgeessentials-1.7.10-7.5.1-client.jar": {
     "jarName": "forgeessentials-1.7.10-7.5.1-client.jar",
     "modId": "ForgeEssentialsClient",
-    "version": "7.5.1"
+    "version": "7.5.1",
+    "curseForgeHash": 3748652045,
+    "modrinthHash": "17fa5e5e8888eeb47fd92a88047b597a5c23cb72"
   },
   "forgelin-2.0.3-GTNH.jar": {
     "jarName": "forgelin-2.0.3-GTNH.jar",
     "modId": "forgelin",
-    "version": "2.0.3-GTNH"
+    "version": "2.0.3-GTNH",
+    "curseForgeHash": 336065931,
+    "modrinthHash": "e6e1863c3eecb644a3f778717240148be13215a9"
   },
   "ForgeMultipart-1.7.2.jar": {
     "jarName": "ForgeMultipart-1.7.2.jar",
     "modId": "ForgeMultipart",
-    "version": "1.7.2"
+    "version": "1.7.2",
+    "curseForgeHash": 3425765507,
+    "modrinthHash": "2e08ecda29527705a1c280e9eb723c2f765bdeb0"
   },
   "ForgeRelocation-0.3.4.jar": {
     "jarName": "ForgeRelocation-0.3.4.jar",
     "modId": "ForgeRelocation",
-    "version": "0.3.4"
+    "version": "0.3.4",
+    "curseForgeHash": 3450889517,
+    "modrinthHash": "70d0885fda72ae609177718b010ab190d9ac4556"
+  },
+  "glassbreaker-1.0.0.jar": {
+    "jarName": "glassbreaker-1.0.0.jar",
+    "modId": "glassbreaker",
+    "version": "1.0.0",
+    "curseForgeHash": 4113011018,
+    "modrinthHash": "96dad497efb1fe0684e24eb142461eb9a42aa14e"
   },
   "GlibysVC-1.7.10-0.6.2a.jar": {
     "jarName": "GlibysVC-1.7.10-0.6.2a.jar",
     "modId": "gvc",
-    "version": "0.6.1"
+    "version": "0.6.1",
+    "curseForgeHash": 3983061592,
+    "modrinthHash": "1ef019fabf9f61c5f66884b0827394f7d7a9f01f"
   },
   "GravityGun-4.0.0-beta.jar": {
-    "jarName": "GravityGun-4.0.0-beta.jar"
+    "jarName": "GravityGun-4.0.0-beta.jar",
+    "curseForgeHash": 2644138008,
+    "modrinthHash": "24fa4ef1c8960ea198f55f60aef4de4c2ee0fd28"
   },
   "gtnhlib-0.8.37-pre.jar": {
     "jarName": "gtnhlib-0.8.37-pre.jar",
     "modId": "gtnhlib",
-    "version": "0.8.37-pre"
+    "version": "0.8.37-pre",
+    "curseForgeHash": 3425521750,
+    "modrinthHash": "14d24d76facd66d817de3405a1008e429ba8875c"
   },
   "HardcoreEnderExpansion-1.12.16-GTNH.jar": {
     "jarName": "HardcoreEnderExpansion-1.12.16-GTNH.jar",
     "modId": "HardcoreEnderExpansion",
-    "version": "1.12.16-GTNH"
+    "version": "1.12.16-GTNH",
+    "curseForgeHash": 2840679289,
+    "modrinthHash": "209615577e14b521555a80fb6237de29b3afc9ec"
   },
   "HBM-NTM-[1.0.27_X5549_NTNH].jar": {
     "jarName": "HBM-NTM-[1.0.27_X5549_NTNH].jar",
     "modId": "hbm",
-    "version": "1.0.27_X5549_NTNH"
+    "version": "1.0.27_X5549_NTNH",
+    "curseForgeHash": 2406580877,
+    "modrinthHash": "8cd860889484211e81cecde18801a73873a343d0"
   },
   "HelpFixer-1.3.0.jar": {
     "jarName": "HelpFixer-1.3.0.jar",
     "modId": "HelpFixer",
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "curseForgeHash": 48030186,
+    "modrinthHash": "e81916556f5ce25512ef07af230bdad34788f92f"
+  },
+  "hextext-1.2.jar": {
+    "jarName": "hextext-1.2.jar",
+    "modId": "hextext",
+    "version": "1.2",
+    "curseForgeHash": 3744286097,
+    "modrinthHash": "2f758096d58b72c018f22e54cadf8e43a77f7a26"
   },
   "HungerOverhaul-1.1.0-GTNH.jar": {
     "jarName": "HungerOverhaul-1.1.0-GTNH.jar",
     "modId": "HungerOverhaul",
-    "version": "1.1.0-GTNH"
+    "version": "1.1.0-GTNH",
+    "curseForgeHash": 1637256943,
+    "modrinthHash": "4004ae73afbd1df1f3c86a25fbf5d02b44669e45"
   },
   "iChunUtil-4.2.3.jar": {
     "jarName": "iChunUtil-4.2.3.jar",
     "modId": "iChunUtil",
-    "version": "4.2.3"
+    "version": "4.2.3",
+    "curseForgeHash": 2759445052,
+    "modrinthHash": "b46c0d444f0d61e3c3e98626e49ec834993c8417"
   },
   "immersivecavegen-1.2g-hotfix5.jar": {
     "jarName": "immersivecavegen-1.2g-hotfix5.jar",
     "modId": "immersivecavegen",
-    "version": "1.2g-hotfix5"
+    "version": "1.2g-hotfix5",
+    "curseForgeHash": 601264164,
+    "modrinthHash": "28c218d8ec82303ca36c55e083636dd3dc3959b0"
   },
   "InGameInfoXML-2.9.0.jar": {
     "jarName": "InGameInfoXML-2.9.0.jar",
     "modId": "InGameInfoXML",
-    "version": "2.9.0"
+    "version": "2.9.0",
+    "curseForgeHash": 2272344116,
+    "modrinthHash": "50c93ff7af73e7d27f95fdc9635a84beb85dc3fd"
   },
   "IronChest-6.1.6.jar": {
     "jarName": "IronChest-6.1.6.jar",
     "modId": "IronChest",
-    "version": "6.1.6"
+    "version": "6.1.6",
+    "curseForgeHash": 912269860,
+    "modrinthHash": "6dbeaaa441aecce266f0427a5b2e653706440c7e"
+  },
+  "itemphysic-1.3.0.jar": {
+    "jarName": "itemphysic-1.3.0.jar",
+    "modId": "itemphysic",
+    "version": "1.3.0",
+    "curseForgeHash": 3370546211,
+    "modrinthHash": "dca2421567ed74d7ab8a33d81bada0157c713a2a"
   },
   "itlt-1.7.10-1.0.4.jar": {
     "jarName": "itlt-1.7.10-1.0.4.jar",
     "modId": "itlt",
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "curseForgeHash": 711651012,
+    "modrinthHash": "43b4c3a7294984a8e60cc79a63ef677fe9d8d45a"
   },
   "jaad-0.8.5.jar": {
-    "jarName": "jaad-0.8.5.jar"
+    "jarName": "jaad-0.8.5.jar",
+    "curseForgeHash": 3950939787,
+    "modrinthHash": "8f2771dacc360fe682527ecb1279b88d992ec3bd"
   },
   "JustEnoughCalculation-1.7.10-4.9.jar": {
     "jarName": "JustEnoughCalculation-1.7.10-4.9.jar",
     "modId": "jecalculation",
-    "version": "1.7.10-4.9"
+    "version": "1.7.10-4.9",
+    "curseForgeHash": 1760230923,
+    "modrinthHash": "5dd9eeecde5acdd57fc6064162dfcd87c9954604"
+  },
+  "KeyboardWizard-Legacy-Forge-1.7.10-1.0.0.jar": {
+    "jarName": "KeyboardWizard-Legacy-Forge-1.7.10-1.0.0.jar",
+    "modId": "keywizard",
+    "version": "1.0.0",
+    "curseForgeHash": 861244293,
+    "modrinthHash": "41aac895c0931b8636a4c0c65b1346ced022afb6"
   },
   "LunatriusCore-1.2.1-GTNH.jar": {
     "jarName": "LunatriusCore-1.2.1-GTNH.jar",
     "modId": "LunatriusCore",
-    "version": "1.2.1-GTNH"
+    "version": "1.2.1-GTNH",
+    "curseForgeHash": 3266749524,
+    "modrinthHash": "f53cf96945c881a5039b074fabdc91ad5050c7a4"
   },
   "Mantle-0.5.1.jar": {
     "jarName": "Mantle-0.5.1.jar",
     "modId": "Mantle",
-    "version": "0.5.1"
+    "version": "0.5.1",
+    "curseForgeHash": 1101718929,
+    "modrinthHash": "2934f3acf59fcd660f68eed1ec675ff06111cc4b"
   },
   "matter-manipulator-0.1.4-GTNH.jar": {
     "jarName": "matter-manipulator-0.1.4-GTNH.jar",
     "modId": "matter-manipulator",
-    "version": "0.1.4-GTNH"
+    "version": "0.1.4-GTNH",
+    "curseForgeHash": 4252877515,
+    "modrinthHash": "20b4737b19fd54ddbb5725b6a6e92b1c188d12f9"
   },
   "MineTweakerRecipeMaker-1.7.10-1.1.1.jar": {
     "jarName": "MineTweakerRecipeMaker-1.7.10-1.1.1.jar",
     "modId": "MineTweakerRecipeMaker",
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "curseForgeHash": 262163581,
+    "modrinthHash": "9bc031c0b0db065651744f23df48f766743892ba"
   },
   "mobsinfo-0.5.8-GTNH.jar": {
     "jarName": "mobsinfo-0.5.8-GTNH.jar",
     "modId": "mobsinfo",
-    "version": "0.5.8-GTNH"
+    "version": "0.5.8-GTNH",
+    "curseForgeHash": 1326130253,
+    "modrinthHash": "f2f9af6cd8c8c4286eba0e71b1df04bb054384a7"
+  },
+  "ModernKeyBinding-Forge-1.7.10-2.1.0.jar": {
+    "jarName": "ModernKeyBinding-Forge-1.7.10-2.1.0.jar",
+    "modId": "mkb",
+    "version": "2.1.0",
+    "curseForgeHash": 1656615434,
+    "modrinthHash": "3187a0e41767890af62e1cb78646f16de6057c79"
   },
   "modernmarkings-0.3.12-1.7.10.jar": {
     "jarName": "modernmarkings-0.3.12-1.7.10.jar",
     "modId": "modernmarkings",
-    "version": "0.3.12-1.7.10"
+    "version": "0.3.12-1.7.10",
+    "curseForgeHash": 3271670243,
+    "modrinthHash": "61fa785651c0bee8fd7e032e0f389edaa13a1c0a"
   },
   "Modpack Configuration Checker-1.7.10-v1.5.3.jar": {
     "jarName": "Modpack Configuration Checker-1.7.10-v1.5.3.jar",
     "modId": "concheckrmd",
-    "version": "1.5.3"
+    "version": "1.5.3",
+    "curseForgeHash": 125305143,
+    "modrinthHash": "53583f6e09c30d81cce71083c09f27f86676da8f"
   },
   "ModTweaker2-0.12.0.jar": {
     "jarName": "ModTweaker2-0.12.0.jar",
     "modId": "modtweaker2",
-    "version": "0.12.0"
+    "version": "0.12.0",
+    "curseForgeHash": 2026527858,
+    "modrinthHash": "3c8b52d9d781561f7eaeef5a8e7530580545e63a"
   },
   "modularui-1.3.1.jar": {
     "jarName": "modularui-1.3.1.jar",
     "modId": "modularui",
-    "version": "1.3.1"
+    "version": "1.3.1",
+    "curseForgeHash": 1468944085,
+    "modrinthHash": "94fc8327b5a1c3585077e61646960718351705dd"
   },
   "modularui2-2.3.21-1.7.10.jar": {
     "jarName": "modularui2-2.3.21-1.7.10.jar",
     "modId": "modularui2",
-    "version": "2.3.21-1.7.10"
+    "version": "2.3.21-1.7.10",
+    "curseForgeHash": 1521474535,
+    "modrinthHash": "abc0b7ac1bb93cf2c9be4795907d3a94a89c7981"
   },
   "mp3spi-1.9.5-1.jar": {
-    "jarName": "mp3spi-1.9.5-1.jar"
+    "jarName": "mp3spi-1.9.5-1.jar",
+    "curseForgeHash": 2618895256,
+    "modrinthHash": "33e6c31cb402a71e55ff2669bb0c09ca8e87e660"
   },
   "MrCrayfishFurnitureModv3.4.7(1.7.10).jar": {
     "jarName": "MrCrayfishFurnitureModv3.4.7(1.7.10).jar",
     "modId": "cfm",
-    "version": "�83.4.7"
+    "version": "�83.4.7",
+    "curseForgeHash": 936719147,
+    "modrinthHash": "3dcfe1321c091e0cb93103e46d19b994df49c1f8"
   },
   "MrTJPCore-1.3.4.jar": {
     "jarName": "MrTJPCore-1.3.4.jar",
     "modId": "MrTJPCoreMod",
-    "version": "1.3.4"
+    "version": "1.3.4",
+    "curseForgeHash": 2422868655,
+    "modrinthHash": "d6f543a08edb3cb035ea8ed1d33795b1c84957b2"
   },
   "naturescompass-1.5.0-GTNH.jar": {
     "jarName": "naturescompass-1.5.0-GTNH.jar",
     "modId": "naturescompass",
-    "version": "1.5.0-GTNH"
+    "version": "1.5.0-GTNH",
+    "curseForgeHash": 2979278393,
+    "modrinthHash": "04dff3083c1ab25cfa54143ca7ff8e449a12f91d"
   },
   "navigator-1.0.17.jar": {
     "jarName": "navigator-1.0.17.jar",
     "modId": "navigator",
-    "version": "1.0.17"
+    "version": "1.0.17",
+    "curseForgeHash": 2314419116,
+    "modrinthHash": "cf8fa0a428887aa35d5f67b7bd7d586ecbd073f4"
   },
   "NEIAddons-1.17.0.jar": {
     "jarName": "NEIAddons-1.17.0.jar",
     "modId": "NEIAddons",
-    "version": "1.17.0"
+    "version": "1.17.0",
+    "curseForgeHash": 1172672442,
+    "modrinthHash": "9f1eaf9f5b7198c5c39bb25de02a2f6886911330"
   },
   "NEIIntegration-1.5.0.jar": {
     "jarName": "NEIIntegration-1.5.0.jar",
     "modId": "neiintegration",
-    "version": "1.5.0"
+    "version": "1.5.0",
+    "curseForgeHash": 1193430580,
+    "modrinthHash": "aba7f1ede2b421e8f9bd0090fd01b22c01b92b48"
   },
   "netherlicious-3.2.8.jar": {
     "jarName": "netherlicious-3.2.8.jar",
     "modId": "netherlicious",
-    "version": "3.2.8"
+    "version": "3.2.8",
+    "curseForgeHash": 2644414345,
+    "modrinthHash": "94b167c17730c244f95cd1602e3e16d6e70d6678"
   },
   "netherportalfix-1.4.0.jar": {
     "jarName": "netherportalfix-1.4.0.jar",
     "modId": "netherportalfix",
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "curseForgeHash": 3361309854,
+    "modrinthHash": "b61feaf0928cae8d89d422324710818952b748e7"
+  },
+  "neverenoughanimations-v1.0.6-1-7-10.jar": {
+    "jarName": "neverenoughanimations-v1.0.6-1-7-10.jar",
+    "modId": "neverenoughanimations",
+    "version": "v1.0.6-1-7-10.6+d054f33a62-dirty",
+    "curseForgeHash": 727126262,
+    "modrinthHash": "4f0100933107ef438a0791a481c55ef830ac7fab"
   },
   "NoMoreRecipeConflict-0.3(1.7.10).jar": {
     "jarName": "NoMoreRecipeConflict-0.3(1.7.10).jar",
     "modId": "recipehandler",
-    "version": "0.3"
+    "version": "0.3",
+    "curseForgeHash": 1654176294,
+    "modrinthHash": "fb2936b66646761230d447c7529d8b4429736b9e"
   },
   "NotEnoughEnergistics-1.7.17-pre.jar": {
     "jarName": "NotEnoughEnergistics-1.7.17-pre.jar",
     "modId": "neenergistics",
-    "version": "1.7.17-pre"
+    "version": "1.7.17-pre",
+    "curseForgeHash": 2171313445,
+    "modrinthHash": "40ffd555e1b2c3d58f6b4e137396cda6ccfb84d2"
   },
   "NotEnoughItems-2.8.40-GTNH.jar": {
     "jarName": "NotEnoughItems-2.8.40-GTNH.jar",
     "modId": "NotEnoughItems",
-    "version": "2.8.40-GTNH"
+    "version": "2.8.40-GTNH",
+    "curseForgeHash": 3542466352,
+    "modrinthHash": "b01c74858a147344a3cf2d243a7525d506d1db04"
   },
   "NotEnoughResources-1.7.10-0.1.0-122.jar": {
     "jarName": "NotEnoughResources-1.7.10-0.1.0-122.jar",
     "modId": "neresources",
-    "version": ""
+    "version": "",
+    "curseForgeHash": 4038795344,
+    "modrinthHash": "6e6659973ad7674551d92f27d6bafea9addbbb44"
   },
   "oauth-1.3.3-GTNH.jar": {
     "jarName": "oauth-1.3.3-GTNH.jar",
     "modId": "oauth",
-    "version": "1.3.3-GTNH"
+    "version": "1.3.3-GTNH",
+    "curseForgeHash": 958611490,
+    "modrinthHash": "76f549dac29976805734dd22fcf98f42bf990b44"
   },
   "OpenBlocks-1.12.3-GTNH.jar": {
     "jarName": "OpenBlocks-1.12.3-GTNH.jar",
     "modId": "OpenBlocks",
-    "version": "1.12.3-GTNH"
+    "version": "1.12.3-GTNH",
+    "curseForgeHash": 2486388847,
+    "modrinthHash": "44ce37cfe1ec5f42a9af19cfe2ad4a62f1169e8e"
   },
   "OpenComputers-1.12.7-GTNH-pre.jar": {
     "jarName": "OpenComputers-1.12.7-GTNH-pre.jar",
     "modId": "OpenComputers",
-    "version": "1.12.7-GTNH-pre"
+    "version": "1.12.7-GTNH-pre",
+    "curseForgeHash": 3691372473,
+    "modrinthHash": "ca67d3328e1542a2ac113dc2bc1904b353adb64b"
   },
   "OpenFM-1.7.10-0.1.0-45.jar": {
     "jarName": "OpenFM-1.7.10-0.1.0-45.jar",
     "modId": "openfm",
-    "version": "0.1.0.45"
+    "version": "0.1.0.45",
+    "curseForgeHash": 596202485,
+    "modrinthHash": "c3223073a9905988a41f83c5c8e7b6ef0042163f"
   },
   "OpenGlasses-1.6.1-GTNH.jar": {
     "jarName": "OpenGlasses-1.6.1-GTNH.jar",
     "modId": "openglasses",
-    "version": "1.6.1-GTNH"
+    "version": "1.6.1-GTNH",
+    "curseForgeHash": 2007598533,
+    "modrinthHash": "d1205247b5408f025b1143055781316633d0ff8a"
   },
   "OpenModsLibs-0.10.13.jar": {
     "jarName": "OpenModsLibs-0.10.13.jar",
     "modId": "OpenMods",
-    "version": "0.10.13"
+    "version": "0.10.13",
+    "curseForgeHash": 277301674,
+    "modrinthHash": "1f0208c1c06873ffbb0196edac1d858c1d9733e5"
   },
   "openprinter-0.3.0-GTNH.jar": {
     "jarName": "openprinter-0.3.0-GTNH.jar",
     "modId": "openprinter",
-    "version": "0.3.0-GTNH"
+    "version": "0.3.0-GTNH",
+    "curseForgeHash": 745557341,
+    "modrinthHash": "0452c0db93e0a73dd12b5ed736868220ae303700"
   },
   "opensecurity-1.2.0-GTNH.jar": {
     "jarName": "opensecurity-1.2.0-GTNH.jar",
     "modId": "opensecurity",
-    "version": "1.2.0-GTNH"
+    "version": "1.2.0-GTNH",
+    "curseForgeHash": 942939799,
+    "modrinthHash": "74e6fdd5f26c6cbf594e3e9f53c57b063cc1b2c9"
   },
   "Opis-1.4.6-mapless.jar": {
     "jarName": "Opis-1.4.6-mapless.jar",
     "modId": "Opis",
-    "version": "1.4.6-mapless"
+    "version": "1.4.6-mapless",
+    "curseForgeHash": 2935625636,
+    "modrinthHash": "5ed8a095120022464dca6f3b17e551a03d93fe39"
+  },
+  "Opticubes-1.7.10-1.0.0.jar": {
+    "jarName": "Opticubes-1.7.10-1.0.0.jar",
+    "modId": "opticubes",
+    "version": "1.7.10-1.0.0",
+    "curseForgeHash": 2008662269,
+    "modrinthHash": "843a070904058071903083b70f41dd291e76e5cc"
   },
   "Pam\u0027s Harvest the Nether 1.7.10a.jar": {
     "jarName": "Pam\u0027s Harvest the Nether 1.7.10a.jar",
     "modId": "harvestthenether",
-    "version": "1.7.10a"
+    "version": "1.7.10a",
+    "curseForgeHash": 4015626988,
+    "modrinthHash": "d32d802bbaa55c11e1f06e0ea5f1994a136c9b5d"
   },
   "Pam\u0027s HarvestCraft 1.7.10Lb.jar": {
     "jarName": "Pam\u0027s HarvestCraft 1.7.10Lb.jar",
     "modId": "harvestcraft",
-    "version": "1.7.10i"
+    "version": "1.7.10i",
+    "curseForgeHash": 3218201037,
+    "modrinthHash": "5f85c3fcbf8586a438030c216c4fe37c7a6402c0"
   },
   "ProjectBlue-1.1.6-mc1.7.10.jar": {
     "jarName": "ProjectBlue-1.1.6-mc1.7.10.jar",
     "modId": "ProjectBlue",
-    "version": "1.1.6-mc1.7.10"
+    "version": "1.1.6-mc1.7.10",
+    "curseForgeHash": 2130440860,
+    "modrinthHash": "a78bc5d819040042614a9d31108d0506054c782a"
   },
   "ProjRed-4.12.10-GTNH-pre.jar": {
     "jarName": "ProjRed-4.12.10-GTNH-pre.jar",
     "modId": "ProjRed|Core",
-    "version": "4.12.10-GTNH-pre"
+    "version": "4.12.10-GTNH-pre",
+    "curseForgeHash": 800433668,
+    "modrinthHash": "e3f611f3f2745d89a3bdf65b2934de17bba200bf"
   },
   "RailsOfWar-1.7.10-5.8-RC7.jar": {
-    "jarName": "RailsOfWar-1.7.10-5.8-RC7.jar"
+    "jarName": "RailsOfWar-1.7.10-5.8-RC7.jar",
+    "curseForgeHash": 2501009277,
+    "modrinthHash": "8d2fef1834b66fe7c13d962b17cde6c531893277"
   },
   "RandomThings-2.7.1.jar": {
     "jarName": "RandomThings-2.7.1.jar",
     "modId": "RandomThings",
-    "version": "2.7.1"
+    "version": "2.7.1",
+    "curseForgeHash": 3118986025,
+    "modrinthHash": "921ac99b86d40a9b0732e47c14c0f3915673e1ac"
+  },
+  "realisticbrewingstand-1.3.0.jar": {
+    "jarName": "realisticbrewingstand-1.3.0.jar",
+    "modId": "realisticbrewingstand",
+    "version": "1.3.0",
+    "curseForgeHash": 1971118396,
+    "modrinthHash": "d0373c6fb3a89afd39603b38e3164ef1ffb1cc20"
+  },
+  "ResourcePackOrganizer  MC-1.7.10  v1.0.2.jar": {
+    "jarName": "ResourcePackOrganizer  MC-1.7.10  v1.0.2.jar",
+    "modId": "ResourcePackOrganizer",
+    "version": "1.0.2",
+    "curseForgeHash": 1974932405,
+    "modrinthHash": "07aa03493c542141e3e4b6d5302bb2607429d68c"
   },
   "RTG-1.1.6-GTNH.jar": {
     "jarName": "RTG-1.1.6-GTNH.jar",
     "modId": "RTG",
-    "version": "1.1.6-GTNH"
+    "version": "1.1.6-GTNH",
+    "curseForgeHash": 1241062793,
+    "modrinthHash": "3f928f81bbb83f2db9cbed1a85bca06e5347e733"
+  },
+  "Satchels-1.7.10-1.0.7.jar": {
+    "jarName": "Satchels-1.7.10-1.0.7.jar",
+    "modId": "satchels",
+    "version": "1.0.7",
+    "curseForgeHash": 3781231810,
+    "modrinthHash": "71ea63d8332b21b611a8b592a6c97ed16494aa56"
   },
   "Schematica-1.12.6-GTNH.jar": {
     "jarName": "Schematica-1.12.6-GTNH.jar",
     "modId": "Schematica",
-    "version": "1.12.6-GTNH"
+    "version": "1.12.6-GTNH",
+    "curseForgeHash": 1860571239,
+    "modrinthHash": "72721505a5615ecae5664c6d1f8198bdd8711309"
   },
   "ServerUtilities-2.2.7-pre.jar": {
     "jarName": "ServerUtilities-2.2.7-pre.jar",
     "modId": "serverutilities",
-    "version": "2.2.7-pre"
+    "version": "2.2.7-pre",
+    "curseForgeHash": 969529810,
+    "modrinthHash": "cc8db03ac0315e0be12ef11464c967bc6eade870"
   },
   "shaderfixer-4.9.jar": {
     "jarName": "shaderfixer-4.9.jar",
     "modId": "shaderfixer",
-    "version": "4.9"
+    "version": "4.9",
+    "curseForgeHash": 3466488684,
+    "modrinthHash": "f21f9db6f722489660bee4b4281d6f8c0f98281a"
   },
   "SignPicture-1.7.10-2.8.0-universal.jar": {
     "jarName": "SignPicture-1.7.10-2.8.0-universal.jar",
     "modId": "signpic",
-    "version": "2.8.0"
+    "version": "2.8.0",
+    "curseForgeHash": 4071500044,
+    "modrinthHash": "3ee18d51145c7ee56fd5d779b130e0ee3f45cf4f"
   },
   "SkinPort-1.7.10-v10d.jar": {
     "jarName": "SkinPort-1.7.10-v10d.jar",
     "modId": "skinport",
-    "version": "1.7.10-v10d"
+    "version": "1.7.10-v10d",
+    "curseForgeHash": 3754348511,
+    "modrinthHash": "e6d2eb41d67b9734c54b2e45753e7247d784aded"
   },
   "SlimeVoid-Library-1.7.10.jar": {
     "jarName": "SlimeVoid-Library-1.7.10.jar",
     "modId": "SlimevoidLib",
-    "version": "2.0.4.7"
+    "version": "2.0.4.7",
+    "curseForgeHash": 1542696548,
+    "modrinthHash": "c29ba4b2067fa1e40ffa3101d9714598bcbe555a"
   },
   "SoundFilters-0.8_for_1.7.X.jar": {
     "jarName": "SoundFilters-0.8_for_1.7.X.jar",
     "modId": "soundfilters",
-    "version": "0.7_for_1.7.X"
+    "version": "0.7_for_1.7.X",
+    "curseForgeHash": 2189495324,
+    "modrinthHash": "6a13333476b793f09991a31627be5e66027a5550"
   },
   "SpecialAI-1.2.0.jar": {
     "jarName": "SpecialAI-1.2.0.jar",
     "modId": "SpecialAI",
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "curseForgeHash": 2787676678,
+    "modrinthHash": "d4ead18a29581f26711df79cd26124f24ca999eb"
   },
   "SpecialMobs-3.7.1.jar": {
     "jarName": "SpecialMobs-3.7.1.jar",
     "modId": "SpecialMobs",
-    "version": "3.7.1"
+    "version": "3.7.1",
+    "curseForgeHash": 1239434515,
+    "modrinthHash": "8c2116ee85e4bc7ad7a26306008994a5513a0a4f"
   },
   "SpiceOfLife-2.2.3-carrot.jar": {
     "jarName": "SpiceOfLife-2.2.3-carrot.jar",
     "modId": "SpiceOfLife",
-    "version": "2.2.3-carrot"
+    "version": "2.2.3-carrot",
+    "curseForgeHash": 3926431955,
+    "modrinthHash": "f705e33d2442b99b785a0a6a8a62f5b685c35826"
   },
   "squidless-1.7.10-0.6.1.jar": {
     "jarName": "squidless-1.7.10-0.6.1.jar",
     "modId": "Squidless",
-    "version": "-1.7.10-0.6.1"
+    "version": "-1.7.10-0.6.1",
+    "curseForgeHash": 2762912249,
+    "modrinthHash": "f5114d1000b087aecde4f34c5fa9f9c5db379905"
   },
   "Stackie-1.7.10-1.6.0.36-universal.jar": {
     "jarName": "Stackie-1.7.10-1.6.0.36-universal.jar",
     "modId": "Stackie",
-    "version": "1.6.0.36"
+    "version": "1.6.0.36",
+    "curseForgeHash": 2271551274,
+    "modrinthHash": "16835e5a23fbfebaac379a7dcacc7a0a5ea70e55"
   },
   "StorageDrawers-2.2.4-GTNH.jar": {
     "jarName": "StorageDrawers-2.2.4-GTNH.jar",
     "modId": "StorageDrawers",
-    "version": "2.2.4-GTNH"
+    "version": "2.2.4-GTNH",
+    "curseForgeHash": 1716145647,
+    "modrinthHash": "2d4fb46d23903de5047c358dc65176a5b2e17cd4"
   },
   "structurecompat-0.7.4.jar": {
     "jarName": "structurecompat-0.7.4.jar",
     "modId": "structurecompat",
-    "version": "0.7.4"
+    "version": "0.7.4",
+    "curseForgeHash": 1704134748,
+    "modrinthHash": "e4e35a799d68f0b4fd324324eb1ade9c9ae2cfb9"
   },
   "structurelib-1.4.24.jar": {
     "jarName": "structurelib-1.4.24.jar",
     "modId": "structurelib",
-    "version": "1.4.24"
+    "version": "1.4.24",
+    "curseForgeHash": 2363485245,
+    "modrinthHash": "c36ad2f8da28ce450fbfe0def5b19f309164c32e"
+  },
+  "SurvivalTweaks-1.4.1-1.7.10.jar": {
+    "jarName": "SurvivalTweaks-1.4.1-1.7.10.jar",
+    "modId": "survivalTweaks",
+    "version": "1.4.0",
+    "curseForgeHash": 1181368995,
+    "modrinthHash": "464fb4716eaf2b8bac3dbe2b72381876465f7a1a"
   },
   "tabfaces-1.0.11-rc1.jar": {
     "jarName": "tabfaces-1.0.11-rc1.jar",
     "modId": "tabfaces",
-    "version": "1.0.11-rc1"
+    "version": "1.0.11-rc1",
+    "curseForgeHash": 337578644,
+    "modrinthHash": "f0d78bc122c4ce4660796c9d12ecd9a1c7eec811"
   },
   "TooManyDanyOres-1.7.10-b1.0-3-forge-1199.jar": {
     "jarName": "TooManyDanyOres-1.7.10-b1.0-3-forge-1199.jar",
     "modId": "TooManyDanyOres",
-    "version": "b1.0-3"
+    "version": "b1.0-3",
+    "curseForgeHash": 3748393438,
+    "modrinthHash": "733e73a95e1eb93f54bbb27bca470dd82bcb9fa8"
   },
   "TooMuchLoot-4.3.0-GTNH.jar": {
     "jarName": "TooMuchLoot-4.3.0-GTNH.jar",
     "modId": "TML",
-    "version": "4.3.0-GTNH"
+    "version": "4.3.0-GTNH",
+    "curseForgeHash": 4274667572,
+    "modrinthHash": "5c77bd3995e34d94b7c16aac783f57bf6667aa5e"
   },
   "txloader-1.8.6-pre.jar": {
     "jarName": "txloader-1.8.6-pre.jar",
     "modId": "txloader",
-    "version": "1.8.6-pre"
+    "version": "1.8.6-pre",
+    "curseForgeHash": 2543093985,
+    "modrinthHash": "5fe259e6820ab9e4b64102a1eee5c3060b98ecba"
+  },
+  "underphangables-1.7.10-1.0.1.jar": {
+    "jarName": "underphangables-1.7.10-1.0.1.jar",
+    "modId": "underphangables",
+    "version": "1.0.1",
+    "curseForgeHash": 4121869237,
+    "modrinthHash": "602b1ad201ad2aa1c605a07e5289aa4efc77e7cd"
   },
   "UniLib-1.1.0+1.7.10-forge.jar": {
     "jarName": "UniLib-1.1.0+1.7.10-forge.jar",
     "modId": "unilib",
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "curseForgeHash": 1292950591,
+    "modrinthHash": "bdd9cbc403f2226bf2e8376c0f85e2115e00fb64"
   },
   "VendingBlockRevived-v1.2.3.jar": {
     "jarName": "VendingBlockRevived-v1.2.3.jar",
     "modId": "Vending",
-    "version": "1.2.3"
+    "version": "1.2.3",
+    "curseForgeHash": 3948498951,
+    "modrinthHash": "7e275019e81b5ef04ddea46e56b84b8bbaf1f356"
   },
   "VillageNames-1.7.10-4.4.13.jar": {
     "jarName": "VillageNames-1.7.10-4.4.13.jar",
     "modId": "VillageNames",
-    "version": ""
+    "version": "",
+    "curseForgeHash": 790308829,
+    "modrinthHash": "3647d628bfbba4cb37f83509b30be6c7e56b7ef8"
   },
   "vorbisspi-1.0.3-1.jar": {
-    "jarName": "vorbisspi-1.0.3-1.jar"
+    "jarName": "vorbisspi-1.0.3-1.jar",
+    "curseForgeHash": 1891114319,
+    "modrinthHash": "5a99b4be094ce55d60ec35843dc7026712ce9aae"
   },
   "wdmla-2.7.4.jar": {
     "jarName": "wdmla-2.7.4.jar",
     "modId": "Waila",
-    "version": "2.7.4"
+    "version": "2.7.4",
+    "curseForgeHash": 2039114106,
+    "modrinthHash": "5e6cf14e9ba0ee550d7e78a8c75ce69f38ec28cc"
   },
   "WirelessCraftingTerminal-1.12.9-pre.jar": {
     "jarName": "WirelessCraftingTerminal-1.12.9-pre.jar",
     "modId": "ae2wct",
-    "version": "1.12.9-pre"
+    "version": "1.12.9-pre",
+    "curseForgeHash": 1906611757,
+    "modrinthHash": "e37172066c5137df69a2f50ed9a9636495128f7a"
   },
   "Xaeros_Minimap_21.10.44_Forge_1.7.10.jar": {
     "jarName": "Xaeros_Minimap_21.10.44_Forge_1.7.10.jar",
     "modId": "XaeroMinimap",
-    "version": "21.10.44"
+    "version": "21.10.44",
+    "curseForgeHash": 1882419202,
+    "modrinthHash": "8be058c70fc161077fd84a6e72ba2bf951aa89c4"
   },
   "XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar": {
     "jarName": "XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar",
     "modId": "XaeroWorldMap",
-    "version": "1.14.1.33"
+    "version": "1.14.1.33",
+    "curseForgeHash": 12239370,
+    "modrinthHash": "19d1262bf9d20f449d0e9c16e9d3f4d9c373b182"
   },
   "YAMCore-0.7.1.jar": {
     "jarName": "YAMCore-0.7.1.jar",
     "modId": "YAMCore",
-    "version": "0.7.1"
+    "version": "0.7.1",
+    "curseForgeHash": 3401457016,
+    "modrinthHash": "0c8af1c6c8228691d0a643a8a57e92d4291e9fe0"
   },
   "zombieawareness-1.7.10-1.10.jar": {
     "jarName": "zombieawareness-1.7.10-1.10.jar",
     "modId": "zombieawareness",
-    "version": "1.10"
+    "version": "1.10",
+    "curseForgeHash": 1629476832,
+    "modrinthHash": "ee0fdc9ac7ecfc85088dc97bb74368431623419d"
   }
 }
