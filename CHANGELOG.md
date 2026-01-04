@@ -1,14 +1,6 @@
 # 2.5.0 Release
 
 ## What's changed?
-**Added**
-- Lootbags are back! (not everywhere yet)
-- Added new quests
-- Added ProjectRed
-- Added ProjectBlue
-
-
-
 **Fixed**
 - Fixed broken skins
 
