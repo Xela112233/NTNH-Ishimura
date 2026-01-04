@@ -1,4 +1,4 @@
-# 2.4.0 Release
+# 2.5.0 Release
 
 ## What's changed?
 **Added**
@@ -10,20 +10,15 @@
 
 
 **Fixed**
-- Fixed crawling animation bug
-- Fixed rendering bugs
-- Fixed a couple of quests
+- Fixed broken skins
 
 
 
 **Changed**
-- Removed Aqua Acrobatics mod (sob)
-- Reworked LV3.5 questline
-- Night brightness is now dependent on a moon phase
 
 
 
-[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.3.0...2.4.0)
+[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.4.1...2.5.0)
 
 ## Download
-[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.4.0)
+[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.5.0)
