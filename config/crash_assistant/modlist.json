@@ -74,20 +74,6 @@
     "curseForgeHash": 2717992899,
     "modrinthHash": "9c9ab16b3da0169316e7b533bbd7175fe155d557"
   },
-  "antiqueatlas-1.7.10-4.4.4.jar": {
-    "jarName": "antiqueatlas-1.7.10-4.4.4.jar",
-    "modId": "antiqueatlas",
-    "version": "4.4.4",
-    "curseForgeHash": 2222662937,
-    "modrinthHash": "43ac5b41bc0ef06f8f8e20c957169584d4f45e6c"
-  },
-  "AntiqueAtlasOverlay-1.7.10-1.2.jar": {
-    "jarName": "AntiqueAtlasOverlay-1.7.10-1.2.jar",
-    "modId": "AntiqueAtlasOverlay",
-    "version": "1.2",
-    "curseForgeHash": 646065803,
-    "modrinthHash": "79e11c64ccf9f0a15ba596339941580e638891c4"
-  },
   "AppleCore-3.3.8.jar": {
     "jarName": "AppleCore-3.3.8.jar",
     "modId": "AppleCore",
