@@ -1,12 +1,18 @@
 # 2.5.0 Release
 
 ## What's changed?
+**Added**
+-
+
+
+
 **Fixed**
 - Fixed broken skins
 
 
 
 **Changed**
+-
 
 
 
