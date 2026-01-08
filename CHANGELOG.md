@@ -16,6 +16,7 @@
 **Fixed**
 - Fixed broken skins
 - Fixed various bugs
+- Fixed top-left corner in the main menu
 
 
 
@@ -24,6 +25,8 @@
 - Reworked ropes crafting recipe
 - Brewing stand now shows what potions are in it
 - Reworked Woven Cotton recipe
+- Removed unused mods
+- MASSIVELY debuffed mobs
 
 
 
