@@ -436,13 +436,6 @@
     "curseForgeHash": 3461046863,
     "modrinthHash": "f8fd9953d5dacc7ec684221157e8a4066d1960af"
   },
-  "EnderZoo-1.3.3.jar": {
-    "jarName": "EnderZoo-1.3.3.jar",
-    "modId": "EnderZoo",
-    "version": "1.3.3",
-    "curseForgeHash": 1783143454,
-    "modrinthHash": "2638c4be57965ff196aae1ea84b0400d5b2ec722"
-  },
   "EnhancedLootBags-1.2.9-pre.jar": {
     "jarName": "EnhancedLootBags-1.2.9-pre.jar",
     "modId": "enhancedlootbags",
@@ -532,12 +525,12 @@
     "curseForgeHash": 2840679289,
     "modrinthHash": "209615577e14b521555a80fb6237de29b3afc9ec"
   },
-  "HBM-NTM-.1.0.27_X5567_NTNH.jar": {
-    "jarName": "HBM-NTM-.1.0.27_X5567_NTNH.jar",
+  "HBM-NTM-[1.0.27_X5568_NTNH].jar": {
+    "jarName": "HBM-NTM-[1.0.27_X5568_NTNH].jar",
     "modId": "hbm",
-    "version": "1.0.27_X5549_NTNH",
-    "curseForgeHash": 2406580877,
-    "modrinthHash": "8cd860889484211e81cecde18801a73873a343d0"
+    "version": "1.0.27_X5568_NTNH",
+    "curseForgeHash": 950018753,
+    "modrinthHash": "9aea111e8d701fd02e2097551d903f3e19507b49"
   },
   "HelpFixer-1.3.0.jar": {
     "jarName": "HelpFixer-1.3.0.jar",
@@ -981,20 +974,6 @@
     "curseForgeHash": 2189495324,
     "modrinthHash": "6a13333476b793f09991a31627be5e66027a5550"
   },
-  "SpecialAI-1.2.0.jar": {
-    "jarName": "SpecialAI-1.2.0.jar",
-    "modId": "SpecialAI",
-    "version": "1.2.0",
-    "curseForgeHash": 2787676678,
-    "modrinthHash": "d4ead18a29581f26711df79cd26124f24ca999eb"
-  },
-  "SpecialMobs-3.7.1.jar": {
-    "jarName": "SpecialMobs-3.7.1.jar",
-    "modId": "SpecialMobs",
-    "version": "3.7.1",
-    "curseForgeHash": 1239434515,
-    "modrinthHash": "8c2116ee85e4bc7ad7a26306008994a5513a0a4f"
-  },
   "SpiceOfLife-2.2.3-carrot.jar": {
     "jarName": "SpiceOfLife-2.2.3-carrot.jar",
     "modId": "SpiceOfLife",
@@ -1139,12 +1118,5 @@
     "version": "0.7.1",
     "curseForgeHash": 3401457016,
     "modrinthHash": "0c8af1c6c8228691d0a643a8a57e92d4291e9fe0"
-  },
-  "zombieawareness-1.7.10-1.10.jar": {
-    "jarName": "zombieawareness-1.7.10-1.10.jar",
-    "modId": "zombieawareness",
-    "version": "1.10",
-    "curseForgeHash": 1629476832,
-    "modrinthHash": "ee0fdc9ac7ecfc85088dc97bb74368431623419d"
   }
 }
