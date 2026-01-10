@@ -102,6 +102,13 @@
     "curseForgeHash": 101234479,
     "modrinthHash": "528432c85c1967cc1adbc98c8a1ef4de270a2622"
   },
+  "ArmoredArms-v1.1.4-1.7.10-betta.jar": {
+    "jarName": "ArmoredArms-v1.1.4-1.7.10-betta.jar",
+    "modId": "armoredarms",
+    "version": "v1.1.4-1.7.10-betta",
+    "curseForgeHash": 3338890289,
+    "modrinthHash": "864c4a5caaafa47a4df6c2c08ce8647a7ee22e1c"
+  },
   "AsieLib-0.7.0.jar": {
     "jarName": "AsieLib-0.7.0.jar",
     "modId": "asielib",
