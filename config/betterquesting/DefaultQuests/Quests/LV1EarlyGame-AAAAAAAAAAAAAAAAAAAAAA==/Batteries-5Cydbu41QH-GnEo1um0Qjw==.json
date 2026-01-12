@@ -1,0 +1,64 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 17
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "§3Battery Socket§r is a device for working with §3Batteries§r and §3Capacitors§r.\n\n§3Batteries§r themselves are portable power sources, but it is often more convenient to send power through wires via ports. This device provides just that opportunity.\n\nThe rules for operation are simple: energy is supplied to or from the array using §3Wires§r. Consumers can also be installed close together, port to port. The device interface has a slot for batteries and other items that consume electricity.\n\n§3Battery Socket§r cannot store energy from a battery or capacitor (the energy in the buffer will only be available when there is an internal or external source). If the source is removed, the buffer will, of course, be emptied.\n\nBy default, the energy storage device is set to input energy. You can reconfigure it by pressing the top button on the right (it is blue by default), thus switching the storage device to simultaneous energy input and output mode. Pressing it again will set the device to energy output mode. To stop the storage from receiving and outputting electricity, press it once more. Operating modes:\n\n    §9Blue§r - input only\n    §aGreen§r - both input and output\n    §6Orange§r - output only\n    §7Gray§r - off (neither input nor output)\n\n§2The button below is responsible for modes controlled by the red stone signal. ",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "hbm:tile.machine_battery_socket"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Batteries",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -2005054634318282625,
+  "questIDLow:4": -8747034781638913905,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:tile.machine_battery_socket"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.battery_pack",
+          "tag:10": {
+            "charge:4": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}
