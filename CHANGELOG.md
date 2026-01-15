@@ -30,6 +30,8 @@
    └ Allows for very precise portioning and fluid control
 - Added ArmoredArms mod
 - Added "Burn Time" description to burn-able items
+- Creative klystron
+   └ Always outputs as much KyU as the most demanding existing recipe needs
 
 
 
@@ -47,6 +49,27 @@
 - Fixed black fire not using the skeletonizer on death
 - Fixed arc furnace electrodes not being able to be plugged into the arc furnace unless the lid is fully open
 - Fixed broken keybind localization
+- Potentially fixed an issue in regards to some hidden structures spawning
+- Fixed fluid counter valve not having a recipe
+- Fixed issue where /ntmreload would break registered fluids from addons
+- Fixed yet another issue regarding crates
+- Fixed RBMK fluid heaters losing their tank types when unable to boil anything
+- Fixed the FEnSU, cyclotron and reliant robin missile being uncraftable due to stacksize limitations
+   └ The system for detecting impossible recipe has been improved, instead of a fixed 64 item limit, it now uses the actual limit of the item (or 64 for ore dictionary inputs)
+- Fixed yet another issue regarding addon fluids breaking on recipe reload
+- Fixed YET ANOTHER issue regarding crates, AGAIN
+- Fixed a rare issue where the fusion reactor could have negative fuel
+- Fixed battery socket priority tooltip offset
+- Fixed enchantability on many armor sets being incorrect
+   └ Most power armors are intended to not be enchantable at all
+- Fixed crash caused by the balefire bomb
+- Fixed heat transfer rate labels on the boilers and coker unit being off by a magnitude of 10
+- Fixed crucible not having a heat transfer rate tooltip
+- Fixed certain heliostat mirror rotations not showing the mirror
+- Fixed chopper recipe creating eight choppers instead of one
+- Being able to put non-drive items into planner drive slots
+- Log spam when suffocating
+- Air bubbles appear when using DNT, even though it works as a spacesuit without PLSS
 
 
 
@@ -75,6 +98,27 @@
 - Laser beams from energy weapons are now a lot more narrow
 - All steam turbines now have a passive drain on unused power in their buffers
 - NBT-tags are no longer shown in the description of items
+- Updated chinese and russian localization
+- Increased density of osmiridium ores in tom craters considerably (from 1:500 to 1:200)
+- Added a new server setting called ENABLE_MKU to toggle contageon effects, spread and save (part of /ntmserver)
+- Extended logging now logs uses of MKU
+- Mass storage units now display their held item on a display
+- Improved HUD gauges, electric chestplates with jetpacks installed now two gauges side by side
+- Material autogen now creates redstone in ingot form, allowing smaller than block quantities to be cast
+- Removed the ancient ZPE blocks
+- Drone hitboxes are now way smaller, which should cause them to get stuck when flying less
+- Sef-charging batteries have been reworked
+   └ They are now a new item with metadata (legacy ones still work)
+   └ The base form is an empty selfcharger which is filled with two billets of material, i.e. no more upgrade recipes
+   └ There are a few new variants like cobalt-60 and gold-198
+   └ New selfchargers have a model when plugged into a battery socket
+   └ Selfchargers are a fair bit weaker than their old counterparts, but substantially cheaper too
+- Old batteries now have the "LEGACY" tag
+- Pneumatic pipe networks with multiple outputs, especially filtered ones, should now have much better throughput due to not constantly failing to send items in round robin mode
+- The [N] calculator window now shows a history of previous operations
+- Simplified the cyclotron recipe
+- Station drives can now be used to recall docked & fueled drop pods to your current location
+- Stations now show up in the sky of the orbited planet
 
 
 
