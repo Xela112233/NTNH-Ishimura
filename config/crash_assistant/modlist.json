@@ -102,12 +102,12 @@
     "curseForgeHash": 101234479,
     "modrinthHash": "528432c85c1967cc1adbc98c8a1ef4de270a2622"
   },
-  "ArmoredArms-v1.1.4-1.7.10-betta.jar": {
-    "jarName": "ArmoredArms-v1.1.4-1.7.10-betta.jar",
+  "ArmoredArms-v1.2.0-1.7.10-release.jar": {
+    "jarName": "ArmoredArms-v1.2.0-1.7.10-release.jar",
     "modId": "armoredarms",
-    "version": "v1.1.4-1.7.10-betta",
-    "curseForgeHash": 3338890289,
-    "modrinthHash": "864c4a5caaafa47a4df6c2c08ce8647a7ee22e1c"
+    "version": "v1.2.0-1.7.10-release",
+    "curseForgeHash": 1697362766,
+    "modrinthHash": "61ef06b89aa7240caba6c6cb02e32efda99a0d24"
   },
   "AsieLib-0.7.0.jar": {
     "jarName": "AsieLib-0.7.0.jar",
@@ -213,13 +213,6 @@
     "version": "MC1.7.10-1.0.1-2",
     "curseForgeHash": 2478416894,
     "modrinthHash": "a13f8d0b8aa5543c74a5740117b7a5375def83dc"
-  },
-  "bobfluidtranslator-1.0.5.jar": {
-    "jarName": "bobfluidtranslator-1.0.5.jar",
-    "modId": "examplemod",
-    "version": "1.0.4",
-    "curseForgeHash": 266759872,
-    "modrinthHash": "c3aa83402d42ad6ea19660b61d2b2996bdc240b3"
   },
   "bogosorter-1.3.12-GTNH-pre.jar": {
     "jarName": "bogosorter-1.3.12-GTNH-pre.jar",
@@ -539,12 +532,12 @@
     "curseForgeHash": 2840679289,
     "modrinthHash": "209615577e14b521555a80fb6237de29b3afc9ec"
   },
-  "HBM-NTM-[1.0.27_X5568_NTNH].jar": {
-    "jarName": "HBM-NTM-[1.0.27_X5568_NTNH].jar",
+  "HBM-NTM-[1.0.27_X5575_NTNH].jar": {
+    "jarName": "HBM-NTM-[1.0.27_X5575_NTNH].jar",
     "modId": "hbm",
-    "version": "1.0.27_X5568_NTNH",
-    "curseForgeHash": 950018753,
-    "modrinthHash": "9aea111e8d701fd02e2097551d903f3e19507b49"
+    "version": "1.0.27_X5575_NTNH",
+    "curseForgeHash": 97097075,
+    "modrinthHash": "49e510f28367ed91989b37332011537cf402697f"
   },
   "HelpFixer-1.3.0.jar": {
     "jarName": "HelpFixer-1.3.0.jar",
