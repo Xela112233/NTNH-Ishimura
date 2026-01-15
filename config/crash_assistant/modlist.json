@@ -214,6 +214,13 @@
     "curseForgeHash": 2478416894,
     "modrinthHash": "a13f8d0b8aa5543c74a5740117b7a5375def83dc"
   },
+  "bobfluidtranslator-v1.1.0.jar": {
+    "jarName": "bobfluidtranslator-v1.1.0.jar",
+    "modId": "bobfluidtranslator",
+    "version": "1.1.0",
+    "curseForgeHash": 1446608351,
+    "modrinthHash": "b64cd9c5122ff8b6ad875d89a18a8559100a54cc"
+  },
   "bogosorter-1.3.12-GTNH-pre.jar": {
     "jarName": "bogosorter-1.3.12-GTNH-pre.jar",
     "modId": "bogosorter",
