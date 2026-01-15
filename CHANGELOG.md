@@ -29,7 +29,7 @@
    └ Value can be read or reset with OC or RoR
    └ Allows for very precise portioning and fluid control
 - Added ArmoredArms mod
-   └ NTM 3D armor is currently not supported
+- Added "Burn Time" description to burn-able items
 
 
 
@@ -74,6 +74,7 @@
 - Removed the restriction that demands that cluster ores need to be mined by hand
 - Laser beams from energy weapons are now a lot more narrow
 - All steam turbines now have a passive drain on unused power in their buffers
+- NBT-tags are no longer shown in the description of items
 
 
 
