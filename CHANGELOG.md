@@ -119,6 +119,7 @@
 - Simplified the cyclotron recipe
 - Station drives can now be used to recall docked & fueled drop pods to your current location
 - Stations now show up in the sky of the orbited planet
+- Food stacksize have been MASSIVELY increased
 
 
 
