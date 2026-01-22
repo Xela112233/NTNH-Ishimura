@@ -32,6 +32,7 @@
 - Added "Burn Time" description to burn-able items
 - Creative klystron
    └ Always outputs as much KyU as the most demanding existing recipe needs
+- Added a bunch of optimization mods that should improve overall performance
 
 
 
