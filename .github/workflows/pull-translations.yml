@@ -1,0 +1,62 @@
+name: Pull Latest Translations
+
+on:
+  workflow_dispatch:  # Allow manual triggering
+  schedule:
+    - cron: '0 0 * * 0'  # Run weekly on Sunday at midnight UTC (optional)
+
+jobs:
+  pull-translations:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Get latest release info
+        id: get_release
+        run: |
+          # Get the latest release info from the NTNH-Translations repo
+          RELEASE_DATA=$(curl -s https://api.github.com/repos/NTNewHorizons/NTNH-gh releases/latest)
+          
+          # Extract download URL for the asset (assuming it's a zip file)
+          DOWNLOAD_URL=$(echo "$RELEASE_DATA" | jq -r '.assets[0].browser_download_url')
+          RELEASE_TAG=$(echo "$RELEASE_DATA" | jq -r '.tag_name')
+          
+          echo "download_url=$DOWNLOAD_URL" >> $GITHUB_OUTPUT
+          echo "release_tag=$RELEASE_TAG" >> $GITHUB_OUTPUT
+          
+          echo "Latest release: $RELEASE_TAG"
+          echo "Download URL: $DOWNLOAD_URL"
+      
+      - name: Download latest release
+        run: |
+          wget -O translations.zip "${{ steps.get_release.outputs.download_url }}"
+          
+      - name: Unpack translations
+        run: |
+          # Unzip the downloaded file into the root directory
+          unzip -o translations.zip
+          
+          # Clean up the zip file
+          rm translations.zip
+          
+      - name: Display unpacked contents
+        run: |
+          echo "Unpacked translation files:"
+          find config -name "*.lang" -type f 2>/dev/null || echo "No .lang files found"
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add .
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update translations to ${{ steps.get_release.outputs.release_tag }}"
+            git push
+          fi
