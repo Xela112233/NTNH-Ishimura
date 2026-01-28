@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write  # Allow pushing commits
+  pull-requests: write  # Allow creating pull requests
 
 jobs:
   pull-translations:
@@ -15,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
         
       - name: Get latest release info
         id: get_release
@@ -63,6 +66,8 @@ jobs:
           find config -name "*.lang" -type f 2>/dev/null || echo "No .lang files found"
           
       - name: Commit and push changes
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -73,6 +78,17 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
+            # Create a new branch for the PR
+            BRANCH_NAME="translations-update-$(date +%Y-%m-%d-%H%M%S)"
+            git checkout -b "$BRANCH_NAME"
+            
             git commit -m "Update translations to ${{ steps.get_release.outputs.release_tag }}"
-            git push
+            git push origin "$BRANCH_NAME"
+            
+            # Create pull request
+            gh pr create \
+              --title "Update translations to ${{ steps.get_release.outputs.release_tag }}" \
+              --body "Automated translation update from NTNH-Translations release ${{ steps.get_release.outputs.release_tag }}" \
+              --base main \
+              --head "$BRANCH_NAME"
           fi
