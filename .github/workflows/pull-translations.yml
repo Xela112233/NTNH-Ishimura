@@ -3,7 +3,10 @@ name: Pull Latest Translations
 on:
   workflow_dispatch:  # Allow manual triggering
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+
+permissions:
+  contents: write  # Allow pushing commits
 
 jobs:
   pull-translations:
