@@ -3,7 +3,10 @@ name: Pull Latest Translations
 on:
   workflow_dispatch:  # Allow manual triggering
   schedule:
-    - cron: '0 0 * * 0'  # Run weekly on Sunday at midnight UTC (optional)
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+
+permissions:
+  contents: write  # Allow pushing commits
 
 jobs:
   pull-translations:
@@ -15,19 +18,32 @@ jobs:
         
       - name: Get latest release info
         id: get_release
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           # Get the latest release info from the NTNH-Translations repo
-          RELEASE_DATA=$(curl -s https://api.github.com/repos/NTNewHorizons/NTNH-gh releases/latest)
+          RELEASE_DATA=$(curl -L \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/NTNewHorizons/NTNH-Translations/releases/latest)
           
-          # Extract download URL for the asset (assuming it's a zip file)
-          DOWNLOAD_URL=$(echo "$RELEASE_DATA" | jq -r '.assets[0].browser_download_url')
-          RELEASE_TAG=$(echo "$RELEASE_DATA" | jq -r '.tag_name')
-          
-          echo "download_url=$DOWNLOAD_URL" >> $GITHUB_OUTPUT
-          echo "release_tag=$RELEASE_TAG" >> $GITHUB_OUTPUT
-          
-          echo "Latest release: $RELEASE_TAG"
-          echo "Download URL: $DOWNLOAD_URL"
+          # Check if we got valid data
+          if echo "$RELEASE_DATA" | jq -e '.assets[0]' > /dev/null; then
+            # Extract download URL for the asset (assuming it's a zip file)
+            DOWNLOAD_URL=$(echo "$RELEASE_DATA" | jq -r '.assets[0].browser_download_url')
+            RELEASE_TAG=$(echo "$RELEASE_DATA" | jq -r '.tag_name')
+            
+            echo "download_url=$DOWNLOAD_URL" >> $GITHUB_OUTPUT
+            echo "release_tag=$RELEASE_TAG" >> $GITHUB_OUTPUT
+            
+            echo "Latest release: $RELEASE_TAG"
+            echo "Download URL: $DOWNLOAD_URL"
+          else
+            echo "Error: Could not fetch release data"
+            echo "$RELEASE_DATA"
+            exit 1
+          fi
       
       - name: Download latest release
         run: |
