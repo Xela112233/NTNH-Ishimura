@@ -75,6 +75,7 @@
 
 
 **Changed**
+- NTNH is slowly being localized! Check out current progress and contribute - https://crowdin.com/project/ntnh
 - Glass now breaks faster with a pickaxe
 - Reworked ropes crafting recipe
 - Brewing stand now shows what potions are in it
