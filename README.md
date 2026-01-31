@@ -10,7 +10,7 @@
 
 **🌟 Key features:**
 - **📅 Monthly updates** - we continuously add content, fix bugs, and improve balance
-- **🌍 Multilingual support** - translations into 20+ languages via our Crowdin project
+- **🌍 Multilingual support** - translations into 20+ languages via our [Crowdin project](https://crowdin.com/project/ntnh)
 - **🚀 Optimization** - Angelica + ArchaicFix for smooth gameplay even on low-end PCs
 - **🌌 Space exploration** - new dimensions and technologies to conquer the universe
 
@@ -23,3 +23,6 @@
 **Are you ready to take on the New Horizons challenge?** 🌠
 
 *Inspired by the spirit of GTNH, but with a unique NTM style!* ✨
+
+<!-- CONTRIBUTORS_START -->
+<!-- CONTRIBUTORS_END -->

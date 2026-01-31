@@ -1,13 +1,10 @@
 name: Pull Latest Translations
-
 on:
   workflow_dispatch:  # Allow manual triggering
   schedule:
     - cron: '0 0 * * *'  # Run daily at midnight UTC
-
 permissions:
   contents: write  # Allow pushing commits
-
 jobs:
   pull-translations:
     runs-on: ubuntu-latest
@@ -15,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: updates/upcoming  # Checkout the updates/upcoming branch
         
       - name: Get latest release info
         id: get_release
@@ -74,5 +73,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update translations to ${{ steps.get_release.outputs.release_tag }}"
-            git push
+            git push origin updates/upcoming  # Push to updates/upcoming branch
           fi
