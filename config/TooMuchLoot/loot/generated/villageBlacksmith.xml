@@ -19,6 +19,7 @@
     <loot item="minecraft:diamond_horse_armor" damage="0" weight="1" count_min="1" count_max="1"/>
     <loot item="hbm:item.armor_polish" damage="0" weight="3" count_min="1" count_max="1"/>
     <loot item="hbm:item.bathwater" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="VillageNames:codex" damage="0" weight="3" count_min="1" count_max="1"/>
     <loot item="RandomThings:ingredient" damage="4" weight="3" count_min="1" count_max="1"/>
     <loot item="adventurebackpack:adventureBackpack" damage="11" nbt="{wearableData:{type:11b}}" weight="2" count_min="1" count_max="1"/>
     <loot item="HardcoreEnderExpansion:temple_caller" damage="0" weight="1" count_min="0" count_max="1"/>

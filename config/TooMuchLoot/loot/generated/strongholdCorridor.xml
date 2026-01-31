@@ -19,11 +19,10 @@
     <loot item="minecraft:golden_horse_armor" damage="0" weight="1" count_min="1" count_max="1"/>
     <loot item="minecraft:diamond_horse_armor" damage="0" weight="1" count_min="1" count_max="1"/>
     <loot item="minecraft:enchanted_book" damage="0" weight="1" count_min="1" count_max="1"/>
-    <loot item="Growthcraft|Hops:grc.hops" damage="0" weight="10" count_min="1" count_max="2"/>
+    <loot item="VillageNames:codex" damage="0" weight="4" count_min="1" count_max="1"/>
     <loot item="HardcoreEnderExpansion:adventurers_diary" damage="0" weight="5" count_min="1" count_max="1"/>
     <loot item="HardcoreEnderExpansion:temple_caller" damage="0" weight="1" count_min="0" count_max="1"/>
     <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" weight="9" count_min="1" count_max="1"/>
-    <loot item="Growthcraft|Grapes:grc.grapes" damage="0" weight="10" count_min="1" count_max="2"/>
     <loot item="etfuturum:otherside_record" damage="0" weight="1" count_min="1" count_max="1"/>
     <loot item="etfuturum:beetroot_seeds" damage="0" weight="5" count_min="1" count_max="2"/>
 </LootGroup>

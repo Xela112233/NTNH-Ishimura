@@ -54,7 +54,7 @@
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,
-      "consume:1": 1,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 0,
@@ -65,29 +65,6 @@
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "hbm:item.coin_ufo"
-        }
-      },
-      "taskID:8": "bq_standard:retrieval"
-    },
-    "1:10": {
-      "autoConsume:1": 0,
-      "consume:1": 1,
-      "groupDetect:1": 0,
-      "ignoreNBT:1": 1,
-      "index:3": 1,
-      "partialMatch:1": 1,
-      "requiredItems:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 0,
-          "OreDict:8": "",
-          "id:8": "hbm:item.spawn_ufo"
-        },
-        "1:10": {
-          "Count:3": 1,
-          "Damage:2": 0,
-          "OreDict:8": "",
-          "id:8": "hbm:tile.det_nuke"
         }
       },
       "taskID:8": "bq_standard:retrieval"

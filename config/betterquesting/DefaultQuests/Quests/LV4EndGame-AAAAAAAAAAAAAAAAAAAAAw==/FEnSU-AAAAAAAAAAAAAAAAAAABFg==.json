@@ -26,7 +26,7 @@
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:tile.machine_fensu"
+        "id:8": "hbm:tile.machine_battery_redd"
       },
       "isMain:1": 1,
       "isSilent:1": 0,
@@ -58,6 +58,12 @@
           "tag:10": {
             "trophyID:8": "fensu"
           }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 5,
+          "OreDict:8": "",
+          "id:8": "enhancedlootbags:lootbag"
         }
       }
     }
@@ -75,7 +81,7 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "hbm:tile.machine_fensu"
+          "id:8": "hbm:tile.machine_battery_redd"
         }
       },
       "taskID:8": "bq_standard:retrieval"

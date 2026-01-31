@@ -1,6 +1,6 @@
 # Better HUD configuration file
 # Any removed or corrupted properties will be reverted to default.
-# 2026-01-03 14:40:04.347
+# 2026-01-03 13:53:28.95
 armorBars:
 	enabled:false
 	posMode:0
@@ -16,7 +16,7 @@ armorBars:
 	damaged.1:25.0
 	damaged.2:10.0
 arrowCount:
-	enabled:false
+	enabled:true
 	posMode:0
 	position:middleRight
 	position2:5,5
@@ -43,7 +43,7 @@ bloodSplatters:
 breedIndicator:
 	enabled:true
 	position:middleLeft
-	distance:100.0
+	distance:5.0
 clock:
 	enabled:false
 	posMode:0
@@ -51,7 +51,7 @@ clock:
 	position2:0,5
 	24hr:false
 compass:
-	enabled:true
+	enabled:false
 	posMode:1
 	position:150,5
 	scaledDirections:0.0
@@ -88,7 +88,7 @@ distance:
 	blue:255.0
 	type:0
 enchantIndicator:
-	enabled:true
+	enabled:false
 	posMode:0
 	position:5,5
 experienceInfo:
@@ -119,17 +119,17 @@ fpsCount:
 	blue:255.0
 	numberOnly:false
 fullInvIndicator:
-	enabled:false
+	enabled:true
 	posMode:0
 	position:topLeft
 	position2:5,5
 healIndicator:
-	enabled:true
+	enabled:false
 	posMode:0
 	position:5,5
 	mode:1
 hidePlayers:
-	enabled:true
+	enabled:false
 	includeMe:false
 handBar:
 	enabled:false
@@ -145,7 +145,7 @@ horseInfo:
 	speed:true
 	distance:5.0
 foodIndicator:
-	enabled:true
+	enabled:false
 	posMode:0
 	position:bottomCenter
 	position2:5,-9
@@ -174,7 +174,7 @@ potionBar:
 	position:middleRight
 	position2:5,5
 signReader:
-	enabled:true
+	enabled:false
 	posMode:0
 	position:middleLeft
 	position2:5,5
