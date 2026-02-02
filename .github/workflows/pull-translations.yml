@@ -1,24 +1,29 @@
 name: Pull Latest Translations
+
 on:
   workflow_dispatch:  # Allow manual triggering
   schedule:
     - cron: '0 0 * * *'  # Run daily at midnight UTC
+
 permissions:
   contents: write  # Allow pushing commits
+
 jobs:
   pull-translations:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout repository
+      - name: Checkout NTNH repository
         uses: actions/checkout@v4
         with:
+          repository: NTNewHorizons/NTNH  # Checkout the NTNH repository
           ref: updates/upcoming  # Checkout the updates/upcoming branch
+          token: ${{ secrets.UNIVERSAL_FINE }}  # Use the org token
         
       - name: Get latest release info
         id: get_release
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.UNIVERSAL_FINE }}
         run: |
           # Get the latest release info from the NTNH-Translations repo
           RELEASE_DATA=$(curl -L \
@@ -50,7 +55,7 @@ jobs:
           
       - name: Unpack translations
         run: |
-          # Unzip the downloaded file into the root directory
+          # Unzip the downloaded file, overwriting existing files
           unzip -o translations.zip
           
           # Clean up the zip file
@@ -59,7 +64,10 @@ jobs:
       - name: Display unpacked contents
         run: |
           echo "Unpacked translation files:"
-          find config -name "*.lang" -type f 2>/dev/null || echo "No .lang files found"
+          find config -name "*.lang" -type f 2>/dev/null || echo "No .lang files found in config/"
+          echo ""
+          echo "All changed files:"
+          git status --short
           
       - name: Commit and push changes
         run: |
