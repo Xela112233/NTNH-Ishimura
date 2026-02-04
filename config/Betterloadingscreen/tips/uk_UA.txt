@@ -3,7 +3,7 @@
 #
 #Maximal characters for a tip: 77 (more can go out of the screen)
 #The line below, including the "#" are 77 chars
-#Ранець Шукача Пригод? Ви мали на увазі вбудований стіл для крафту, ліжко й рідини
+#Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
 #
  Маєте питання? Приєднайтесь до нашого Discord сервер: discord.gg/wtNVzeE5QB
 Ви можете налаштувати книгу квестів на кнопку замість того щоб використовувати книгу квестів

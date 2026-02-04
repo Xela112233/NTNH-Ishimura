@@ -3,7 +3,7 @@
 #
 #Massimi caratteri per un suggerimento: 77 (di più potrebbero uscire dallo schermo)
 #La riga sottostante, incluso "#" sono 77 chars
-#Zaino dell'avventuriero? Did you mean integrated crafting grid, bed and fluid
+#Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
 #
 Hai una domanda? Unisciti al nostro server Discord: discord.gg/wtNVzeE5QB
 Puoi associare il menù delle quest a un tasto, invece di usare il libro
