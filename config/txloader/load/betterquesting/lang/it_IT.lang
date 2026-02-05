@@ -53,106 +53,106 @@ betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=Lo §3Stirling Engine§r utiliz
 
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Motore a Vapore (Steam Engine)
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an early game method of turning §bSteam§r into energy. It requires an external source to provide steam and a way to dump or reprocess the §bLow-Pressure Steam§r it produces. %n%nThe Steam Engine has an energy efficiency of §e85%%§r, making it better than the §3Stirling Engine§r. However, it still has a throughput limit as it can only hold up to 2000 mB of steam. Its maximum processing rate is 2000 mB/t, producing a considerable §e3400 HE/t§r or §e68 kHE/s§r. It is therefore the best generator available before §3Steam Surbines§r.%n%nA boiler being heated up by a heating oven using coal will produce §e17kHE/s§r.
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=Lo §3Steam Engine§r (Motore a Vapore) è un metodo early game che trasforma il §bVapore§r in energia. Richiede una fonte esterna di vapore e un modo per scaricare o rielaborare il §bVapore a Bassa Pressione§r che produce. %n%nLo Steam Engine ha un'efficienza energetica dell'§e85%§r, il che lo rende migliore dello §3Stirling Engine§r. Tuttavia, ha un limite di capacità poiché può contenere solo fino a 2000 mB di vapore. La sua velocità massima di elaborazione è di 2000 mB/t, producendo la notevole cifra di §e3400 HE/t§r o §e68 kHE/s§r. È quindi il miglior generatore disponibile prima delle §3Steam Turbines§r.%n%nUn Boiler riscaldato da un Heating Oven alimentato a carbone produrrà §e17kHE/s§r.
 
 # Quest: Batteries
-betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Batteries
-betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=§3Battery Socket§r is a device for working with §3Batteries§r and §3Capacitors§r.%n%n§3Batteries§r themselves are portable power sources, but it is often more convenient to send power through wires via ports. This device provides just that opportunity.%n%nThe rules for operation are simple: energy is supplied to or from the array using §3Wires§r. Consumers can also be installed close together, port to port. The device interface has a slot for batteries and other items that consume electricity.%n%n§3Battery Socket§r cannot store energy from a battery or capacitor (the energy in the buffer will only be available when there is an internal or external source). If the source is removed, the buffer will, of course, be emptied.%n%nBy default, the energy storage device is set to input energy. You can reconfigure it by pressing the top button on the right (it is blue by default), thus switching the storage device to simultaneous energy input and output mode. Pressing it again will set the device to energy output mode. To stop the storage from receiving and outputting electricity, press it once more. Operating modes:%n%n    §9Blue§r - input only%n    §aGreen§r - both input and output%n    §6Orange§r - output only%n    §7Gray§r - off (neither input nor output)%n%n§2The button below is responsible for modes controlled by the red stone signal. 
+betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Batterie
+betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=Il §3Battery Socket§r è un dispositivo per lavorare con §3Batteries§r (Batterie) e §3Capacitors§r (Condensatori).%n%nLe §3Batterie§r stesse sono fonti di energia portatili, ma spesso è più comodo trasmettere energia tramite cavi e porte. Questo dispositivo offre proprio questa possibilità.%n%nLe regole di funzionamento sono semplici: l'energia viene fornita o prelevata dal sistema usando i §3Cavi§r. I consumatori possono anche essere installati vicini tra loro, porta a porta. L'interfaccia del dispositivo ha uno slot per batterie e altri oggetti che consumano elettricità.%n%nIl §3Battery Socket§r non può immagazzinare energia da solo (l'energia nel buffer sarà disponibile solo quando è presente una fonte interna o esterna). Se la fonte viene rimossa, il buffer, naturalmente, si svuoterà.%n%nPer impostazione predefinita, il dispositivo è impostato per ricevere energia. Puoi riconfigurarlo premendo il pulsante in alto a destra (di colore blu predefinito), passando così alla modalità di input e output simultaneo. Premendolo di nuovo, il dispositivo passerà alla modalità di solo output. Per impedire al dispositivo di ricevere o erogare elettricità, premilo ancora una volta. Modalità operative:%n%n §9Blu§r - solo ingresso (input)%n §aVerde§r - sia ingresso che uscita%n §6Arancione§r - solo uscita (output)%n §7Grigio§r - spento (né ingresso né uscita)%n%n§2Il pulsante sottostante gestisce le modalità controllate dal segnale di redstone. 
 
 # Quest: Cable Network Analysis Tool
-betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Cable Network Analysis Tool
-betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=The §6Cable Network Analysis Tool§r is used to check the integrity of power grids and analyze their main functional components. To perform a test, right-click the analyzer on wires or mechanisms in the power grid. The device displays the following data:%n%n§eLinks§r - these include wires and mechanisms that can conduct energy (e.g., energy storage units, utility poles).%n%n§cProviders§r - all mechanisms capable of producing energy and/or feeding it into the grid (energy storage units in "§agreen§r" and "§6orange§r" modes, turbines, etc.).%n%n§9Receivers§r - everything that absorbs energy from the grid (energy storage units in "§9blue§r" mode, grinders, and other mechanisms).%n%n§2The analyzer not only displays the above components but also counts them. Each grid is assigned a unique code.%n%nParticles only spawn in a 20 block radius!
+betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Strumento per Analisi di Rete Cablata
+betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=Il §6Cable Network Analysis Tool§r (Strumento per Analisi di Rete Cablata) viene utilizzato per verificare l'integrità delle reti elettriche e analizzare i loro principali componenti funzionali. Per eseguire un test, con lo strumento in mano fai click destro sui cavi o sui macchinari della rete elettrica. Il dispositivo mostrerà i seguenti dati:%n%n§eLinks§r - includono cavi e meccanismi in grado di condurre energia (es. accumulatori di energia, pali della luce).%n%n§cProviders§r - tutti i meccanismi capaci di produrre energia e/o di immetterla nella rete (accumulatori in modalità "§averde§r" e "§6arancione§r", turbine, ecc.).%n%n§9Receivers§r - tutto ciò che assorbe energia dalla rete (accumulatori in modalità "§9blu§r", grinder e altri macchinari).%n%n§2L'analizzatore non solo mostra i componenti sopra citati, ma li conta anche. A ogni rete viene assegnato un codice univoco.%n%nLe particelle appaiono solo in un raggio di 20 blocchi!
 
 # Quest: Automatic Buzz Saw
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Automatic Buzz Saw
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz Saw§r one can automatically farm trees for their §6Wood§r, aswell as other crops such as §6Hemp§r and §6Wheat§r.%n%n§3Fans§r, when powered by redstone, can be used to push the dropped items into hoppers or conveyors for storage. Use a §6Drill§r on them to remove the diminishing pushing range.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Sega Automatica
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Con la §6§Automatic Buzz Saw§r (Sega Automatica) è possibile farmare automaticamente alberi per il loro §6Legno§r, oltre ad altre colture come §6Canapa§r e §6Grano§r.%n%nI §3Fans§r (Ventilatori), se alimentati con la redstone, possono essere usati per spingere gli oggetti droppati verso tramogge o nastri trasportatori. Usa un §6Drill§r su di essi per rimuovere la limitazione del raggio d'azione.
 
 # Quest: Industrial Mixer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=Industrial Mixer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=The §3Industrial Mixer§r is a machine that is used to mix a fluid with an item and/or another fluid. It can be used instead of a §3Chemical Plant§r for some recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=Mixer Industriale
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=L'§3Industrial Mixer§r (Mixer Industriale) è un macchinario utilizzato per miscelare un fluido con un oggetto e/o un altro fluido. Per alcune ricette, può essere utilizzato al posto del §3Chemical Plant§r.
 
 # Quest: NTM: Introduction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=NTM: Introduction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=This is the begining of the tech tree of §dHBM's Nuclear Tech Mod§r. Before proceeding it is recommended that you stock up on materials such as §6Iron§r, §6Coal§r, §6Copper§r and §6Redstone§r.%n%n§a§2Some advanced machinery can be obtained by salvaging them from structures scattered across the world, such as Centrifuges from abandoned nuclear powerplants found in deserts, or by rare mob drops such as a Geiger Counter.%n%nMartian Mode is also available in the world creation screen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=NTM: Introduzione
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=Questo è l'inizio dell'albero tecnologico della §dHBM's Nuclear Tech Mod§r. Prima di procedere, ti consigliamo di fare scorta di materiali come §6Ferro§r, §6Carbone§r, §6Rame§r e §6Redstone§r.%n%n§a§2Alcuni macchinari avanzati possono essere ottenuti recuperandoli dalle strutture sparse per il mondo, come le Centrifughe nelle centrali nucleari abbandonate che si trovano nei deserti, oppure tramite drop rari dei mob, come il Contatore Geiger.%n%nLa modalità Martian Mode è disponibile anche nella schermata di creazione del mondo.
 
 # Quest: Template Folder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=Template Folder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc=The §6Template Folder§r is an item that will allow one to create schematics for crafting purposes. The first thing one creates with it are §6Molds§r needed in the §3Burner Press§r. Simply make a §6Flat Stamp§r out of any available material and then select the specific mold from the template folder.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=Cartella dei Modelli
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc=Il §6Template Folder§r (Cartella dei Modelli) è un oggetto che permette di creare schemi per il crafting. La prima cosa che si crea con esso sono gli §6Stampi§r (Molds) necessari per la §3Burner Press§r. Crea semplicemente un §6Flat Stamp§r con qualsiasi materiale disponibile e poi seleziona lo stampo specifico dal Template Folder.
 
 # Quest: Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=§3Anvils§r are a tiered crafting station that allows for the creation of various machines, structures, and items in some cases. There are multiple tiers of anvils with greater anvil tier primarily corresponding to a greater quantity of recipes being available.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=Incudine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=Le §3Anvils§r (Incudini) sono stazioni di crafting divise in livelli che permettono la creazione di vari macchinari, strutture e, in alcuni casi, oggetti. Esistono più livelli di incudini: un livello superiore corrisponde principalmente a un maggior numero di ricette disponibili.
 
 # Quest: Burner Press
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=Burner Press
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=The §3Presses§r are machines that can be used to make §6Plates§r, §6Wires§r, §6Circuits§r, §6Bullet Casings§r as well as §6Compressing§r non-smeltable powders back into their normal form. They require §6Stamps§r to work, which can be made from the basic §6Flat Stamp§r and a §6Template Folder§r. %n%n§2A preheater can be placed next to the Burner Press to increase its speed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=Pressa a Bruciatore
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=Le §3Presse§r sono macchinari che possono essere utilizzati per fabbricare §6Lastre§r, §6Cavi§r, §6Circuiti§r, §6Bossoli§r e per §6Comprimere§r polveri non fondibili nella loro forma normale. Per funzionare richiedono gli §6Stamps§r (Stampi), che possono essere ricavati dallo §6Flat Stamp§r base e da un §6Template Folder§r. %n%n§2È possibile posizionare un preriscaldatore (preheater) accanto alla Burner Press per aumentarne la velocità.
 
 # Quest: Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r, §6Steel§r and §6Advanced Alloy§r, which is a combination of the former.%n%nAdvanced alloy can be used to construct very durable tools that come with vein mining.%n%nA separate block, the §3Blast Furnace Extension§r, can be placed on top of the blast furnace to make it operate faster. Without the extension, it smelts items at about half the rate of a furnace, the extension triples that rate. Fuel consumption remains constant, meaning the extension also triples the efficiency of fuel consumption. %n%n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Altoforno
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=La §3Blast Furnace§r (Altoforno) è una fornace alimentata a combustibile solido utilizzata per creare diverse leghe a partire da due input. Le principali leghe iniziali sono: §6Minecraft Grade Copper§r, §6Steel§r e §6Advanced Alloy§r, che è una combinazione delle prime due.%n%nL'Advanced Alloy può essere utilizzata per costruire strumenti molto resistenti dotati di vein mining.%n%nUn blocco separato, la §3Blast Furnace Extension§r, può essere posizionato sopra l'altoforno per velocizzarne il funzionamento. Senza l'estensione, l'altoforno fonde gli oggetti a circa metà della velocità di una fornace comune; l'estensione triplica tale velocità. Il consumo di carburante rimane costante, il che significa che l'estensione triplica anche l'efficienza del combustibile.%n%n§2Per gli strumenti più avanzati che sbloccherai in seguito, premendo il tasto ALT si aprirà un menu dal quale potrai selezionare più abilità contemporaneamente.
 
 # Quest: Trench Mask
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Trench Mask
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=The §6Trench Mask§r is a basic mask that will protect the user from some dangerous airborne particles while mining. To craft one you must first obtain §6Cloth§r and then piss on it by right clicking while holding it.%n%n§2String can be easily obtained by harvesting Hemp, found in the wild.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Maschera da Trincea
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=La §6Trench Mask§r (Maschera da Trincea) è una maschera base che proteggerà l'utente da alcune pericolose particelle sospese nell'aria durante il mining. Per fabbricarne una, devi prima ottenere del §6Cloth§r (Tessuto) e poi pisciarci sopra cliccando con il tasto destro mentre lo tieni in mano.%n%n§2La cordicella (String) può essere ottenuta facilmente raccogliendo la Canapa (Hemp), che si trova in natura.
 
 # Quest: Hazmat Suits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=Hazmat Suits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=§6Hazmat Suits§r provide protection against many hazards, mainly radiation. §6Hazmat Cloth§r can be further strengthened to create more resistant hazmat suits.%n%nTo provide additional protection against environmental dangers, a §6Gas Mask Filter§r is needed, which can be equiped by right-clicking while holding it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=Tute Hazmat
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=Le §6Tute Hazmat§r forniscono protezione contro molti pericoli, principalmente le radiazioni. Il §6Hazmat Cloth§r può essere ulteriormente rinforzato per creare tute ignifughe e anti-contaminazione più resistenti.%n%nPer fornire una protezione aggiuntiva contro i pericoli ambientali, è necessario un §6Gas Mask Filter§r (Filtro per maschera antigas), che può essere equipaggiato cliccando con il tasto destro mentre lo si tiene in mano.
 
 # Quest: Energy Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=Energy Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=The most basic block for transmission is the §3Red Copper Cable§r, which comes in two varieties, a block form and a skinnier cable form. The block form also has a paintable version which can help it blend into your designs better.%n%nFor better looking, aswell as longer distance energy transportation, a §l§r§6Cable Drum§r with §3Electricity Connectors§r can be used. These powerlines are non solid and can also pass through floors and walls.%n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=Cavi per Energia
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=Il blocco base per la trasmissione è il §3Red Copper Cable§r, disponibile in due varianti: in forma di blocco e in forma di cavo sottile. La versione a blocco ha anche una variante verniciabile, che permette di integrarla meglio nel design delle tue costruzioni.%n%nPer un trasporto di energia esteticamente più gradevole e su lunghe distanze, è possibile utilizzare un §l§r§6Cable Drum§r con gli §3Electricity Connectors§r. Queste linee elettriche non sono solide e possono passare attraverso pavimenti e pareti.%n%n
 
 # Quest: Pollution Detector
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=Pollution Detector
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=The §6Pollution Detector§r will monitor and show the levels of pollution present in the environment. High levels of pollution will decrease the visibility, give debuffs to the player and buff mobs, including skeletons spawning with firearms.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=Rilevatore di Inquinamento
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=Il §6Pollution Detector§r (Rilevatore di Inquinamento) monitora e mostra i livelli di inquinamento presenti nell'ambiente. Alti livelli di inquinamento ridurranno la visibilità, applicheranno debuff al giocatore e potenzieranno i mob, inclusi gli scheletri che inizieranno a spawnare con armi da fuoco.
 
 # Quest: Wood-Burning Generator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=Wood-Burning Generator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=The §3Wood-Burning Generator§r is basic method of producing energy by burning wood. It can run on any burnable items but provides burn time bonuses to logs and wood. It can also run on any flammable fuel by clicking on the arrow below the on/off switch, but it is considerably more inefficient than other fluid burning generators.%n%nBurning logs in the generator produces §e2kHE/s.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=Generatore a Legname
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=Il §3Wood-Burning Generator§r (Generatore a Legname) è un metodo base per produrre energia bruciando legna. Può funzionare con qualsiasi oggetto combustibile, ma fornisce bonus sul tempo di combustione per tronchi e legno. Può anche utilizzare qualsiasi carburante infiammabile cliccando sulla freccia sotto l'interruttore di accensione/spegnimento, ma è notevolmente più inefficiente rispetto ad altri generatori a combustibile liquido.%n%nBruciare tronchi nel generatore produce §e2kHE/s.§r
 
 # Quest: Analog Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=Analog Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=The §6Analog Circuit§r is the first true circuit board used in crafting certain essential machines and tools such as the §6Oil Deposit Detector§r, the §3Chemical Plant§r, and the §3Electric Arc Furnace§r.%n%n§2A cheaper recipe for Capacitors will be available if a Shredder is owned.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=Circuito Analogico
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=L'§6Analog Circuit§r è la prima vera scheda circuitale utilizzata per fabbricare alcuni macchinari e strumenti essenziali, come l'§6Oil Deposit Detector§r, il §3Chemical Plant§r e l'§3Electric Arc Furnace§r.%n%n§2Una ricetta più economica per i Condensatori (Capacitors) sarà disponibile una volta ottenuto uno Shredder.
 
 # Quest: Assembly Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.name=Assembly Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.desc=The §3Assembly Machine§r is used in every stage of the game, with it being used to manufacture practically every other complex machine. Recipes for it can be chosen inside the GUI.%n%n§2Some unique recipes require blueprints, that can be found in dungeons and/or bought from Bobmazon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.name=Macchina di Assemblaggio
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.desc=La §3Assembly Machine§r (Macchina di Assemblaggio) viene utilizzata in ogni fase del gioco, permettendo di fabbricare praticamente ogni altro macchinario complesso. Le ricette possono essere selezionate direttamente all'interno della GUI.%n%n§2Alcune ricette uniche richiedono dei blueprint (progetti), che possono essere trovati nei dungeon o acquistati su Bobmazon.
 
 # Quest: Shredder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=Shredder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=The §3Shredder§r is a machine that shreds resourses into their powder form, or in many cases, their crafting materials. It can also be used to double ores.%n%n§2Shredder blades are required in order for the machine to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=Trituratore
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=Lo §3Shredder§r (Trituratore) è un macchinario che trita le risorse riducendole in polvere o, in molti casi, nei loro materiali di fabbricazione originali. Può essere utilizzato anche per raddoppiare i minerali.%n%n§2Per il funzionamento della macchina sono necessarie le lame (Shredder blades).
 
 # Quest: Soldering Station
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=Soldering Station
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.desc=The §3Soldering Station§r is the machine in which §6§rcircuit components§r can be combined§6§r into §6Circuits§r and where §6Machine Upgrades§r can be created.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=Stazione di Saldatura
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.desc=La §3Soldering Station§r (Stazione di Saldatura) è il macchinario in cui i §6§rcomponenti circuitali§r possono essere combinati per creare §6Circuiti§r e dove possono essere realizzati i §6Machine Upgrades§r (upgrade per macchinari).
 
 # Quest: Crucible
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.name=Crucible
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.desc=The §3Crucible§r is an important machine as it is the central component of metallurgy. It is used as a method of ore processing, alloying, and metal casting. It requires an external heat source to melt the inputs into liquids and when filled, it emits a consistent amount of soot that can cause a fair amount of pollution that cannot be mitigated. Some alloys, as mentioned before, can be made alternatively using a §3Blast Furnace§r, however this is generally slower.%n%n[F1] For more information.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.name=Crogiolo
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.desc=Il §3Crucible§r (Crogiolo) è un macchinario fondamentale, in quanto rappresenta il componente centrale della metallurgia. Viene utilizzato per il processamento dei minerali, la creazione di leghe e la fusione dei metalli. Richiede una fonte di calore esterna per fondere gli input in forma liquida e, quando è pieno, emette una quantità costante di fuliggine che causa un discreto inquinamento non mitigabile. Come menzionato in precedenza, alcune leghe possono essere realizzate in alternativa usando un §3Blast Furnace§r, tuttavia questo metodo è generalmente più lento.%n%nPremi [F1] per ulteriori informazioni.
 
 # Quest: Arc Welder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=Arc Welder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=The §3Arc Welder§r is a machine needed for the creation of many components, such as §6Welded Plates§r, §6Missile Parts§r and more. Some Recipes will require a fluid inserted into the welder to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=Saldatrice ad Arco
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=L'§3Arc Welder§r (Saldatrice ad Arco) è un macchinario necessario per la creazione di molti componenti, come le §6Welded Plates§r (Piastre saldate), §6Missile Parts§r (Parti di missili) e altro ancora. Alcune ricette richiederanno l'inserimento di un fluido all'interno della saldatrice per poter funzionare.
 
 # Quest: Combination Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Combination Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Forno Combinato
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=Il §3Combination Oven§r (Forno Combinato) è un tipo unico di fornace che trasforma gli oggetti nei rispettivi prodotti generando contemporaneamente dei sottoprodotti liquidi. Può essere utilizzato per produrre §6Coke§r, §bWood Oil§r e §6Alluminio§r in modo più efficiente. 
 
 # Quest: Chemical Plant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=Chemical Plant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=The §3Chemical Plant§r is a machine needed for several processes, turning fluids into other fluids, synthesis of different compounds, ect. Like the §3Assembly Machine§r, recipes can be selected entirely within the GUI.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=Impianto Chimico
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=Il §3Chemical Plant§r (Impianto Chimico) è un macchinario necessario per diversi processi, come la trasformazione di fluidi in altri fluidi, la sintesi di vari composti e altro ancora. Come per la §3Assembly Machine§r, le ricette possono essere selezionate interamente all'interno della GUI.
 
 # Quest: Strand Caster
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.name=Strand Caster
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=The §3Strand Caster§r is a large basin that can cast items in batches of 9. It also requires §bWater§r in order to cast, where it makes §bLow-Pressure Steam§r that can be turned back into water.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.name=Colata Continua
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=Lo §3Strand Caster§r (Colata Continua) è una grande vasca in grado di colare oggetti in lotti da 9. Per funzionare richiede §bAcqua§r, che durante il processo viene trasformata in §bVapore a bassa pressione§r, il quale può essere successivamente riconvertito in acqua.
 
 # Quest: High-Speed Steel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=High-Speed Steel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=High-speed steel§r is an advanced and specialized form of standard steel. It used in many recipes, such as the §3Oil Derrick§r and the §3Industrial Mixer§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=Acciao Super Rapido
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=L'High-speed steel (Acciao Super Rapido) è una forma avanzata e specializzata del normale acciaio. Viene utilizzato in molte ricette, come l'§3Oil Derrick§r (Trivella petrolifera) e l'§3Industrial Mixer§r (Miscelatore industriale).
 
 # Quest: Oil Resevoir Detector
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.name=Oil Resevoir Detector
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.name=Rilevatore di Giacimenti Petroliferi
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.desc=The §6Oil Resevoir Detector§r will help one in the search for an §eOil Deposit§r by pointing it out in chat. If the oil deposit is located very far away, it can be mined and moved to a stationary oil refinery.
 
 # Quest: Conveyor Belt
