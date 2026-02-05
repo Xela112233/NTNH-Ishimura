@@ -61,7 +61,7 @@ betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=§3Аккумуляторный
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Анализатор энергосети
-betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=The §6Cable Network Analysis Tool§r is used to check the integrity of power grids and analyze their main functional components. To perform a test, right-click the analyzer on wires or mechanisms in the power grid. The device displays the following data:%n%n§eLinks§r - these include wires and mechanisms that can conduct energy (e.g., energy storage units, utility poles).%n%n§cProviders§r - all mechanisms capable of producing energy and/or feeding it into the grid (energy storage units in "§agreen§r" and "§6orange§r" modes, turbines, etc.).%n%n§9Receivers§r - everything that absorbs energy from the grid (energy storage units in "§9blue§r" mode, grinders, and other mechanisms).%n%n§2The analyzer not only displays the above components but also counts them. Each grid is assigned a unique code.%n%nParticles only spawn in a 20 block radius!
+betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=§6Анализатор энергосети§r используется для проверки целостности энергосетей и анализа их основных функциональных компонентов. Чтобы выполнить проверку, нажмите правой кнопкой мыши анализатором на провода или механизмы в энергосети. Устройство отображает следующие данные:%n%n§eСоединения§r - к ним относятся провода и механизмы, способные проводить энергию (например, энергохранилища, опоры ЛЭП).%n%n§cПоставщики§r - все механизмы, способные производить энергию и/или подавать её в сеть (энергохранилища в режимах "§aзелёный§r" и "§6оранжевый§r", турбины и т.д.).%n%n§9Потребители§r - всё, что поглощает энергию из сети (энергохранилища в режиме "§9синий§r", измельчители и другие механизмы).%n%n§2Анализатор не только отображает вышеперечисленные компоненты, но и подсчитывает их. Каждой сети присваивается уникальный код.%n%nЧастицы появляются только в радиусе 20 блоков!
 
 # Quest: Automatic Buzz Saw
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Автоматическая пила
@@ -393,119 +393,119 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.name=Бакелит
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.desc=§6Bakelite§r is an alternative to Polymer and can be used for the same recipes. Since it doesnt require any §6Coal Powder§r or §6Fluorite§r to be made, it is easier and more convenient to automate than §6Polymer§r.
 
 # Quest: Desh
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.name=Desh
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.name=Деш
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.desc=§6Desh§r is an alloy made up of 9 rare earth metals to make its blend form, which is solidified and refined using §bMercury§r and §bLight oil§r in the §3Chemical Plant§r. Desh is an almost unbreakable material and as such its tools have infinite durability. %n%n§a§2Desh can also be made using DeshReady™ in a Rotary Furnace, or later on, in an Ore Acidizer.
 
 # Quest: Industrial Steam Turbine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.name=Industrial Steam Turbine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.name=Промышленная паровая турбина
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=The §3Industrial Steam Turbine§r is a multiblock machine that is a much larger and more powerful version of the regular §3Steam Turbine§r. It has a §e100MHE§r internal power buffer, a 512,000 MB input buffer, and a 10,240,000 MB output buffer, and can process 102,400 MB per tick at the most. It is also the only turbine that operates at §e100%%§r efficiency.
 
 # Quest: Coker Unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=Coker Unit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=Коксовая установка
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=The §3Coker Unit§r is a machine that turns oil products into §6Petroleum Coke§r, which is the same to the other kinds of coke, aswell as additional fluids as byproducts. The coker unit will require an external heat source in order to function, similar to the §3Crucible§r.%n%n§2§r§2Alongside the §2§r§2§r§2Electric Arc Furnace, the coker unit is one of the most polluting machines of the mod. It spreads 20 soot per second, making it a dangerous machine to use next to a glyphid nest.
 
 # Quest: Auxilary Cooling Tower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=Auxilary Cooling Tower
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=Вспомогательная градирня
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=The §3Auxiliary Cooling Tower§r is a larger version of the Steam Condenser able to process up to 50 mb/t of §bLow-Pressure Steam§r.
 
 # Quest: Refinery Power
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.name=Refinery Power
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.name=Нефтеэнергия
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=Oil products can be combusted or burnt to produce massive amounts of energy.%n%nThe §3Industrial Combustion Engine§r combusts fuels, such as §bHeating Oil§r or §bDiesel§r to produce power. Various piston sets exist, which are needed for the engine to work, each one giving its own efficiency bonuses to fuel grades.%n%nThe §4§3Turbofan§r is the best place to use aviation type fuels, such as §bKerosene§r, as it provides §e100%%§r power efficiency. Be careful not to stand infront of it while its operational!%n%nThe §3Combined Cycle Gas Turbine§r is the only generator that can burn gaseous fuels at §e100%%§r efficiency. The CCGT uses §3§bEngine Lubricant§r, and produces §bDense Steam§r.%n%nThe §3Flare Stack§r is used for burning gasses such as §bUnsaturated Hydrocarbons§r for power, aswell as dealing with excess fluids.%n%nThe §3Fluid Burner§r is a much more efficient way of producing power from gases. Place a §3Boiler§r ontop and run the §bSteam§r through a turbine to generate power.%n%nConsider installing a §6Muffler§r on some of these machines as they are very loud. Shift-Click on a machine while holding a Muffler to apply.
 
 # Quest: Pumpjack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=Pumpjack
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=Станок-качалка
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.desc=The §3Pumpjack§r is a more efficient §3Oil Derrick§r which extracts 750mb of §bCrude Oil§r and a random amount of §bNatural Gas§r between 50 and 250mb in a 1.25 second cycle. It depletes a single block of a deposit after extracting a random number of cycles of oil that is on average twice as large compared to the derrick.%n%nIn total, this means that the pumpjack is on average 3x as efficient at extracting oil and 3x as fast at doing so while producing the same amount of natural gas as the derrick.
 
 # Quest: Ore Acidizer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.name=Ore Acidizer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.name=Рудный окислитель
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.desc=The §3Ore Acidizer§r is a useful machine, used for processing various items for utility, ore multiplication, and more. It is powered by electricity and requires various solvents depending on the item. The acidizer is quite the power hungry machine, consuming §e20kHE/s§r. %n%n
 
 # Quest: Hydraulic Fracking Tower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Hydraulic Fracking Tower
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Башня гидроразрыва пласта
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=The §3Hydraulic Fracking Tower§r is used to extract infinite oil from a §eBedrock Oil Deposit§r. To operate, the machine needs §bFracking Solution§r. During its operation, the surrounding environment will sustain considerable damage. §6Oily Dirt§r and §6Oily Sand§r can be used to create §6Arsenic§r, a substitute of §6Bismuth§r.%n%nOperating the hydraulic fracking tower will consume §e100kHE/s§r.
 
 # Quest: Centrifuge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUg.name=Centrifuge
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUg.name=Центрифуга
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUg.desc=The §6§3Centrifuge§r allows for the seperation of ores, giving back more items than the usual mining method. It also seperates items into their respective items. Additionally, they are used in processing §e§6Bedrock Ores§r.%n%nOperating the centrifuge will consume §e4kHE/s§r.
 
 # Quest: Electric Groundwater Pump
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.name=Electric Groundwater Pump
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.name=Электрический насос для грунтовых вод
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=The §3Electric Groundpump§r can be used to quickly generate §bWater§r, making it very useful later on for filling large §3Tanks§r and reactors. The pump requires a 3x3 cube of dirt directly beneath it and must be below Y:70, otherwise it won't work.
 
 # Quest: Industrial Solidification Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.name=Industrial Solidification Machine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.name=Промышленный отвердитель
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.desc=The §3Industrial Solidification Machine§r is a general use machine for the solidification of various fluids. An important product of this machine is §6Tar§r, which can be used to create §3Tanks§r.
 
 # Quest: Industrial Liquification Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=Industrial Liquification Machine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=Промышленный разжижитель
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=The §3Industrial Liquification Machine§r is a general use machine for the liquifying various items. It becomes very useful for cobblestone generation, and thus §6Silicon§r automation.
 
 # Quest: Tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=Tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=Цистерна
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=§3Tanks§r and §3Barrels§r are useful storage devices that can hold various fluids in various amounts. Each tank and barrel supports holding different types of corrosive, hot, or exotic fluids, and knowing which ones can hold your desired fluids can be vital to your fluid processing and storage facilities.%n%nTanks can hold up to 256,000mb of fluids, while a Steel Barrel can hold 16,000.%n%n§4§2Tanks cant hold highly Antimatter and Corrosive fluids and as such a Big-Ass Tank 9000 or a Magnetic Tank is needed respectively.
 
 # Quest: Geiger Counter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=Geiger Counter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=Счётчик Гейгера
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=The §6Geiger counter§r is a device used to measure §eRAD/s§r, in order to inform the player of any eventual radiation. It is an upgrade to the §6Dosimeter§r. It can measure three different types of radiation, those types being chunk radiation, environmental radiation and player contamination.%n%nIt can be used in one of two forms, either as a hand-held item or in its block form.%n%nHolding it in the inventory will show a meter on the bottom left of the screen, and right clicking while holding it will send a message in chat showing the various doses of radiation.%n%nIt will also click whenever it reads any kind of radiation, a signature function of any dosimeter.
 
 # Quest: Survey Scanner
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=Survey Scanner
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=Сканер
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=The §6Survey Scanner§r is a handheld device that will point out underground resourse deposits, such as §eDepth Rock§r and §eBedrock Ores§r.
 
 # Quest: Nuclear Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=Nuclear Blast Furnace
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=Ядерная доменная печь
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=The §3Nuclear Blast Furnace§r is an RTG-powered alternative to the standard §3Blast Furnace§r. It has 6 slots for RTG pellets, and requires a minimum of 15 heat to operate. It is significantly faster than the regular blast furnace.%n%nPellets with higher power levels will have a better effect of heating and thus speed. If sufficient heat is provided, it can alloy items near-instantaneously.
 
 # Quest: Launch Pad
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=Launch Pad
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=Компактная пусковая площадка
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.desc=The §3Launch Pad§r is the main launch table for most missiles. Although it is the earliest available, missiles must first be erected before launch, resulting in a small delay.%n%nThe §3Silo Launch Pad§r is a miniaturized version of the launch pad. It can launch every generic missile with a delay of only 5 seconds. A rusted variant can be found in the naturally-occurring silo structure, holding the damaged Doomsday Missile.
 
 # Quest: Transport Drones
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name=Transport Drones
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name=Транспортные дроны
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=§3Transport Drones§r are flying machines which will transport items and fluids between different containers. The drones require no power, and can transport both up and down. §3Waypoints§r can be used to make a better path for the transport drones to move around.
 
 # Quest: Electrolysis Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzA.name=Electrolysis Machine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzA.name=Электролизёр
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzA.desc=The §3Electrolysis Machine§r enables the separating of elements from fluids and the advanced processing of ores, making it an important machine in ore processing. Operating the machine consumes §e200kHE/s§r.%n%nThe electrolysis machine has 2 functions: one for the separation of fluids and one for ore processing.%n%nIn the first mode, the machine will take in a compatible fluid and separate it into 2 other fluids.%n%nIn the second mode, it will require §bNitric Acid§r and will process any kind of ore-derived crystal, allowing the maximum yield of the ore. There are 2 outputs, for the molten main product the outlet marked green and the secondary the one marked red, plus a byproduct kept in its item form. The outlets follow the same mechanics as the §3Crucible§r.%n%n§2Consider installing a Power Saving upgrade above level 2 on the electrolysis machine as it will significantly reduce the power consumption with only a minimal speed penalty.
 
 # Quest: Semtex
-betterquesting.quest.D6A-to-oSe29nf5qIu4h_w.name=Semtex
+betterquesting.quest.D6A-to-oSe29nf5qIu4h_w.name=Семтекс
 betterquesting.quest.D6A-to-oSe29nf5qIu4h_w.desc=§6Semtex§r is an explosive that is used in conjunction with C-4 in many crafts.%n%nSemtex is used in many crafts of various ammunition and mines, such as the §6Stinger missile§r, §6anti-personnel mines§r, and so on. In all crafts that use Semtex (except, of course, the Semtex block and Semtex bar, as well as the explosive reactive armor plate), it can be replaced with a C-4 bar.%n%nIt is used to create the bomb of the same name.%n%n§2Semtex can be eaten, making you feel like a real American soldier.§r
 
 # Quest: Microchip
-betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.name=Microchip
+betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.name=Микрочип
 betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.desc=§6Microchips§r are one of the most important components of future circuits and will be used in bulk throughout progression.
 
 # Quest: Powered Drill
-betterquesting.quest.UWNifpoeQfypMwfGniM40w.name=Powered Drill
+betterquesting.quest.UWNifpoeQfypMwfGniM40w.name=Силовой бур
 betterquesting.quest.UWNifpoeQfypMwfGniM40w.desc=The §6Powered Drill§r is a modular mining device which can make resourse gathering and excavation much faster than normal pickaxes. %n%nVarious modifications can be attached in the §3Weapon Modification Table§r, such as new drillbits for a larger mining radious or even new engines, which let it run on electricity.
 
 # Quest: Redstone Fluid Overflow
-betterquesting.quest.ZTrtIRiyRO2J5jHQ4sroaQ.name=Redstone Fluid Overflow
+betterquesting.quest.ZTrtIRiyRO2J5jHQ4sroaQ.name=Управление потоком с помощью редстоуна
 betterquesting.quest.ZTrtIRiyRO2J5jHQ4sroaQ.desc=§6§6§3Redstone-Over Radio§r in combination with a §3Redstone Fluid Valve§r can be used to detect when a tank is starting to fill up, and release the insides. This is useful for having buffers without having all the fluids being wasted.%n%n§2Here is an exmaple of a tank that will only output fluid once its full:§r%n%nFirstly, place a §6ROR Transmitter§r on one port of the tank, provide an ID and enable Polling.%n%n[img height=1000]betterquesting:textures/QB_Fluid1.png[/img]%n%nAfter that, place a §6ROR Logic Receiver§r next to the fluid valve and input the desired settings. Make sure that your signal is >= of your desired buffer. One redstone level equals to 16k mb.%n%n[img height=1000]betterquesting:textures/QB_Fluid2.png[/img]%n%nA §3Fluid Control Pump§r can also be used to limit throughput of fluids and to also add priorities.
 
 # Quest: Jetpack
-betterquesting.quest.l6zSmdfhSw6aTqiJsNDiHg.name=Jetpack
+betterquesting.quest.l6zSmdfhSw6aTqiJsNDiHg.name=Реактивный ранец
 betterquesting.quest.l6zSmdfhSw6aTqiJsNDiHg.desc=The §6Jetpack§r can be used to travel upwards. It can be upgraded to unlock additional abilities, and can be equiped as an armor modification.
 
 # Quest: Solid Fuel
-betterquesting.quest.l7cvDxEiTg6v1RvTk-ynTw.name=Solid Fuel
+betterquesting.quest.l7cvDxEiTg6v1RvTk-ynTw.name=Твёрдое топливо
 betterquesting.quest.l7cvDxEiTg6v1RvTk-ynTw.desc=§6Solid Fuel§r is a compact solidified petroleum product with superior burn time and heat output compared to coal. Essential for advanced furnace operations and rocket propulsion systems.
 
 # Quest: Delinquent
-betterquesting.quest.nwCUMdHpQjykUlIVNW7Bcw.name=Delinquent
+betterquesting.quest.nwCUMdHpQjykUlIVNW7Bcw.name=Нарушитель
 betterquesting.quest.nwCUMdHpQjykUlIVNW7Bcw.desc=Be mean.
 
 # Quest: Teleporter
-betterquesting.quest.refh8r3gQyavrC4KgSeWkw.name=Teleporter
+betterquesting.quest.refh8r3gQyavrC4KgSeWkw.name=Телепорт
 betterquesting.quest.refh8r3gQyavrC4KgSeWkw.desc=The §3Teleporter§r can be used to teleport players, and entities in general, to a specific location.%n%nRight-click a block with the §6Telelinker§r to set the desired exit position, then shift-click the teleporter with the telelinker to configure the teleporter.%n%n§2The teleporter is a one way trip so it is advised that multiple are made.%n%nInterdimensional teleportation using teleporters requires a very expensive type of fuel, so it is recommended that other teleportations methods are used, such as AE2 Spatial.
 
 # Quest: Pinwheels
-betterquesting.quest.t6tkjZliTEKxH0W6y39auQ.name=Pinwheels
+betterquesting.quest.t6tkjZliTEKxH0W6y39auQ.name=Вертушки
 betterquesting.quest.t6tkjZliTEKxH0W6y39auQ.desc=The §6Chlorine Pinwheel§r is a yellow propeller capable of producing chlorine indefinitely.%nAcquisition%n%nIt cannot be crafted, but can be found in structures (e.g., in a starship).%n%nThe chlorine spinner is an endless source of §bChlorine§r; to use it, simply place it in a container slot (e.g., in a barrel). The item will produce chlorine indefinitely, although the production rate is low (1 mb/t or 20 mb/s).%n%nThe §6Oxygen Pinwheel§r is analogous to the Chlorine Pinwheel, producing §bOxygen§r instead of §bChlorine§r.
 
 # Quest: Precision Assembly Machine
-betterquesting.quest.tKyjXZ3KQa6y3FLlxcC2_A.name=Precision Assembly Machine
+betterquesting.quest.tKyjXZ3KQa6y3FLlxcC2_A.name=Прецизионная сборочная машина
 betterquesting.quest.tKyjXZ3KQa6y3FLlxcC2_A.desc=The §3Precision Assembly Machine§r is a machine which can produce §6Blueprints§r. Due to the recipes having a low success rate, automation of the ingredient is recommended.%n%nPufferfish can be obtained from throwing §6Fishing Dynamite§r in water.
 
 # Quest: Weapon Steel
