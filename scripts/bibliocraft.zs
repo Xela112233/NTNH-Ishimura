@@ -11,3 +11,7 @@ recipes.remove(<BiblioCraft:Printing Press>);
 recipes.addShaped(<BiblioCraft:Printing Press>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plankWood>, <ore:itemBlazePowder>, <ore:plankWood>], [<ore:plateSextupleIron>, <ore:plateSextupleIron>, <ore:plateSextupleIron>]]);
 
 recipes.remove(<BiblioCraft:BiblioPaintPress>);
+
+recipes.addShaped(<BiblioCraft:item.tape>, [[<minecraft:string>, <minecraft:string>, <minecraft:string>], [<minecraft:string>, <ore:dyeYellow>, <minecraft:string>], [<minecraft:string>, <minecraft:string>, <minecraft:string>]]);
+
+recipes.remove(<BiblioCraft:item.tape>);

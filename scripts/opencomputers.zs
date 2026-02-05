@@ -163,5 +163,3 @@ recipes.addShaped(<OpenComputers:item:49>, [[null, <ore:materialEnderPearl>, nul
 recipes.addShaped(<OpenComputers:item:94>, [[<ore:Steel>, <minecraft:dispenser>, <ore:Steel>], [<ore:oc:materialTransistor>, <hbm:item.part_generic:1>, <ore:oc:materialTransistor>], [<ore:Steel>, <hbm:item.circuit:3>, <ore:Steel>]]);
 recipes.addShaped(<OpenComputers:item:107>, [[<ore:Steel>, <ore:oc:wlanCard>, <ore:Steel>], [<ore:oc:cpu2>, <ore:oc:materialAcid>, <ore:oc:ram3>], [<ore:Steel>, <ore:oc:capacitor>, <ore:Steel>]]);
 recipes.addShaped(<OpenComputers:item>, [[<ore:torchRedstoneActive>], [<ore:oc:materialTransistor>], [<hbm:item.circuit:3>]]);
-recipes.addShaped(<OpenComputers:relay>, [[<ore:Steel>, <ore:oc:cable>, <ore:Steel>], [<ore:oc:cable>, <ore:oc:lanCard>, <ore:oc:cable>], [<ore:Steel>, <hbm:item.circuit:3>, <ore:Steel>]]);
-recipes.addShaped(<OpenComputers:disassembler>, [[<ore:Steel>, <ore:oc:materialCU>, <ore:Steel>], [<hbm:item.part_generic:1>, <ore:oc:circuitChip1>, <hbm:item.part_generic:1>], [<ore:Steel>, <hbm:item.circuit:3>, <ore:Steel>]]);
