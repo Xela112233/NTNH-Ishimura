@@ -61,6 +61,7 @@
 
 
 **Changed**
+- The FPS is now ASTRONOMICALLY HIGH
 - Fixed "definitely a pig" - Ezzocorbi
 - Optimize TileEntities
 - Misc small changes, and a few small fixes
