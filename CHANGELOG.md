@@ -1,132 +1,109 @@
-# 2.5.0 Release
+# 2.6.0 Release
 
 ## What's changed?
 **Added**
-- Added new HUD features (everything is customizable)
-- Added blur when entering GUIs
-- Added various optimizations and tweaks
-- Added item physic
-- Added Keyboard Wizard (check controls settings)
-- Added opticubes
-- Added Resource Pack Organizer
-- Added satchels and pouches
-- New models for:
-   └ Stardar
-   └ Orbital Station Computer
-   └ Solar Panel
-- New GUIs for:
-   └ Cryogenic Distillation Machine
-   └ Vacuum Solderer
-- New battery system
-   └ Energy storage blocks, capacitors and battery items are now deprecated, but can still be used
-   └ There is now new types of battery items, as well as capacitor items
-   └ Instead of energy storage blocks, there is now a battery socket, which allows those new items to be connected to the power grid
-   └ Battery sockets act like cables, they will connect power grids when two cables are plugged into them in different directions
-   └ Self-chargers and creative batteries are still around, as well as spark batteries which are needed for the balefire bomb
-   └ The FEnSU has been replaced by a much larger version with unlimited energy storage
-- Fluid valve with counter
-   └ Reads total fluid movement within a network
-   └ Value can be read or reset with OC or RoR
-   └ Allows for very precise portioning and fluid control
-- Added ArmoredArms mod
-- Added "Burn Time" description to burn-able items
-- Creative klystron
-   └ Always outputs as much KyU as the most demanding existing recipe needs
-- Added a bunch of optimization mods that should improve overall performance
+- HTR-F4 NEO Station Thruster added
+   └ Connect to the new fusion reactor to provide thrust for your space stations!
+- Lithium hydroxide terraforming 
+   └ Can convert CO2 in an atmosphere into breathable oxygen, great for terraforming Duna well before Dyson anatmogenesis becomes available
+   └ A new machine - the Atmospheric Emitter - has been added to emit huge amounts of gases quickly
+- QMAW for the Rocket Launch Pad and the Vehicle Assembly Base
+- Dusty + airless celestial bodies now exhibit a faint particulate glow at sunset/sunrise due to charged particles
+- Added Transparency Border to recipe-background and catalyst- (NEI)
+- Added tooltip for "Required Crafts" with shift in NEI
+- Revamped shader support (Shader Fixer was reworked)
+- Better OSX J8 Support
+- Better video settings search
+- Dynamic light improvements
 
 
 
 **Fixed**
-- Fixed broken skins
-- Fixed various bugs
-- Fixed top-left corner in the main menu
-- Fixed Xenon thruster uncraftable in new assembly machine
-- Ore clusters rendering partially transparent
-- Custom rockets churning chunks with unused vanilla lava/water checks
-- Fixed meteors using a nonexistant keepalive timer, causing potential audio flickering in certain cases
-- Potentially fixed a performance issue caused by transmission networks not being deleted when they have no active links
-- Fixed power not saving for mining lasers
-- Fixed the annihilator producing blank 528 mode blueprints when 528 mode isn't even enabled
-- Fixed black fire not using the skeletonizer on death
-- Fixed arc furnace electrodes not being able to be plugged into the arc furnace unless the lid is fully open
-- Fixed broken keybind localization
-- Potentially fixed an issue in regards to some hidden structures spawning
-- Fixed fluid counter valve not having a recipe
-- Fixed issue where /ntmreload would break registered fluids from addons
-- Fixed yet another issue regarding crates
-- Fixed RBMK fluid heaters losing their tank types when unable to boil anything
-- Fixed the FEnSU, cyclotron and reliant robin missile being uncraftable due to stacksize limitations
-   └ The system for detecting impossible recipe has been improved, instead of a fixed 64 item limit, it now uses the actual limit of the item (or 64 for ore dictionary inputs)
-- Fixed yet another issue regarding addon fluids breaking on recipe reload
-- Fixed YET ANOTHER issue regarding crates, AGAIN
-- Fixed a rare issue where the fusion reactor could have negative fuel
-- Fixed battery socket priority tooltip offset
-- Fixed enchantability on many armor sets being incorrect
-   └ Most power armors are intended to not be enchantable at all
-- Fixed crash caused by the balefire bomb
-- Fixed heat transfer rate labels on the boilers and coker unit being off by a magnitude of 10
-- Fixed crucible not having a heat transfer rate tooltip
-- Fixed certain heliostat mirror rotations not showing the mirror
-- Fixed chopper recipe creating eight choppers instead of one
-- Being able to put non-drive items into planner drive slots
-- Log spam when suffocating
-- Air bubbles appear when using DNT, even though it works as a spacesuit without PLSS
+- Fixed an issue when exiting a GUI after fast-moving items with shift causes the player to stuck in shift position
+- Fixed crash of the game caused by Assembly Machine GUI
+- Potentially fixed a crash caused by MobsInfo (#43)
+- Fix Exception on Server start (#44)
+- Fix WorldServer leak in NEIServerConfig
+- Fix NEI transparency border
+- Correctly crop colored text (NEI)
+- Fix Autocrafting for recipe without ingredients in bookmarks
+- Potentially fixed yet another issue regarding crates
+- Fixed battery socket fillpercent RoR function always assuming a max power of 1
+- Fixed issue where multiblock ports would generate many OpenComputers component entries
+- Fixed RBMK automatic control rods having incorrect settings when using the copy tool
+- Fixed battery sockets producing junk debug data in the logs
+- Fixed an issue where the charging station would crash when trying to charge certain items
+- Fixed the DFC's core component not dropping its contents when mined
+- Fixed audio problems with guns
+- Fixed third person muzzleflash on the miniguns clipping the barrel
+- Fixed arc furnace IO slots stacking items with incompatible NBT
+- Fixed a bounding box issue with casing particles, causing them to slide sideways on the first tick, making trajectories weird
+- Fixed some turrets not using the more modern casing spawner system which allows casings to have a smoke trail
+- Fixed incorrect tooltip on the upgrade stat screen for assembly factories
+- Fixed crash caused by RBMK overpressure meltdown mechanic
+- Fixed a crash causing by the charging station in combination with the new battery packs
+- Fixed a broken and originally unintended feature where the flamethrower turret would be loadable using regular item tanks
+   └ Most ammo slots now work for loading, the empty canisters are returned via the fluid ID slot
+- Fixed a dupe regarding conveyors
+- Crash on mob spawning due to forge enum extensions
+- Orbital rocket assembly allows stacks larger than 8
+- Fix GLSL 120 support
+- Fix OSX F3 crash
+- Lighting fixes
+- Buffer fixes
+- Fix NTM:Space sunset not rendering
+- Various Shader Fixes
+- Dynamic Lights Improvements
+- Fix end portal w/ Shaders
+- Misc Shaderpack loading fixes
+
 
 
 
 **Changed**
-- NTNH is slowly being localized! Check out current progress and contribute - https://crowdin.com/project/ntnh
-- Glass now breaks faster with a pickaxe
-- Reworked ropes crafting recipe
-- Brewing stand now shows what potions are in it
-- Reworked Woven Cotton recipe
-- Removed unused mods
-- MASSIVELY debuffed mobs
-- Station hum now uses the ambient sound category
-   └ A few other sounds moved into more appropriate sound categories
-- Conglomerate processing now requires an initial brine washing step
-- DNT suit now functions as a full spacesuit, without the need for a PLSS
-- Suffocation damage now scales over time
-- Changed icon of the NTNH window
+- The FPS is now ASTRONOMICALLY HIGH
+- Fixed "definitely a pig" - Ezzocorbi
+- Optimize TileEntities
+- Misc small changes, and a few small fixes
+- Add texture for toggled state of magnet button
+- Updated russian localization
+- Updated ukrainian localization
 - Updated italian localization
-- After not being part of worldgen for a long time, oily coal is finally being removed
-- The rare metal blocks that had been unobtainable and unused for the longest time have been removed
-- The schrabidium transmutator's grace period is over, it is finally being destroyed
-- Most of the legacy fusion reactor components, which were unobtainable and unusable, have been removed
-   └ The block ID economy is looking better than ever
-- Infinite water barrels can now be crafted with any water container and not just buckets
-- OpenComputers integration for the PWR can now also read the heat capacity stats
-- Removed the restriction that demands that cluster ores need to be mined by hand
-- Laser beams from energy weapons are now a lot more narrow
-- All steam turbines now have a passive drain on unused power in their buffers
-- NBT-tags are no longer shown in the description of items
-- Updated chinese and russian localization
-- Increased density of osmiridium ores in tom craters considerably (from 1:500 to 1:200)
-- Added a new server setting called ENABLE_MKU to toggle contageon effects, spread and save (part of /ntmserver)
-- Extended logging now logs uses of MKU
-- Mass storage units now display their held item on a display
-- Improved HUD gauges, electric chestplates with jetpacks installed now two gauges side by side
-- Material autogen now creates redstone in ingot form, allowing smaller than block quantities to be cast
-- Removed the ancient ZPE blocks
-- Drone hitboxes are now way smaller, which should cause them to get stuck when flying less
-- Sef-charging batteries have been reworked
-   └ They are now a new item with metadata (legacy ones still work)
-   └ The base form is an empty selfcharger which is filled with two billets of material, i.e. no more upgrade recipes
-   └ There are a few new variants like cobalt-60 and gold-198
-   └ New selfchargers have a model when plugged into a battery socket
-   └ Selfchargers are a fair bit weaker than their old counterparts, but substantially cheaper too
-- Old batteries now have the "LEGACY" tag
-- Pneumatic pipe networks with multiple outputs, especially filtered ones, should now have much better throughput due to not constantly failing to send items in round robin mode
-- The [N] calculator window now shows a history of previous operations
-- Simplified the cyclotron recipe
-- Station drives can now be used to recall docked & fueled drop pods to your current location
-- Stations now show up in the sky of the orbited planet
-- Food stacksize have been MASSIVELY increased
-- Recolored the main menu
+- Rad absorbers now use metadata, existing blocks will be converted automatically
+- Fissure bombs that go off in crater biomes now create fissures with metadata 1 which creates radioactive volcanic lava
+   └ If a crater biome is created on top of an existing fissure, it will keep producing normal volcanic lava
+- Simplified the battery socket's client packets, reducing CPU load
+- Muzzle flashes on guns now work in third person mode, including on other players and on NPCs, making it more apparent when you're being fired at
+   └ This includes non-standard special effects like the .44 gap flash and the .35-800 ejector plume
+- Removed the old unused satellite deco blocks, freeing up 6 block IDs
+- Crucibles that smelt metal with no template set will no place the metal in the recipe stack instead of the waste stack, this should make it easier to get a recipe to work in the many, many cases where people add the template after smelting the material
+- Battery sockets and the FENSU now support the copy tool
+- Removed unused displaylist support from the model loader
+   └ DLs have been long phased out in favor of VBOs anyway
+- Rebranded canned horse slime
+   └ Now with extra bone marrow
+- Updated the deuterium tower's model
+- Updated most blast door visuals
+- RBMKs now have QMAW pages
+- Updated the model on the heavy magnetic storage container
+- Increased the power draw on the osmiridium welding recipe
+- Bullet casings now make sounds when falling to the ground
+- Most ammo types now have QMAW pages, including information on whether or not they are a war crime
+- Both assembly and chemical factories now have four special ports that only allow items inserted to go into one recipe group
+- All models using the HFR wavefront loader can now be hot-swapped via resource reload (F3 + T)
+- Updated most door models
+   └ Door skins are no longer a dedicated item, the skin can be changed using a screwdriver
+   └ Available skins are cycled through in the item preview
+   └ Fire doors and secure access doors no longer use clipping planes (i.e. making the doors not render outside of their frames)
+   └ Vault doors have been ported to the current door system, the blocks should convert automatically
+- LPW-3N now shows a hint on how to operate it
+- Acidizer partitioner can now accept up to 96 different input items, greatly enhancing its ability to process all the bedrock ores available in space
+- Tektite is now deleted by the mining laser nullifier upgrade
+- Lesser/Greater Australium can now be cast into ingots
 
 
 
-[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.4.1...2.5.0)
+[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.5.0...2.6.0)
 
 ## Download
-[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.5.0)
+[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.6.0)

@@ -12,7 +12,6 @@
 
 // ================================================================================
 //#MARKER REMOVE
-recipes.remove(<BiblioCraft:item.tape>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
@@ -25,9 +24,7 @@ recipes.remove(<BiblioCraft:item.tape>);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
-recipes.addShapeless(<AgriCraft:seedSugarcane>, [<ore:cropSugarcane>, <AgriCraft:clipper>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<BiblioCraft:item.tape>, [[<minecraft:string>, <minecraft:string>, <minecraft:string>], [<minecraft:string>, <ore:dyeYellow>, <minecraft:string>], [<minecraft:string>, <minecraft:string>, <minecraft:string>]]);
 

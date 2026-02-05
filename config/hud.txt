@@ -164,7 +164,7 @@ lightLevel:
 	green:255.0
 	blue:255.0
 mobInfo:
-	enabled:true
+	enabled:false
 	players:true
 	mobs:true
 	distance:14.0
