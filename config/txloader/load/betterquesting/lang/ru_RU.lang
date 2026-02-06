@@ -85,7 +85,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=§3Anvils§r are a tiered craft
 
 # Quest: Burner Press
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=Твердотопливный пресс
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=The §3Presses§r are machines that can be used to make §6Plates§r, §6Wires§r, §6Circuits§r, §6Bullet Casings§r as well as §6Compressing§r non-smeltable powders back into their normal form. They require §6Stamps§r to work, which can be made from the basic §6Flat Stamp§r and a §6Template Folder§r. %n%n§2A preheater can be placed next to the Burner Press to increase its speed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=Пресс это машина которая нужна для создания: пластин, проводов, микросхем, гильз и сжатия не плавких порошков, обратно в их нормальную форму. Он требует штамп пресса для работы, который может быть сделан из плоского штампа и папки шаблонов машин. Внешний нагреватель может быть поставлен рядом с прессом и ускорить скорость нагревания. 
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Доменная печь
@@ -494,7 +494,7 @@ betterquesting.quest.l7cvDxEiTg6v1RvTk-ynTw.desc=§6Solid Fuel§r is a compact s
 
 # Quest: Delinquent
 betterquesting.quest.nwCUMdHpQjykUlIVNW7Bcw.name=Нарушитель
-betterquesting.quest.nwCUMdHpQjykUlIVNW7Bcw.desc=Be mean.
+betterquesting.quest.nwCUMdHpQjykUlIVNW7Bcw.desc=Будь жёстким.
 
 # Quest: Teleporter
 betterquesting.quest.refh8r3gQyavrC4KgSeWkw.name=Телепорт
@@ -509,40 +509,40 @@ betterquesting.quest.tKyjXZ3KQa6y3FLlxcC2_A.name=Прецизионная сбо
 betterquesting.quest.tKyjXZ3KQa6y3FLlxcC2_A.desc=The §3Precision Assembly Machine§r is a machine which can produce §6Blueprints§r. Due to the recipes having a low success rate, automation of the ingredient is recommended.%n%nPufferfish can be obtained from throwing §6Fishing Dynamite§r in water.
 
 # Quest: Weapon Steel
-betterquesting.quest.xADm9gLETmCgiS3amOTUcQ.name=Weapon Steel
+betterquesting.quest.xADm9gLETmCgiS3amOTUcQ.name=Оружейная сталь
 betterquesting.quest.xADm9gLETmCgiS3amOTUcQ.desc=§6Weapon steel§r is a steel alloy made by further refining steel in a §3Rotary Furnace§r. As its name implies, it is used in the crafting of weapons and ammunition. It is the next tier of weapons grade alloy after §6Gunmetal§r.
 
 # Quest: Mining Laser
-betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.name=Mining Laser
+betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.name=Лазерный шахтёр
 betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.desc=The §3Mining Laser§r is a laser drill which can be used to quickly dig large areas. It has a §e100 MHE§r internal power buffer and a 64,000mB internal §bCrude Oil§r buffer. Its default radius is 3, which can be increased by the use of an effectiveness upgrade. It can also be equiped with various upgrades to unlock new functions such as shredding or voiding.
 
 
 ## Quest Line: LV3 - Reactors Age
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=LV3 - Reactors Age
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=LV3 - Эпоха Реакторов
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=As energy needs increase, more powerful energy sources will be needed. This chapter covers Nuclear Reactors aswell as other advanced machines needed to produce ever stronger materials.
 
 # Quest: Gas Centrifuge
-betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.name=Gas Centrifuge
+betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.name=Газовая центрифуга
 betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.desc=The §3Gas Centrifuge§r is used to centrifuge §bUranium/Plutonium Hexafluoride§r to obtain enriched fuel for bombs and reactor fuel.%n%nTwo gas centrifuges in a row will yield §6Uranium-238§r and §6Uranium Fuel§r used in reactors. The uranium hexafluoride processing line does not consume the §6Sulfur§r and §6Fluorite§r, so loops are recommended.%n%nThe §6Gas Centrifuge Overclocking Upgrade§r is needed to obtain §6Uranium-235§r. Four gas centrifuges will have to be placed in a row and the upgrade on the last of them to obtain uranium-235 nuggets.%n%n[F1] For more information.%n
 
 # Quest: Nuclear Fuel Processing
-betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.name=Nuclear Fuel Processing
+betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.name=Обработка ядерного топлива
 betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.desc=With the §3Spent Fuel Pool Drum§r to cool down §3ZIRNOX§r or §3PWR§r depleted nuclear fuel and the §3PUREX§r to further process them, many new materials are now available.
 
 # Quest: Fusion Reactor
-betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.name=Fusion Reactor
+betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.name=Термоядерный реактор
 betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.desc=The §3Fusion Reactor§r is a large, expensive, and advanced reactor type that runs by fusing various plasma types to generate heat.%n%nThe main part of the fusion reactor, the §3"Torus"§r, features four connecting ports for external components. It requires electricity and §bPerfluoromethyl§r cooling to operate.%n%nThe §3Klystron§r is the main power source of the fusion reactor, which uses electricity and compressed air, to generate input energy, §eKyU§r, for the connected torus. It will throttle if the buffered electricity or compressed air falls below §e50%%§r, and if it falls below the torus' required input level, the plasma will extinguish.%n%nThe different plasma types also generate different useful byproducts and differing levels of neutron flux for breeding bulk quantities of materials, such as §6Lithium§r into §6Tritium§r.%n%nWelding the coils will require a §6Blowtorch§r or an §6Acetylene Welding Torch§r.%n%n§2For the additional components and power generation methods, please check out the two quests below.§r
 
 # Quest: Large Factory Multiblocks
-betterquesting.quest.8XHLo-wQRN28gu4AwCtHVQ.name=Large Factory Multiblocks
+betterquesting.quest.8XHLo-wQRN28gu4AwCtHVQ.name=Большие мультиблочные заводы
 betterquesting.quest.8XHLo-wQRN28gu4AwCtHVQ.desc=The §3Chemical Factory§r is a large version of the §3Chemical Plant§r, capable of performing 4 recipes in parallel. It has double the speed of the chemical plant but consumes twice as much power. Additionally, it consumes §bWater§r as a coolant, and produces §bLow-Pressure Steam§r, so a closed water cycle is recommended.%n%nThe §3Assembly Factory§r is a large version of the §3Assembly Machine§r, capable of performing 4 recipes in parallel. It functions the same as the chemical factory.
 
 # Quest: Starmetal Pickaxe
-betterquesting.quest.8sIzBzykSPqskvhCp-Tsmw.name=Starmetal Pickaxe
+betterquesting.quest.8sIzBzykSPqskvhCp-Tsmw.name=Кирка из Звёздного Металла
 betterquesting.quest.8sIzBzykSPqskvhCp-Tsmw.desc=The §6Starmetal Pickaxe§r is used as a crafting component for the §6Molten§r and §6Bismuth Pickaxes§r, both being unbreakable and having a lot of abilities. Additionally, both can be used to mine §eDepth Rock§r.%n
 
 # Quest: Cadmium
-betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.name=Cadmium
+betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.name=Кадмий
 betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.desc=§6Cadmium§r is a material needed to make §6Cadmium Stee§rl, which is a substitute of §6Technetium Steel§r.%n%nCadmium can be obtained by smelting cadmium powder, which can be obtained acidizing 10 §6Mustard Willow leaves§r with 250mB of §bHigh-Perfomance Solvent§r in the §3Ore Acidizer§r.%n%nThe mustard willow is a plant that can be found near §eBedrock Oil Deposits§r. When it's fully matured, the main item can be obtained, that being the mustard willow leaf.
 
 # Quest: High-Power Steam Condenser
@@ -550,27 +550,27 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=High-Power Steam Condenser
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.desc=The §3High-Power Steam Condenser§r is the a steam condenser which runs on electricity. It processes up to 60 mB/t of §bLow-Pressure Steam§r.
 
 # Quest: Leviathan Steam Turbine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.name=Leviathan Steam Turbine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.name=Паровая тцрбина "Левиафан"
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.desc=The §3Leviathan Steam Turbine§r is a massive turbine capable of processing gargantuan amounts of §bSteam§r at once, only hindered by the fluid system's transfer rate. It is significantly more powerful than even the §3Industrial Steam Turbine§r in terms of raw steam processing power. This turbine runs on §e85%%§r Efficiency, so it is recommended that only 1-2 are used for very large reactors.
 
 # Quest: RBMK
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=RBMK
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=РБМК
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=The §3RBMK§r is a modular boiling-water type nuclear fission reactor which consists entirely of concrete columns. Each of these columns is either blank or has a specific function that it performs such as holding fuel rods, moderating neutrons, or storing §bWater§r to be boiled into §bSteam§r. Each column will also exchange heat with the column next to it such that temperature differences between columns will gradually equalize within the reactor. If any column reaches §e1500°C§r, the reactor will explode incredibly violently, spraying scrap and immensely radioactive material in every direction.%n%nDue to the complex and expansive nature of the RBMK, it is highly recommend that the wiki is checked out as it provides more information.%n%n[url]https://nucleartech.wiki/wiki/RBMK[/url]%n%n§2This quest provides an optional retrieval task for a cheap and safe RBMK design which can produce High-Performance Solvent§r §2without cooling. Simply Place the RBMK Irradiation Channel next to the RBMK Fuel Rod, apply the covers on the collumns and surround them with a solid block.
 
 # Quest: Technetium/Cadmium Steel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Technetium/Cadmium Steel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Технециевая/Кадмиевая сталь
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=§6Technetium/Cadmium Steel§r is a steel based alloy mixed with technetium-99/Cadmium which has extreme corrosion resistance. It is frequently used in the late-game and acts as one of the main material gates of the §3Fusion§r and §3Watz§r powerplant.
 
 # Quest: PWR
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=PWR
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=ВВЭР
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.desc=The §2§3PWR§r is a modular fission reactor. It is more limited than the §3RBMK§r in terms of capability and fuel types but it is much safer and easier to use due to it melting down more gently and being far more stable in its operation.%n%nDue to the complex and expansive nature of the PWR, it is highly recommend that the wiki is checked out as it provides more information.%n%n[url]https://nucleartech.wiki/wiki/PWR[/url]%n%n§2This quest demands the most essential parts of a PWR, and does not represent the amount needed for a functioning reactor. There are also many other types of PWR Components that can be used.
 
 # Quest: Reformate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.name=Reformate
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.name=Реформат
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.desc=§bReformate§r is a product of §bCrude Oil§r obtained via a §3Vacuum Refinery§r or from processing §bNaptha§r in a §3Hydrotreater§r.%n%n§2This step can be skipped if making Jet Fuel and BTX using a Hydrotreater.%n
 
 # Quest: Starmetal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJw.name=Starmetal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJw.name=Звёздный Металл
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJw.desc=§6Starmetal§r is a unique alloy made from combining §6Saturnite§r with §6Meteorite Powder§r in a §3Blast Furnace§r.
 
 # Quest: Versatile Integrated Circuit
@@ -578,7 +578,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.name=Versatile Integrated Circuit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=The §6Versatile Integrated Circuit§r is the first circuit to use §6Bismuth/Arsenic§r. It is used in more advanced machines such as the §3Vacuum Refinery§r and is one of the main components of §6Versatile Circuit Boards§r.
 
 # Quest: Liquidator Medal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=Liquidator Medal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=Медаль ликвидатора
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=Incase of an §3RBMK§r meltdown, §6Fuel Chunks§r will be thrown near the reactor. The §6Liquidator Medal§r is an armor modification which passively reduces radiation, making it very useful when handling radioactive items or venturing into irradiated areas.
 
 # Quest: Versatile Circuit Board
@@ -586,15 +586,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.name=Versatile Circuit Board
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.desc=The §6Versatile Circuit Board§r is the final tier of circuit board, requiring §6Bismuth/Arsenic§r and §6Hard Plastic/PVC Bars§r.  As well as this, it is by far the most expensive circuit board, requiring nearly 55 insulators to craft a single one. Used rarely but in small amounts in advanced machines like the §3Fusion Reactor§r and in large amounts in components for the §3ICF Reactor§r.
 
 # Quest: Hard Plastic/PVC Bars
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAANA.name=Hard Plastic/PVC Bars
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAANA.name=Твёрдый пластик/ПВХ бруски
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANA.desc=§6Hard Plastic/PVC Bars§r are very durable plastics needed for many late game recipes. %n%n§2Both can be used in the same recipes.
 
 # Quest: Pyrolysis Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAANg.name=Pyrolysis Oven
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAANg.name=Пиролизная печь
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANg.desc=The §3Pyrolysis Oven§r is a mid-to-late game oil processing machine that allows easier production pf §6Crystalline Fullerite§r, which is needed in bulk for late-game machines onwards. %n%nIt can process an item with an optional fluid to produce another item and/or fluid. Functionally, it works similar to the §3Combination Oven§r, mostly in bedrock ore processing.%nIts main use however is in production of §6Fullerene§r, as it can turn §6Tar§r into §6Fine Soot§r, eliminating the RNG of a §3Smokestack§r.%n%nOperating the pyrolysis oven will consume §e200kHE/s§r.
 
 # Quest: Reformate Gas
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.name=Reformate Gas
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.name=Реформированный газ
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.desc=§bReformate Gas§r is used in welding very durable materials, aswell as used in making §6Saturnite§r.
 
 # Quest: FEL and SILEX
@@ -602,23 +602,23 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQw.name=FEL and SILEX
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQw.desc=The §3FEL§r or Free Electron Laser is a large multiblock utilized with the SILEX to produce various laser wavelengths needed for all SILEX recipes.%n%nA single FEL can power up to 5 SILEX'es. In order to stop the laser any concrete block can be in the its path.%n%nThe lower the wavelength of the crystal, the faster recipes will be completed.%n%nThe §6§3SILEX§r is a machine that separates isotopes and elements from compounds or other materials via the SILEX (Separation of Isotopes by Laser Exitation) process. It allows for easier enrichment of §6Uranium§r, §6Plutonium§r, and §6Australium§r.%n%nThe SILEX can also process §6Lapis Lazuli§r into §6Sulfur§r, §6Aluminium§r, and most importantly §6Cobalt§r. It can use §bHydrogen Peroxide§r to liquify any material to be processed, the material may even be in a powder state. The processed items come out into the right side collection of slots.%n%nThe SILEX must be placed at least 2 blocks away from activated FEL laser, or else its going to melt.
 
 # Quest: Saturnite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.name=Saturnite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.name=Сатурнит
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.desc=§6Saturnite§r is a very durable, heat-resistant and corrosion-resistant alloy that is commonly used for making stronger gun parts. It is also used to make §6Starmetal§r and is an important component of the §3Watz§r reactor.
 
 # Quest: Gravity Gun
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=Gravity Gun
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=Гравипушка
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=The §6Gravity Gun§r is an advanced tool which can lift and throw blocks. It is particularly useful for moving highly hazardous blocks, such as corium from a reactor meltdown, or throwing explosives.%n%n§2The gravity gun can be supercharged in a Cyclotron using Ionized Particles, further increasing its range and power.
 
 # Quest: Schrabidium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.name=Schrabidium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.name=Шрабидий
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.desc=§6Schrabidium§r is a dangerous material, but one which is needed for the creation of other items, such as §6Magnetized Tungsten§r and §6Ferric Schrabidate§r. It also makes for great reactor fuel. It can be created from exposing uranium ore to radiation using either a nuclear weapon or, more easily, by exploding radioactive barrels found in the abandoned nuclear powerplants in deserts.%n%n§2When holding Schrabidium, the player will receive the blindness effect, so it is recommended that a Suit which provides protection from both Bright Lights and Radiation is used.
 
 # Quest: Advanced Oil Processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.name=Advanced Oil Processing
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.name=Продвинутая переработка нефти
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.desc=The §3Catalytic Reformer§r is an optional late-game oil processing machine. It converts certain oil products into more valuable ones.%n%nThe §3Hydrotreater§r is another optional late-game oil processing machine that allows for easier production of §bSour Gas§r, which can also turn §bCrude Oil§r into §bDesulfurized crude Oil§r. %n%n§2The Hydrotreater requires pressurized Liquid Hydrogen in all its recipes, requiring the use of a Compressor.
 
 # Quest: Soyuz-FG
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name=Soyuz-FG
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name=Союз-ФГ
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc=The §3Soyuz-FG Rocket§r is an immensely powerful Soviet rocket that is the primary launch vehicle for all satellites. The rocket must be launched from a suitably large mount - in this case, the §3Soyuz Launch Platform§r.%n%nIt requires 128,000mB of §bKerosene§r and §bLiquid Oxygen§r to be launched as well as §e750kHE§r of power. Pressing the launch button starts a 30 second countdown. After the countdown has completed, the Soyuz will launch.%n%nThe Soyuz can, alongside its primary ability to deliver any satellite to orbit, also be set to a cargo mode, in which it can deliver any provided cargo to a distant spot across the world. Obviously, this is an incredibly expensive way to transport goods, and currently doesn't provide much utility.%n%n§2Blueprints for the Soyuz can be found in structures or purchased through Bobmazon.%n
 
 # Quest: Ferrouranium Anvil
@@ -630,27 +630,27 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcA.name=Neutrino Lens
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcA.desc=The §6Neutrino Lens§r is an armor modification which can detect and highlight special blocks, such as §eBedrock Ore deposits§r, the §6Pink Log§r and §6Alexandrite§r. %n%nFor the lens to work, it must first be linked to a §6Depth-Resource Scanning Module Satellite§r and then inserted into an armor piece using the §3Armor Modification Table§r.%n%n§2The HUD key has to be activated for it to work.
 
 # Quest: ZIRNOX
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name=ZIRNOX
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name=Цирнокс
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=The §3ZIRNOX§r is the first and cheapest nuclear reactor that one can make. Unlike the §3PWR§r and §3RBMK§r, it is a fully assembled reactor which requires §bWater§r and §bCarbon Dioxide§r to operate.%n%nDue to the low amount of steam the ZIRNOX makes, one can use the singleblock §3Steam Turbines§r, at the cost of §e85%%§r efficiency, and a single §3Steam Condenser§r on lower power fuels. Thus, 24 §6Natural Uranium Fuel Rods§r using 14kmB of carbon dioxide will yield a power output of around §e160kHE/s§r.
 
 # Quest: Cooling Tower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=Cooling Tower
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=Градирня
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=The §3Cooling Tower§r is a larger version of the §3Auxiliary Cooling Tower§r§r, able to process up to 500 mB/t of §bLow-Pressure Steam§r.
 
 # Quest: Ionized Particles
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=Ionized Particles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=Ионизированные частицы
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=§6Ionized Particles§r are the main product of the §3Fusion Reactor§r and are used in making §6Ferric Scrabidate§r, aswell as some particle capsules needed in the §3Particle Accelerator§r.%n%n§2Ionized Particles can be infinitely produced by utilizing Ionic Gel.
 
 # Quest: Bismuth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Bismuth
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Висмут
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=§6Bismuth§r is an important material needed in many advanced crafting recipes. Bismuth can be obtained from either §3RBMK§r fuel depletion and processing though a §3FEL§r and §3SILEX§r, or from bedrock ore processing using §bHigh-Performance Solvent§r. %n%n§6Arsenic§r will require an additional §bOre Acidizer§r aswell as access to high-performance solvent.%n%n§2Due to the lack of bismuth bedrock ore available on earth and the amount of time it takes to process RBMK fuels, it is recommended that some arsenic is used instead of bismuth.
 
 # Quest: Research and Breeding Reactor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.name=Research and Breeding Reactor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.name=Исследовательский реактор и реактор-размножитель
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.desc=The §3Research Reactor§r is a non-power reactor intended for burning fuel efficiently and acting as a neutron source for §3Breeding Reactor§ss§r. It has to be submerged in §bWater§r to cool since it does not have the active cooling of a typical power reactor. A §6Ra226Be§r or §6Pu238Be§r neutron source plate is needed to begin the reaction, and then can be removed. It explodes at exactly §e1,000°C§r, so caution is advised when using strong fuels and several breeders simultaneously.%n%nA §3Reactor Remote Control§  Block§r%nand a §6Reactor Remote Sensor§r can be used to activate and monitor the reactor from a distance.%n%nThe Breeding Reactor breeds isotopes of elements into heavier forms using the neutron flux of an adjacent Research Reactor. When the reactor is operating, rays of green-ish "lightning" emitted from the center rod of the model can be seen going to the outer rods from the glass observation window.
 
 # Quest: Welded Technetium/Cadmium Steel Plate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.name=Welded Technetium/Cadmium Steel Plate
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.name=Сваренная пластина из технециевой/кадмиевой стали
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.desc=The §6Welded Technetium/Cadmium Steel Plate§r is the welded varient of the cast technetium/cadmium steel plate and is used in some recipes that require strong materials. %n%n§2Make sure to have good energy generation and storage infrastructure as each plate costs 1.2 Billion HE.
 
 # Quest: Big-Ass Tank 9000
@@ -670,7 +670,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAng.name=BTX
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAng.desc=§bBTX§r is a high-grade powerful fuel which generates a lot of power when burnt. An important use of BTX is in the creation of §6Crystalline Fullerite§r and §6Hard Plastic Bars§r. BTX can be obtained from a §3Hydrotreater§r, but it is more efficient to use §bReformate§r from a §3Vacuum Refinery§r.
 
 # Quest: Watz Powerplant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=Watz Powerplant
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=Watz реактор
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=The §3Watz§r powerplant is a fission reactor which can produce §bPoisonous Mud§r, an important component of §6CMB Steel§r. Although the reactor is not really powerful in terms of energy output, it can be stacked ontop of eachother for increased mud and power production.%n%nIf the poisonous mud buffer reaches its maximum, the reactor will melt down and explode, irradiating a wide area around it and causing fallout to fall in a small area around it. As well as this, it will spew poisonous mud in a very wide area which will then corrode any blocks that it comes in contact with, similar to corium.
 
 # Quest: Magnetized Tungsten
@@ -694,7 +694,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.name=Crystalline Fullerite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=§6Crystalline Fullerite§r is an material which is primarely used in endgame machines, such as the §3ICF§r and the §3FEnSU§r.%n%n§2It is recommended that an Effectiveness 3 upgrade is installed on the Acidizer to increase the chance of not consuming the Fullerene, as fullerite can be expensive to produce large quantities.
 
 # Quest: High-Performance Solvent
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=High-Performance Solvent
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Высокоэффективный растворитель
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=§bHigh-Performance Solvent§r is a solvent which is used in an §3Ore Acidizer§r to further increase the products of bedrock ores, aswell as other recipes. It can be created from §bReformate Gas§r, from a §3Vacuum Refinery§r, and §bChlorine§r in an §3Industrial Mixer§r or be obtained from an §3RBMK§r Irradiation Channel.%n%nTo transport High-Performance Solvent by hand, a §6Hazardous Material Tank§r is needed.%n%n§2High-Performance Solvent made from an RBMK irradiation channel requires an ore acidizer.%n
 
 # Quest: Radiation-Powered Engine
@@ -702,15 +702,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABeA.name=Radiation-Powered Engine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABeA.desc=The §3Radiation-Powered Engine§r turns nuclear waste into decayed waste while also making energy in the process and giving guaranteed consistent decay times.%n%n§2Blueprints can be found in structures or purchased from Bobmazon.
 
 # Quest: Uranium-238
-betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.name=Uranium-238
+betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.name=Уран-238
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.desc=§6Uranium-238§r is the most common uranium isotope in the game. %n%nThis material has many uses, some of which are: §6Ferrouranium§r, MOX fuel, depleted uranium ammunition, absorber Pellets for the §3Watz§r powerplant and can also be turned into §6Schrabidium§r later on in the §3Exposure Chamber§r.
 
 # Quest: Additional Fusion Attachments
-betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.name=Additional Fusion Attachments
+betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.name=Дополнительные приспособления к термоядерному реактору
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=The §3Fusion Reactor Coupler§r turns outgoing plasma energy from a torus into usable §eKyE§r which can then be used to power another torus. Some fuel combinations require this, as the minimum §eKyE§r energy needed to ignite the plasma exceeds what four §3Klystrons§r could deliver.%n%nThe §3Fusion Reactor Breeding Chamber§r uses neutron flux from a torus to in order to process materials. It can perform any recipe from an §3RBMK irradiation channel§r, with some additional recipes aswell. The neutron flux is not affected by port sharing rules, and the output level is the same on any side.%n%nThe §3Fusion Reactor Collection Chamber§r increases the byproduct production rate by §e50%%§r.
 
 # Quest: High-Performance Solvent Bedrock Ore Processing
-betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.name=High-Performance Solvent Bedrock Ore Processing
+betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.name=Обработка бедроковой руды с использованием высокоэффективного растворителя
 betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.desc=§bHigh-Performance Solvent§r is the best tier of solvent which can be used in bedrock ore processing, yielding many rare materials such as§6 Bismuth§r and §6Technetium-99§r.%n%n§2These materials are not available from earth bedrock ores.
 
 # Quest: Fusion Power
@@ -718,11 +718,11 @@ betterquesting.quest.WS2zNdGdTnmclQfj2ARCog.name=Fusion Power
 betterquesting.quest.WS2zNdGdTnmclQfj2ARCog.desc=The §3Fusion Reactor Boiler§r is simplest method of extracting power from a fusion reactor, outputting §bSuper Dense Steam§r to be run through normal turbines.%n%nDue to using plasma energy, both the MHDT and the boiler are affected by port sharing rules, meaning that having multiple connected MHTDs, or boilers, decreases the amount of energy each turbine gets, but overall increases the total amount of extracted from the torus.%n
 
 # Quest: Fissile Materials
-betterquesting.quest.X6nUcp16QUqawLXQTqFTBw.name=Fissile Materials
+betterquesting.quest.X6nUcp16QUqawLXQTqFTBw.name=Расщепляющиеся материалы
 betterquesting.quest.X6nUcp16QUqawLXQTqFTBw.desc=With fissile materials obtained from either §3Gas Centrifuges§r or nuclear fuel processing, nuclear bombs are made available.
 
 # Quest: RBMK Fuel Processing
-betterquesting.quest.a0YRGBjSTGiD09r4LqD8EA.name=RBMK Fuel Processing
+betterquesting.quest.a0YRGBjSTGiD09r4LqD8EA.name=Оьработка топлива РБМК
 betterquesting.quest.a0YRGBjSTGiD09r4LqD8EA.desc=With the §3Nuclear Waste Disposal Drum§r to decay waste and a §3SILEX§r, §3RBMK§r nuclear fuels can be processed into many new materials.
 
 # Quest: Nuclear Waste Disposal Drum
@@ -730,11 +730,11 @@ betterquesting.quest.eadYFbwuQTS39P9cW-D-Fw.name=Nuclear Waste Disposal Drum
 betterquesting.quest.eadYFbwuQTS39P9cW-D-Fw.desc=The §3Nuclear Waste Disposal Drum§r is used to decay §3RBMK§r nuclear waste. The decayed nuclear waste can then be used with a §3FEL§r and §3SILEX§r to obtain some rare elements, such as §6Bismuth§r.%n%n§2The drum also emmits radiation when theres fuel inside it.
 
 # Quest: PUREX
-betterquesting.quest.g3S9-75wTGyQKmZaQTZl5Q.name=PUREX
+betterquesting.quest.g3S9-75wTGyQKmZaQTZl5Q.name=Пьюрекс
 betterquesting.quest.g3S9-75wTGyQKmZaQTZl5Q.desc=The §3PUREX§r is a machine that can reprocess depleted nuclear fuel into various materials. Most recipes require both §bNitric Acid§r and §bKerosene§r to function.%n%n§6Schrabidium§r can also be extracted from certain recipes, which require §bSchrabidic Acid§r. The schrabidium extracted yields double the schrabidium used to make the acid.
 
 # Quest: Chicago Pile
-betterquesting.quest.g8IVppPpTceY55PbNbceJQ.name=Chicago Pile
+betterquesting.quest.g8IVppPpTceY55PbNbceJQ.name=Чикагская Поленница
 betterquesting.quest.g8IVppPpTceY55PbNbceJQ.desc=The §3Chicago Pile§r is a crude early-game breeding reactor meant to produce §6Plutonium§r for use as reactor fuel.%n%nA pile is composed of drilled §6Graphite§r which can hold a variety of items in it, including radioisotope rods (§6Uranium§r, §6Radium§r, §6Plutonium§r), §6Lithium rods§r, and control rods. It does not behave as a unified single block, instead each individual piece of drilled graphite interacts with each other piece in a unique way depending on the rod it contains.%n%nAfter sufficient flux, the uranium rods in the Chicago Pile will transmute into plutonium rods that can be processed in an anvil into §6Reactor Grade Plutonium§r which can be used in other reactors such as the §3ZIRNOX§r and §3RBMK§r.%n%nThe chicago pile requires a significant amount of graphite blocks, which once placed can be drilled into with the hand drill to place any rod into. %n%nThe §6Hand Drill§r can be used to drill holes into the graphite or take core samples of the uranium fuel to determine heat, depletion, and neutron flux. §6Screwdrivers§r are used to extract rods.%n%nThe Quest asks for a 3x3 Chicago Pile (without the corners) with a §6Ra226Be§r Rod in the center surrounded by Uranium Rods.
 
 # Quest: Spent Fuel Pool Drum
@@ -742,19 +742,19 @@ betterquesting.quest.har7pEFcSRKNgIf4NgmcLA.name=Spent Fuel Pool Drum
 betterquesting.quest.har7pEFcSRKNgIf4NgmcLA.desc=The §3Spent Fuel Pool Drum§r is used to cool down hot nuclear fuel rods for the §3RBMK§r, §3ZIRNOX§r and §3PWR§r. It has 12 slots.%n%nThe drum needs to have atleast one of its sides touching §bWater§r to work. The more sides that have water the faster the fuels inside will cool down.
 
 # Quest: Technetium-99
-betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.name=Technetium-99
+betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.name=Технеций-99
 betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.desc=§6Technetium-99§r is a common waste product from the fission of §6Uranium§r and §6Plutonium§r. It is mainly used in making §6Technetium Steel§r and §dAE2 Storage Components§r.
 
 # Quest: Satellite Launching
-betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Satellite Launching
-betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=Satelites in NTM space can be launched from either a Souyz or a custom rocket.
+betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Запуск спутников
+betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=В NTM space спутники могут быть запущены с помощью Союз-а или кастомной ракетой.
 
 # Quest: Heat Exchanging Heater
-betterquesting.quest.rRJfZe74TXqpP-q2faX7bA.name=Heat Exchanging Heater
+betterquesting.quest.rRJfZe74TXqpP-q2faX7bA.name=Теплообменный нагреватель
 betterquesting.quest.rRJfZe74TXqpP-q2faX7bA.desc=The §4§3Heat Exchanging Heater§r is used to cool down coolants used in reactors while also genearting §eTU§r. A §3Boiler§r can be placed ontop of it to heat up other fluids, such as §bSteam§r, to be used in §3Steam Turbines§r.
 
 # Quest: Nuclear Bombs
-betterquesting.quest.sCe8OyBsQEeMrUpYXUn9Yw.name=Nuclear Bombs
+betterquesting.quest.sCe8OyBsQEeMrUpYXUn9Yw.name=Ядерные бомбы
 betterquesting.quest.sCe8OyBsQEeMrUpYXUn9Yw.desc=With access to §6Tantalium§r for §6Control Units§r and fissile matterials, it is possible to assemble a nuclear bomb. To detonate the bomb one can use a detonator or a redstone signal.%n%nA nuclear explosion will transform ores into more valuable ones, such as §6Coal§r to §6Diamonds§r or §6Uranium§r to §6Schrabidium§r. Be prepared with radiation resistant armor before venturing into the crater.%n%nMake sure to stand behind some strong cover if you wish to see the explosion from close by.%n%n§2This quest serves as a list of components needed for various bombs. Some of these components can be mounted onto rockets that will carry the payload over large distances.
 
 # Quest: Arsenic
@@ -767,11 +767,11 @@ betterquesting.quest.yzZHBBF6S7KJPnyG4LVW6A.desc=The §3Schrabidate Capacitor§r
 
 
 ## Quest Line: LV3.5 - Space Age
-betterquesting.questline.enTskTtvRdajee3UMSgXKg.name=LV3.5 - Space Age
+betterquesting.questline.enTskTtvRdajee3UMSgXKg.name=LV3.5 - Эпоха Космоса
 betterquesting.questline.enTskTtvRdajee3UMSgXKg.desc=Explore Space and colonise planets. This chapter revolves around the content of NTM: Space.
 
 # Quest: Duna
-betterquesting.quest.-aAyklEkSHK7wGxEEzQJ9Q.name=Duna
+betterquesting.quest.-aAyklEkSHK7wGxEEzQJ9Q.name=Дюна
 betterquesting.quest.-aAyklEkSHK7wGxEEzQJ9Q.desc=The red planet, home to vast quantities of §6Iron§r. §6Molysite§r and §6Volcano Gems§r can be found here in basaltic caves, found within basins where vast oceans were theorized to once exist.
 
 # Quest: CMB Insert
@@ -779,15 +779,15 @@ betterquesting.quest.3fvMK3HASiaG4E0wg7MTrA.name=CMB Insert
 betterquesting.quest.3fvMK3HASiaG4E0wg7MTrA.desc=§6CMB Iserts§r are an armor modification which will protect its user from the corrosive atmosphere of §eEve§r. %n%nThe §3Gas Giant Harvester§r will return back with §bJool Air§r, to be processed by the §3Cryogenic Distillation Machine§r.
 
 # Quest: Industrial Greenhouse
-betterquesting.quest.4HLGI5HyQtSw1G-iuwI0kg.name=Industrial Greenhouse
+betterquesting.quest.4HLGI5HyQtSw1G-iuwI0kg.name=Промышленная теплица
 betterquesting.quest.4HLGI5HyQtSw1G-iuwI0kg.desc=The §3Industrial Greenhouse§r converts §bCarbon Dioxide§r into §bOxygen§r via crop growth. The greenhouse can also be supplied with §6Fertilizer§r for faster growing.
 
 # Quest: Cryogenic Distillation Machine
-betterquesting.quest.7kkbpR6rS4CsUTUFQ5wd7g.name=Cryogenic Distillation Machine
+betterquesting.quest.7kkbpR6rS4CsUTUFQ5wd7g.name=Криогенный дистиллятор
 betterquesting.quest.7kkbpR6rS4CsUTUFQ5wd7g.desc=The §3Cryogenic Distillation Machine§r can split atmospheric gases into 4 useful fractions, like for example, taking trace amounts of §bNitrogen§r out of the Dunaian atmosphere to produce soil for planting crops.
 
 # Quest: Teleporter
-betterquesting.quest.8j7JCxPeSaaBqlOTrRGtCg.name=Teleporter
+betterquesting.quest.8j7JCxPeSaaBqlOTrRGtCg.name=Телепорт
 betterquesting.quest.8j7JCxPeSaaBqlOTrRGtCg.desc=The §3Teleporter§r can be used to teleport players, and entities in general, to a specific location.%n%nRight-click a block with the §6Telelinker§r to set the desired exit position, then shift-click the teleporter with the telelinker to configure the teleporter.%n%n§2The teleporter is a one way trip so it is advised that multiple are made.%n%nInterdimensional teleportation using teleporters requires a very expensive type of fuel, so it is recommended that other teleportations methods are used, such as AE2 Spatial.
 
 # Quest: Occasionally Heavy Boots
@@ -795,15 +795,15 @@ betterquesting.quest.9S1Tw8UTRbi8Z9wq7frVJA.name=Occasionally Heavy Boots
 betterquesting.quest.9S1Tw8UTRbi8Z9wq7frVJA.desc=Temporarily increases gravity on low gravity worlds when holding crouch.
 
 # Quest: Steam Radiator
-betterquesting.quest.AB-0K2UoQF-7uQ9XiO8mqw.name=Steam Radiator
+betterquesting.quest.AB-0K2UoQF-7uQ9XiO8mqw.name=Паровой радиатор
 betterquesting.quest.AB-0K2UoQF-7uQ9XiO8mqw.desc=The §3Steam Radiator§r is a steam condenser that works in the vacuum of space.
 
 # Quest: Tectonic Missile
-betterquesting.quest.CRR3Op6SQMefJL6r8uAfrA.name=Tectonic Missile
+betterquesting.quest.CRR3Op6SQMefJL6r8uAfrA.name=Тектоническая ракета
 betterquesting.quest.CRR3Op6SQMefJL6r8uAfrA.desc=When a §6Tectonic Missile§r hits, it creates a volcano that immediately starts to splash volcanic lava everywhere. Which is what you need to get the volcanic gem!
 
 # Quest: Gallium Arsenide
-betterquesting.quest.DeOqQyXwQRq5RNcDa5l0ug.name=Gallium Arsenide
+betterquesting.quest.DeOqQyXwQRq5RNcDa5l0ug.name=Арсенид галлия
 betterquesting.quest.DeOqQyXwQRq5RNcDa5l0ug.desc=§6Gallium Arsenide§r is made from mixing §6Gallium§r, which can be procured by processing rich mineral deposits from §eMoho§r or §eIke§r, and §6Arsenic§r which is found on Ike in bedrock ore, or on §eEarth§r via dirt and stone that has been damaged by hydraulic fracking.
 
 # Quest: Gas Giant Harvester
@@ -811,19 +811,19 @@ betterquesting.quest.EE3856t_QVu_cAG6P033_Q.name=Gas Giant Harvester
 betterquesting.quest.EE3856t_QVu_cAG6P033_Q.desc=The §3Gas Giant Harvester Station§r is a device for collecting atmospheric air samples from gas giants.%n%nThe concept is quite simple: on a planet that is a satellite of the giant (for example, to fly to the green giant Jool, you need to go to Laythe), the station is set up. After refueling with §bLiquid Oxygen§r and §bHydrogen§r, the §3harvester rocket§r is sent for air. In one trip, it delivers 16,000 mB§r. As you can understand, the harvester's§r functionality is completely analogous to the operation of §3MiningModules§r.
 
 # Quest: Mun Cow?!
-betterquesting.quest.EVr_kBsgS2Wb6Knw0wuihw.name=Mun Cow?!
-betterquesting.quest.EVr_kBsgS2Wb6Knw0wuihw.desc=This is something new; don't ask questions like how a cow survives on the Mun without food or where it got a PLSS module. The fact is, they feel quite well on the Mun, and due to the vacuum, the milk inside them has curdled.
+betterquesting.quest.EVr_kBsgS2Wb6Knw0wuihw.name=Лунная корова?!
+betterquesting.quest.EVr_kBsgS2Wb6Knw0wuihw.desc=Это что-то новенькое; не задавайте вопросов о том, как корова выживает на Луне без еды или где она взяла модуль PLSS. Дело в том, что они чувствуют себя на Луне довольно хорошо, а из-за вакуума молоко внутри них свернулось.
 
 # Quest: Vacuum Solderer
 betterquesting.quest.G3Em4SXiQee1Yu-Rd0yGaA.name=Vacuum Solderer
 betterquesting.quest.G3Em4SXiQee1Yu-Rd0yGaA.desc=The §3Vacuum Solderer§r is a machine that can only function in a vacuum, and produces vacuum circuits. They can be placed into the §3Drive Processor§r to enable it to process higher tier planetary drives.
 
 # Quest: Space Equipment
-betterquesting.quest.HvPzivF4SWWIDt5syO87xA.name=Space Equipment
+betterquesting.quest.HvPzivF4SWWIDt5syO87xA.name=Космическое снаряжение
 betterquesting.quest.HvPzivF4SWWIDt5syO87xA.desc=The §6PLSS§r is an armor modification which will allow you to breathe in space. It will only work on airtight sealed suits.%n%nThe §6Heavy Boots§r can be used to quickly descend down in low-gravity environments.
 
 # Quest: Ike
-betterquesting.quest.KItM5UOCSNmCMNKnohadaQ.name=Ike
+betterquesting.quest.KItM5UOCSNmCMNKnohadaQ.name=Айк
 betterquesting.quest.KItM5UOCSNmCMNKnohadaQ.desc=§eIke§r, the sole moon of §eDuna§r, has hints of a past as a significant hazardous waste dump, with large spires and pyramids reminiscent of potential designs on Earth for warning future civilizations of great danger in relation to nuclear waste. §eMeteor dungeons§r spawn more frequently here, and pools of §bAlkyl Bromide§r can be found on the surface.%n
 
 # Quest: Armospheric Liquefaction Tower
@@ -835,15 +835,15 @@ betterquesting.quest.LKTbDe35Rte7XOisZoywOQ.name=Drive Processor Tier 3
 betterquesting.quest.LKTbDe35Rte7XOisZoywOQ.desc=The §3Drive Processor Tier 3§r allows for travel to §eLaythe§r.
 
 # Quest: Atmospheric Scanner
-betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.name=Atmospheric Scanner
+betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.name=Сканер атмосферы
 betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.desc=The §6Atmospheric Scanner§r shows the atmospheric consistency of planets. Useful for when terraforming.
 
 # Quest: Orbital Station
-betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.name=Orbital Station
+betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.name=Орбитальная станция
 betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.desc=The §3Orbital Station§r is a space station which is located at the orbit of §eEarth§r. §3Solar Panels§r in combination with §3Air Vents§r can be used to make a sustainable living environment in the station. Make sure to make airlocks to minimise air loss.%n%nThe orbital station can also be moved to distant planets using thrusters in combination with an §3Orbital Station Computer§r.
 
 # Quest: Stainless Steel
-betterquesting.quest.Q0hC3CjIR4GB7MtYPpxXgA.name=Stainless Steel
+betterquesting.quest.Q0hC3CjIR4GB7MtYPpxXgA.name=Нержавеющая сталь
 betterquesting.quest.Q0hC3CjIR4GB7MtYPpxXgA.desc=§6Stainless Steel§r is an alloy made of §6Steel§r and §6Nickel§r.
 
 # Quest: Drive Processor Tier 2
@@ -851,19 +851,19 @@ betterquesting.quest.QVJAi3JOR5in6VwMOEyL6w.name=Drive Processor Tier 2
 betterquesting.quest.QVJAi3JOR5in6VwMOEyL6w.desc=The §3Drive Processor Tier 2§r allows for travel to §eDres§r and §eEve§r.
 
 # Quest: Jool
-betterquesting.quest.Rln_1bNXSHmwrz3lNURhwA.name=Jool
+betterquesting.quest.Rln_1bNXSHmwrz3lNURhwA.name=Джул
 betterquesting.quest.Rln_1bNXSHmwrz3lNURhwA.desc=Jool is a gas giant planet with Laythe and two other small unnamed planets orbiting it.%n%nAs is logical, landing on a gas giant is impossible, but this doesn't prevent us from gathering resources from this giant.%n%n§2Jool's atmosphere consists of §bHelium-3§r §2(25%%), §bLiquid Hydrogen§r §2(25%%), §bChlorine§r §2(20%%), and §bNeon§r §2(12%%). To collect all these gases, we will need a §3Harvester§r.§r
 
 # Quest: Hafnium
-betterquesting.quest.S0AQWdCYSeiUnhi2CmLszA.name=Hafnium
+betterquesting.quest.S0AQWdCYSeiUnhi2CmLszA.name=Гафний
 betterquesting.quest.S0AQWdCYSeiUnhi2CmLszA.desc=§6Hafnium§r is a rare light metal needed to produce the §6Hafnium chips§r, which at this stage in progression can only be obtained by centrifuging niobium crystals, which must be created from niobium ore, only found on §eDres§r and §eEve§r.
 
 # Quest: Mun/Minmus
-betterquesting.quest.SyNchvx5TpG6S7lF4jtiOA.name=Mun/Minmus
+betterquesting.quest.SyNchvx5TpG6S7lF4jtiOA.name=Мун (Луна)/Минмус
 betterquesting.quest.SyNchvx5TpG6S7lF4jtiOA.desc=Your first destination! Absolutely chock full of §6Lithium§r, §6Quartz§r and most importantly your first source of §6Nickel§r to start producing §6Stainless Steel§r for space-grade machinery. The §eMun§r is the first atmosphere-less body available in a regular playthrough, necessary for making the first tier of §6Drive Processors§r in the §3Vacuum Solderer§r.%n%nThe B-Side destination alternative to the Mun, §eMinmus§r is characterized by a distinctive mint-choc-chip ice-cream aesthetic. §3Pumps§r function here, but instead of producing §bWater§r, this moon bizarrely produces §bMilk§r, allowing for full automation of §6Butter§r, §6Milkshakes§r and §6Ice-Cream§r.
 
 # Quest: Laythe
-betterquesting.quest.Tz9bzhSZQLGbAIEh4Zckbg.name=Laythe
+betterquesting.quest.Tz9bzhSZQLGbAIEh4Zckbg.name=Лэйт
 betterquesting.quest.Tz9bzhSZQLGbAIEh4Zckbg.desc=A beautiful water world, teeming with life, oceans lit up with fields of glowgrass. §bJool gas§r can be harvested from here using a §3Gas Giant Harvester§r.
 
 # Quest: Drive Processor Tier 1
@@ -875,15 +875,15 @@ betterquesting.quest.WRZqHx4ZRia4S1zEWYFg-Q.name=Brine Processing
 betterquesting.quest.WRZqHx4ZRia4S1zEWYFg-Q.desc=§bBrine§r, which is found in deposits similar to oil ones on earth, can be processed to obtain materials such as §6Nickel§r, §6Copper§r and §6Sulfur§r, and fluids such as §bHydrogen§r and §bOxygen§r.
 
 # Quest: Rocket Preparations
-betterquesting.quest.XFyuo3SLQbmHtU7FcYdZ1g.name=Rocket Preparations
+betterquesting.quest.XFyuo3SLQbmHtU7FcYdZ1g.name=Подготовка ракет
 betterquesting.quest.XFyuo3SLQbmHtU7FcYdZ1g.desc=Due to the expansive nature of rocket assembly, it is highly recommend that the wiki is checked out as it provides more information.%n%n[url]https://nucleartech.wiki/wiki/Vehicle_Assembly_Base_(NTM:_Space)[/url]
 
 # Quest: The Mun is Cheese...
-betterquesting.quest.XzMOPvBIS9uEkD5JEXBvUw.name=The Mun is Cheese...
-betterquesting.quest.XzMOPvBIS9uEkD5JEXBvUw.desc=When a century-old joke gets out of hand... At least you can make a juicy quesadilla.
+betterquesting.quest.XzMOPvBIS9uEkD5JEXBvUw.name=Луна это сыр...
+betterquesting.quest.XzMOPvBIS9uEkD5JEXBvUw.desc=Когда вековая шутка выходит из-под контроля... По крайней мере, можно приготовить сочную кесадилью.
 
 # Quest: CO2 Scrubber
-betterquesting.quest.Z-fgT88oSuSYcPPLotHREg.name=CO2 Scrubber
+betterquesting.quest.Z-fgT88oSuSYcPPLotHREg.name=Скруббер CO2
 betterquesting.quest.Z-fgT88oSuSYcPPLotHREg.desc=The §3CO2 Scrubber§r is a mechanism for cleaning air in sealed environments under increased pressure.%n%nThe device absorbs §bCarbon Dioxide§r from the surrounding air and collects it. It only works if two conditions are met: the room is sealed and isolated, and the air pressure is elevated (above 1.0 atm). The latter can be achieved by adding a stream of §bOxygen§r from the ventilation to the Earth's air (resulting in a total pressure of 1.1 atm).%n%n§2The maximum number of scrubbers in a room is 5; any additional units placed will not collect carbon dioxide.§r
 
 # Quest: Stardar and Drive Processor
@@ -891,15 +891,15 @@ betterquesting.quest.ZPfHiJvPQIutgvhSROlbeQ.name=Stardar and Drive Processor
 betterquesting.quest.ZPfHiJvPQIutgvhSROlbeQ.desc=The §3StarDar§r is your base of operations for mission planning, helping you to locate and scan potential landing zones on planets, and §6Program Drives§r that can be inserted into your rocket's astronavigational systems to make journeys to said planets.%n%nThe §3Drive Processor§r processes drives that have been programmed by the StarDar, allowing them to be inserted into rocket navigation computers.
 
 # Quest: Atmospheric Compressor
-betterquesting.quest.aZBaZGfVRHeXWmLqDHjuUw.name=Atmospheric Compressor
+betterquesting.quest.aZBaZGfVRHeXWmLqDHjuUw.name=Атмосферный компрессор
 betterquesting.quest.aZBaZGfVRHeXWmLqDHjuUw.desc=The §3Atmospheric Compressor§r collects air from different planets. In combination with a §3Cryogenic Distillation Machine§r it can produce many useful fluids and gasses.
 
 # Quest: Solar Panel
-betterquesting.quest.dVwxKlQ5SzaxZjGNcLFMEw.name=Solar Panel
+betterquesting.quest.dVwxKlQ5SzaxZjGNcLFMEw.name=Солнечная панель
 betterquesting.quest.dVwxKlQ5SzaxZjGNcLFMEw.desc=The §3Solar Panel§r converts sunlight into §eelectricity§r. §2(Incredible)§r%n%nIt can operate on planet surfaces or in space. The device uses the general light level, so the panel's spatial orientation does not affect energy production. The energy output port is at the back.%n%n§2Energy production calculations for planets and their orbits:%n%nKerbin - §e2kHE/s§2%nMun - §e2kHE/s§2%nMinmus - §e2kHE/s§2%nDuna - §e880HE/s§2%nIke - §e880HE/s§2%nMoho - §e13.3kHE/s§2%nDres - §e240HE/s§2%nEve - §e3.84kHE/s§2%nLaythe - §e80HE/s§r
 
 # Quest: Space Map
-betterquesting.quest.eItNlZ6bRS2kA-0Ymm_pdA.name=Space Map
+betterquesting.quest.eItNlZ6bRS2kA-0Ymm_pdA.name=Крсмическая карта
 betterquesting.quest.eItNlZ6bRS2kA-0Ymm_pdA.desc=Here is my own (Bufka2011) map of our Kerbol system!%n[img height=300]resources:SpaceMap_by_Bufka2011.png[/img]
 
 # Quest: Magma Drill
@@ -915,7 +915,7 @@ betterquesting.quest.nfgxBE2jRE2InE-vMVEfRQ.name=Microgravity Algae Film
 betterquesting.quest.nfgxBE2jRE2InE-vMVEfRQ.desc=The §3Microgravity Algae Film§r is a machine is made of specialized layers of laythe plants that will convert §bCarbon Dioxide§r directly into §bLiquid Oxygen§r. They however only function when in orbit.%n%nThe §3CO2 Scrubber§r allows you to recover carbon dioxide from a pressurized room. This is occasionally useful when building space stations.
 
 # Quest: Dres
-betterquesting.quest.rkMKa7TCT5u0jJsdH6TWnw.name=Dres
+betterquesting.quest.rkMKa7TCT5u0jJsdH6TWnw.name=Дрес
 betterquesting.quest.rkMKa7TCT5u0jJsdH6TWnw.desc=This planet has some of the most prized resources in the whole system, with even the primary fraction of bedrock ore consisting of incredibly valuable metals and materials. §6Niobium§r, §6Coltan§r, and §6Lanthanium§r ore is present here in vast quantities.
 
 # Quest: StarDar Remote Access Console
@@ -923,19 +923,19 @@ betterquesting.quest.seA5V2QkTCO9NcMwAjcDIA.name=StarDar Remote Access Console
 betterquesting.quest.seA5V2QkTCO9NcMwAjcDIA.desc=Enables remote access to StarDar.
 
 # Quest: Tekto
-betterquesting.quest.tryLG0jySbGKMHzTFhvWOA.name=Tekto
+betterquesting.quest.tryLG0jySbGKMHzTFhvWOA.name=Текто
 betterquesting.quest.tryLG0jySbGKMHzTFhvWOA.desc=A strange world, similar to §eEarth§r, where life is different because the vegetation, the only form of life there, is made of complex polymers, like rubber§r and plastic§r.%n%nTekto bedrock ore doesn’t have the non-metal variant; instead, it is replaced by the plastic variant, from which the player can obtain §6Polymer§r, §6Rubber§r, §6Semtex§r and §6PVC§r.
 
 # Quest: My First Volcano!
-betterquesting.quest.vTg3C5JATXuER43bG5IiiQ.name=My First Volcano!
+betterquesting.quest.vTg3C5JATXuER43bG5IiiQ.name=Мой первый вулкан!
 betterquesting.quest.vTg3C5JATXuER43bG5IiiQ.desc=The formation of a volcano is driven by the §3volcanic core§r, a block that continuously erupts §blava§r, allowing the volcano to grow. The §blava§r cools quickly, turning into §6basalt§r or §6basaltic ore§r.%n%nThe resulting volcano grows quite slowly, reaching about 60 blocks in height over 20-30 minutes.%n%n§bVolcanic lava§r differs from §bregular lava§r not only in appearance. It "melts" any non-explosion-resistant blocks, so the volcano can extend underground.%n%n§6Basaltic ores§r (§6asbestos§r, §6sulfur§r, §6fluorite§r, §6molysite§r) form when the §blava§r cools, each with a 0.5%% chance.%n%n§6Volcanic gem ore§r spawns with a 5%% chance if the following conditions are met:%n- All 6 blocks around the cooling §blava§r are §6basalt§r or §blava§r;%n- The block 10 blocks above the cooling §blava§r is §6basalt§r or §blava§r;%n- There are fewer than 3 §blava§r blocks around the cooling §blava§r.%n%nThe §6ore§r also forms after §bvolcanic lava§r contacts §6diamond ore§r.%nThis means §6volcanic gems§r most often appear near the §3core§r or §3crater§r of the volcano.%n%n§3Forming a Radioactive Volcano§r%nIf the §3volcanic core§r is exposed to radioactive fallout (e.g., after a nearby nuclear explosion) for some time, the §3core§r will begin generating new §bvolcanic radioactive lava§r (yellow in color), ultimately leading to the formation of a so-called §3radioactive volcano§r. Such a volcano will consist not of §6basalt§r but of various types of §6quenched sellaphite blocks§r and §6sellaphite ores§r. The §blava§r will convert §6diamond ores§r into §6radioactive gem ore§r.
 
 # Quest: Eve
-betterquesting.quest.vWpv_FM5QYqYHsRsaNNwog.name=Eve
+betterquesting.quest.vWpv_FM5QYqYHsRsaNNwog.name=Ева
 betterquesting.quest.vWpv_FM5QYqYHsRsaNNwog.desc=While it is possible to travel here with only a tier 2 drive processor to exploit the incredibly powerful schrabidic resources that exist here, players will not last long without the appropriate armor inserts, due to the highly corrosive atmosphere melting any armor it comes into contact with.%n
 
 # Quest: Rocket Assembling and Launching
-betterquesting.quest.w4uLB-JtTW-fCQA_qF6_ww.name=Rocket Assembling and Launching
+betterquesting.quest.w4uLB-JtTW-fCQA_qF6_ww.name=Сборка и запуск ракет
 betterquesting.quest.w4uLB-JtTW-fCQA_qF6_ww.desc=The §3Vehicle Assembly Base§r is a structure which is one of the most vital parts of your space-faring efforts. It'll allow you to stack your rockets and plan out each segment of your journey. Note that each rocket stage allows for one launch from a celestial body to another, so a two-stage rocket can make a round-trip between, say, the Earth and the Mun.%n%nThe §3Rocket Launch Pad§r is the only launch pad capable of supporting the various fuel loads and complex requirements of the stacked rockets. This is the only way to fuel up a rocket too, so you'll want to make multiple stages for launching from bodies without a pad. The pad itself has a GUI that'll indicate what your rocket requires to be launched.
 
 # Quest: Volcanic Gem
@@ -947,24 +947,24 @@ betterquesting.quest.y2yrIQ6QRve-p9fRVJD0YA.name=Rocket Transporter Pad
 betterquesting.quest.y2yrIQ6QRve-p9fRVJD0YA.desc=The §3Rocket Transporter Station§r is essential for sending and receiving cargo between celestial bodies.%n%n§3Transport rockets§r, similar to §3resource modules§r or §3Gas Giant Harvesters§r, automatically move various cargoes. To make the system work, you need at least one pair of linked platforms§r.%n%nThe platforms have compartments for outgoing and incoming items (blue and orange, respectively)§r, and they can handle liquids with §3dedicated buffers§r.%n%nTo link platforms, Shift+Right-Click with the §6Rocket Transporter Connector§r on one platform to save it, then Right-Click on another platform. To open the linker interface§r, Right-Click on a platform with the connector: it will display information about the linked platforms' locations.%n%nTo designate one of these points as the receiving point, click the button at the beginning of the row§r.%n%nTo launch the transporter rocket§r, the station must be fueled with §bliquid oxygen§r and §bhydrogen§r.
 
 # Quest: Moho
-betterquesting.quest.yWu2LtytQjGg65tFXTo2ow.name=Moho
+betterquesting.quest.yWu2LtytQjGg65tFXTo2ow.name=Мохо
 betterquesting.quest.yWu2LtytQjGg65tFXTo2ow.desc=A fair-dinkum planet, hot as hell, and full of rare resources generally only found in the Nether. §6Australium§r is only found here, in vast quantities deep under the surface. Some of the largest caves ever generated within Minecraft can be found here.
 
 
 ## Quest Line: LV4 - End Game
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.name=LV4 - End Game
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.name=LV4 - Конец Игры
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=Delve into Impossible Physics, Quantum Computing, Magic and maybe even destroy the world.%nThis chapter is about building the most advanced machines to reach the end goal of the mod.
 
 # Quest: ICF Fuels
-betterquesting.quest.2BKf-swBTG61f8eVn9ynhw.name=ICF Fuels
+betterquesting.quest.2BKf-swBTG61f8eVn9ynhw.name=Топлива ICF
 betterquesting.quest.2BKf-swBTG61f8eVn9ynhw.desc=The §3ICF§r can process different combinations of fuels at different laser power levels. A cheap and renewable fuel that can be used to gather the §bStellar Flux§r needed for §6Gerald§r and make decent power is §bHelium-4 - Hydrogen§r.%n%nApplying a Muon Particle to a fuel pellet will decrease the power that is needed to run it.
 
 # Quest: Particle Capsules
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=Particle Capsules
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=Капсулы частиц
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.desc=Particles are important items required to create exotic materials which are needed for most of the endgame content.
 
 # Quest: Quantum Computer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.name=Quantum Computer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.name=Квантовый компьютер
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=The §6Quantum Computer§r is the most powerful out of any other control unit. It currently only used to build §6Gerald§r. %n%n§2A whole stack of them will be required, so now would be the time to upgrade circuit crafting infrastructure.
 
 # Quest: Solid State Quantum Processor
@@ -976,7 +976,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=DFC
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.desc=The §3DFC§r is the last reactor of the mod and as such is very expensive to craft. Apart from the DFC parts, two §6Catalysts§r are needed for the reactor to work.%n%nIt is recommended that the wiki is checked out.%n%n[url]https://nucleartech.wiki/wiki/DFC[/url]
 
 # Quest: Chicken Nugget
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.name=Chicken Nugget
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.name=Куриный наггетс
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=The §6Chicken Nugget§r is the best food item in the mod, completely filling up both hunger and saturation. It is made by colliding 2 raw chickens in a §3Particle Accelerator§r.
 
 # Quest: Exposure Chamber
@@ -984,11 +984,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=Exposure Chamber
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=The §3Exposure Chamber§r is a machine in which many materials can be created by exposing ingots to certain particles, most important of which being §6Dineutronium§r.
 
 # Quest: Euphemium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=Euphemium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=Эвфемий
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=§6Euphemium§r is a fictional material which serves as one of the mod's most endgame materials. It's extremely expensive to produce in large amounts and you will need great advancement through the mod to use it effectively.
 
 # Quest: Dineutronium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=Dineutronium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=Динетроний
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=§6Dineutronium§r is the mod's (almost) ultimate material. It's a final tier material and is a higher tier than even §6Euphemium§r. It is very difficult to produce and it's used to make the most absurd and broken items this mod has. The only material that is more difficult to make, would be §6Osmiridium§r.
 
 # Quest: The Digamma Particle
@@ -996,7 +996,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=The Digamma Particle
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=The §c§r§4§r§6Digamma Particle§r is created by colliding a §6Sparkticle Capsule§r with a §6Higgs Boson Capsule§r in a §3Particle Accelerator§r. Making it in the particle accelerator will require §6Chlorophyte Coils§r and momentum of 70,000.%n%nThe digamma particle emits a different kind of radiation, §4DRX§r, which currently can only be countered by the use of digamma medication, most notably §6Enteramine Pills§r, which provide full immunity against DRX for 10 minutes. After the §3DFC§r, Fau armor can be crafted which provides full resistance against DRX.
 
 # Quest: Murky Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=Murky Anvil
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=Мрачная наковальня
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=The§3 Murky Anvil§r is the ultimate version of the §3Anvil§r, having all recipes unlocked.
 
 # Quest: Quantum Processing Unit
@@ -1004,7 +1004,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.name=Quantum Processing Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.desc=The §6Quantum Processing Unit§r is the first quantum circuit one makes, used in the §3Particle Accelerator§r and §3ICF§r reactor.
 
 # Quest: ICF
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=ICF
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=ИТС
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=The §3ICF§r reactor is a very expensive and powerful reactor, which can produce a substantial amount of energy. Apart from the multiblock itself, §3ICF Lasers§r must be constructed for the reactor to work. §bStellar Flux§r will be produced during its operation which is needed to craft §6Gerald§r. Consider making use of §bLiquid Lead§r as it is a very efficient coolant for the ICF.%n%nIt is recommended that the wiki is checked out as it has built-in calculators for the laser power consumption and the amount of hot coolant it produces.%n%n[url]https://nucleartech.wiki/wiki/Inertial_Confinement_Fusion_Reactor[/url]
 
 # Quest: Spark Laser Crystal
@@ -1012,7 +1012,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=Spark Laser Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.desc=The §6Spark Laser Crystal§r unlocks new recipes, most importantly it is used to create §6Osmiridium§r.
 
 # Quest: The Book of Boxcars
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.name=The Book of Boxcars
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.name=Книга Вагонов
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.desc=The §6Book of Boxcars§r is an item which allows the crafting of many special items. The book can be found inside §eMeteorite Dungeons§r found randomly in the wilderness on extra-terrestial bodies, indicated by a black pillar, or in §eRed Rooms§r.
 
 # Quest: Digamma Laser Crystal
@@ -1028,15 +1028,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFQ.name=Spark Singularity
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFQ.desc=The §6Spark Singularity§r is a singularity made from combining all the types of singularities with §6Dineutronium§r.
 
 # Quest: FEnSU
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.name=FEnSU
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.name=ЭМЭХ
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=The §3FenSU§r is the ultimate energy storage block, being able to store 9.22EHE.%n%n[F1] For more information.
 
 # Quest: Gerald the Construction Android
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.name=Gerald the Construction Android
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.name=Строительный андроид Геральд
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.desc=§6Gerald the Construction Android§r is the most powerful weapon in the mod. Using this has the side effect of setting the world on fire but also getting tektite, which contains §6Osmiridium§r.%n%nGerald is the hardest recipe of the mod requiring hundreds of thousands of items, mainly circuit related.%n%nVast quantities of §6Bismuth§r, §6Tantalium§r and §6Silicon§r are needed, so dont hold back on bedrock ore processing and parallelisation of many processes. If you havent already used §dAE2§r, it is highly recommended at this stage of the game.%n%nLaunching Gerald will result in a global firestorm that will decimate all life, including all trees and grass. Make sure to keep a backup of your world before launching him.%n%n§2Blueprints for Gerald and the Orbital Module can be found in structures or purchased from Bobmazon.
 
 # Quest: Osmiridium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.name=Osmiridium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.name=Осмиридий
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.desc=§6Osmiridium§r is the second most expensive material and is used primarely in the §3DFC§r.
 
 # Quest: Yharonite Billet
@@ -1044,35 +1044,35 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=Yharonite Billet
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.desc=The §6Yharonite Billet§r is created in a tungsten crate that has §6Polonium Billets§r in it while being shot from a §3DFC Emitter§r. This is the final material obtained in the mod.
 
 # Quest: The Crucible
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=The Crucible
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=Горнило Палача
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=The §6Crucible§r is a weapon that deals extreme amount of damage. It can be recharged inside a Tungsten Crate shot by a §3DFC Emitter§r.
 
 # Quest: Schrabidium Hammer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=Schrabidium Hammer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=Шрабидиевый молот
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=The §6Schrabidium Hammer§r is the most powerful weapon in the mod, being able to one-shot everything.
 
 # Quest: Done
-betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.name=§cDone
-betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.desc=Are you okay? Go touch some grass.
+betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.name=§cВсе
+betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.desc=Ты в порядке? Пойди потрогай траву.
 
 # Quest: Secret Catalogue
-betterquesting.quest.J9dwgncgSUydHFPUoI85oQ.name=Secret Catalogue
+betterquesting.quest.J9dwgncgSUydHFPUoI85oQ.name=Секретный каталог
 betterquesting.quest.J9dwgncgSUydHFPUoI85oQ.desc=In order to obtain a hidden catalog, you have to do a few things:%n%nGet a regular sign%nAnswer the four questions and put the answers on said sign in the same order (all lowercase)%nRight click the written sign%nThere will be answers with more characters than signs allow, just type out as many as possible.%n%nThere will be no hints, so don't even try it.%nYou'll need the bobmazon level 6 achievement to order anything.%n%n%n%n1%nWhen we scream into the distance, who will answer?%n%n2%nThe invisible force, sometimes subtle and sometimes not, covers our eyes directed at the skies.%n%n3%nThe fluorescent oscilloscope gives us the passcode of random numbers. Who holds the answers?%n%n4%nEver revolving, never still, a sight for the patient that reeks of tobacco, dancing perpetually.
 
 # Quest: Particle Accelerator
-betterquesting.quest._nmJ1zrSQp22psctX6Uq2A.name=Particle Accelerator
+betterquesting.quest._nmJ1zrSQp22psctX6Uq2A.name=Ускоритель частиц
 betterquesting.quest._nmJ1zrSQp22psctX6Uq2A.desc=The §3Particle Accelerator§r is a highly modular machine that uses high strength superconducting magnets to accelerate particles to relativistic speeds in order to collide them together.%n%nDue to the complex and expansive nature of the particle accelerator, it is highly recommend that the wiki is checked out as it provides more information.%n%n[url]https://nucleartech.wiki/wiki/Particle_Accelerator[/url]%n%n§2This quest demands the most essential parts of the particle accelerator, and does not represent the amount needed for it to function.
 
 # Quest: HOW THE FUCK?!
-betterquesting.quest.fbvQbC3JTKOtI2b8e3cB0A.name=§c§l§4§lHOW THE FUCK?!
-betterquesting.quest.fbvQbC3JTKOtI2b8e3cB0A.desc=Here ya go, your reward
+betterquesting.quest.fbvQbC3JTKOtI2b8e3cB0A.name=§c§l§4§lТВОЮ МАТЬ, КАК?!
+betterquesting.quest.fbvQbC3JTKOtI2b8e3cB0A.desc=Лови, твоя награда
 
 # Quest: ICF Laser Turbocharger
 betterquesting.quest.hmwBFeuMQXiUrjE-WdD6-g.name=ICF Laser Turbocharger
 betterquesting.quest.hmwBFeuMQXiUrjE-WdD6-g.desc=The §3ICF Laser Turbocharger§r can be placed next to §3ICF Laser Capacitors§r to increase the laser's power by a substantial amount, allowing for the §3ICF§r to run higher grade fuels.
 
 # Quest: Balls-O-Tron
-betterquesting.quest.k-HwTdGiQVmikRwAeg_fkQ.name=Balls-O-Tron
+betterquesting.quest.k-HwTdGiQVmikRwAeg_fkQ.name=Баллс-О-Трон
 betterquesting.quest.k-HwTdGiQVmikRwAeg_fkQ.desc=Balls-O-Tron is the second boss of §dNTM§r. It can be summoned by interracting the mechanist's circle, found in the §eEnargite Temple§r which spawns in jungles, with a §6Silver Key§r, made using the Maskman Coin, or from crafting the Balls-O-Tron spawn item.%n%nDue to the outdated nature of the bosses, aswell as the RNG needed to obtain some of the items, this quest provides an alternative way of obtaining the Balls-O-Tron coin.%n%n§2This quest can be repeated.
 
 # Quest: ICF Laser
@@ -1080,7 +1080,7 @@ betterquesting.quest.nqmqybchRzWn-T46-3vHmQ.name=ICF Laser
 betterquesting.quest.nqmqybchRzWn-T46-3vHmQ.desc=§2This quest provides an optional retrieval task for a small laser capable of running Helium-4 - Hydrogen Fuel at 15MHE.§r
 
 # Quest: UFO
-betterquesting.quest.q0Q4S7F-QlCzGWDkdOBMqw.name=UFO
+betterquesting.quest.q0Q4S7F-QlCzGWDkdOBMqw.name=НЛО
 betterquesting.quest.q0Q4S7F-QlCzGWDkdOBMqw.desc=The Martian Invasion Ship is a late-game boss which is killed to get the §6UFO Coin§r, used in crafting Gerald.%n%nThis quest provides an alternative way of obtaining the coin.%n%n§2This quest can be repeated.
 
 # Quest: Welded Osmiridium Plate
@@ -1089,15 +1089,15 @@ betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.desc=§6Welded Osmiridium Plates§r 
 
 
 ## Quest Line: Building and Decorating
-betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.name=Building and Decorating
+betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.name=Строительство и декорирование
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.desc=Improve your builds by using Chisel, Architecturecraft and Better Builder's Wands.
 
 # Quest: Chisel
-betterquesting.quest.TA6SPr3KTbKsgRFceNMZmA.name=Chisel
+betterquesting.quest.TA6SPr3KTbKsgRFceNMZmA.name=Стамеска
 betterquesting.quest.TA6SPr3KTbKsgRFceNMZmA.desc=The §6Chisel§r is a building tool which can be used to change the textures of blocks, and even unlock new and unique designs.
 
 # Quest: Schematica
-betterquesting.quest.VyF-RUbsSuS8J2hbI5CIkw.name=Schematica
+betterquesting.quest.VyF-RUbsSuS8J2hbI5CIkw.name=Схематика
 betterquesting.quest.VyF-RUbsSuS8J2hbI5CIkw.desc=With §dSchematica§r, you can create schematics of your builds and post holograms of them on other worlds. Check out the keybinds to get started.
 
 # Quest: Decobench
@@ -1117,12 +1117,12 @@ betterquesting.quest.p7NNm2NvRgWz37LQO6yraw.name=ArchitectureCraft
 betterquesting.quest.p7NNm2NvRgWz37LQO6yraw.desc=§dArchitectureCraft§r introduces the §3Architect's Workbench§r which can be used to change the shapes blocks.%n%nThe §6Architect's Hammer§r can be used to easily rotate the blocks.%n%nThe §6Architect's Glowbrush§r can be used to apply light to any block.
 
 # Quest: Sign Pictures
-betterquesting.quest.wAu-q390TlKihyp-bEI2lw.name=Sign Pictures
+betterquesting.quest.wAu-q390TlKihyp-bEI2lw.name=Изображения на табличказ
 betterquesting.quest.wAu-q390TlKihyp-bEI2lw.desc=The §dSignPicture§r mod allows one to put any image on a sign, opening the door to many unique building designs. Press  to get started.
 
 
 ## Quest Line: Getting around...
-betterquesting.questline.IMaxzqn6SPe41eVHumcKhA.name=Getting around...
+betterquesting.questline.IMaxzqn6SPe41eVHumcKhA.name=Передвижение...
 betterquesting.questline.IMaxzqn6SPe41eVHumcKhA.desc=No Description
 
 # Quest: Builder's Jetpack
@@ -1143,23 +1143,23 @@ betterquesting.quest.wOUqQNzITt27w1u__S7Pcw.desc=Jetpack Reserve Fuel Tank is a 
 
 
 ## Quest Line: ...without dying.
-betterquesting.questline.WLHEIErFRHCSoNQ7qL4YwA.name=...without dying.
+betterquesting.questline.WLHEIErFRHCSoNQ7qL4YwA.name=...без смертей.
 betterquesting.questline.WLHEIErFRHCSoNQ7qL4YwA.desc=No Description
 
 # Quest: Cobalt Armor Set
-betterquesting.quest.-kqA6DeiTJqePIBzJpf0uQ.name=Cobalt Armor Set
+betterquesting.quest.-kqA6DeiTJqePIBzJpf0uQ.name=Кобальтовая броня
 betterquesting.quest.-kqA6DeiTJqePIBzJpf0uQ.desc=Mostly used as an crafting ingridient for starmetal armor, which is mostly used as an crafting ingridient for other cool armors.
 
 # Quest: Casual Armor Set
-betterquesting.quest.2L-E-PL5SDWjrfvWn_zC_w.name=Casual Armor Set
+betterquesting.quest.2L-E-PL5SDWjrfvWn_zC_w.name=Повседневный костюм
 betterquesting.quest.2L-E-PL5SDWjrfvWn_zC_w.desc=Pretty good and cheap armor. Except for boots - they're a little bit harder to make.%n%n[note]Here is a tip: use latex for the early game.[/note]
 
 # Quest: Bismuth Armor Set
-betterquesting.quest.3JpvYLTfTOO9kEK28DaW8w.name=Bismuth Armor Set
+betterquesting.quest.3JpvYLTfTOO9kEK28DaW8w.name=Висмутовая броня
 betterquesting.quest.3JpvYLTfTOO9kEK28DaW8w.desc=VERY cool armor, gives you ability to dash [note](hmm... reminds me of some game...)[/note]
 
 # Quest: Diesel-Powered Armor Set
-betterquesting.quest.6WXPMWrES4OaDu1YsXq5Gg.name=Diesel-Powered Armor Set
+betterquesting.quest.6WXPMWrES4OaDu1YsXq5Gg.name=Дизельная броня
 betterquesting.quest.6WXPMWrES4OaDu1YsXq5Gg.desc=Ever wanted to look like a bunny girl? Well... Umm... This is for you.
 
 # Quest: CMB Armor Set
@@ -1167,123 +1167,123 @@ betterquesting.quest.EDtE6paOTrOrW6rox2ql4g.name=CMB Armor Set
 betterquesting.quest.EDtE6paOTrOrW6rox2ql4g.desc=Not really armor, but gives you haste III, speed III and strength V, so it's good for mining.
 
 # Quest: Titanium Armor Set
-betterquesting.quest.EyUDpma5Qb6VKA2y0yeAaQ.name=Titanium Armor Set
+betterquesting.quest.EyUDpma5Qb6VKA2y0yeAaQ.name=Титановая броня
 betterquesting.quest.EyUDpma5Qb6VKA2y0yeAaQ.desc=Titanium armor is mostly used as early game armor or as crafting ingridient for few other armors, such as HEV Mk IV and T45.
 
 # Quest: AJR Power Armor Set
-betterquesting.quest.HRllUs4uTFOv2ElWs207gg.name=AJR Power Armor Set
+betterquesting.quest.HRllUs4uTFOv2ElWs207gg.name=Броня AJR
 betterquesting.quest.HRllUs4uTFOv2ElWs207gg.desc=A stylish version of the Steel Rangers armor.
 
 # Quest: Euphemium Armor Set
-betterquesting.quest.KeDR9WCZR_2FQ1dkZhyaIg.name=Euphemium Armor Set
+betterquesting.quest.KeDR9WCZR_2FQ1dkZhyaIg.name=Эвфемиевая броня
 betterquesting.quest.KeDR9WCZR_2FQ1dkZhyaIg.desc=It's just protects you from everything. Except for Digamma.
 
 # Quest: T45 Power Armor
-betterquesting.quest.MC-Fx_ATQw2H5EPDqWBtEg.name=T45 Power Armor
+betterquesting.quest.MC-Fx_ATQw2H5EPDqWBtEg.name=Силовая броня Т45
 betterquesting.quest.MC-Fx_ATQw2H5EPDqWBtEg.desc=Pretty good armor for combat, but I'll recommend you to craft Steel Ranger instead.
 
 # Quest: Lunar Armor Set
-betterquesting.quest.WeGg9_yRTAewpvKItMnnaw.name=Lunar Armor Set
+betterquesting.quest.WeGg9_yRTAewpvKItMnnaw.name=Лунная броня
 betterquesting.quest.WeGg9_yRTAewpvKItMnnaw.desc=Very good armor. Gives satiety, speed, jumping ability, thermal visor, fall protection and much more.%n%nIf you put it on uncharged, you will die.%n%nYou can also add wings to the armor and get built-in elytra and an ion jetpack.
 
 # Quest: Starmetal Armor Set
-betterquesting.quest.a_2oKgZDTe6qca5hlK721A.name=Starmetal Armor Set
+betterquesting.quest.a_2oKgZDTe6qca5hlK721A.name=Броня из Звёздного Металла
 betterquesting.quest.a_2oKgZDTe6qca5hlK721A.desc=Mostly used as an crafting ingridient for other cool armors, such as Lunar Armor and Fau armor.
 
 # Quest: Steel Ranger Armor Set
-betterquesting.quest.e6pftbb6TAuGpoS0O7_RjQ.name=Steel Ranger Armor Set
+betterquesting.quest.e6pftbb6TAuGpoS0O7_RjQ.name=Броня Стальных Рейнджеров
 betterquesting.quest.e6pftbb6TAuGpoS0O7_RjQ.desc=Steel Ranger Armor is very similar in characteristics to T45 armor, but it is still better in protecting against physical damage, explosions, radiation and other, and also gives the effect of a jump boost in addition to strength.
 
 # Quest: Steel Armor Set
-betterquesting.quest.kNHV1YpNQDSENgcRY251NQ.name=Steel Armor Set
+betterquesting.quest.kNHV1YpNQDSENgcRY251NQ.name=Стальная броня
 betterquesting.quest.kNHV1YpNQDSENgcRY251NQ.desc=Steel armor set is almost useless, but used in crafting in a few other armors.
 
 # Quest: Fau Armor
-betterquesting.quest.n-D5ZzNnQ_ux3u0yFXZ1qQ.name=Fau Armor
+betterquesting.quest.n-D5ZzNnQ_ux3u0yFXZ1qQ.name=Фау броня
 betterquesting.quest.n-D5ZzNnQ_ux3u0yFXZ1qQ.desc=The strongest armor, capable of protecting even against Digamma. It ignores nearly all types of damage, but DNT would be more convenient.%n%nTo craft the chestplate, you need ancient fragments from the basement of the concrete pyramid.  %n§c[There is A TON of radiation down there, be careful]
 
 # Quest: Remnants Power Armor
-betterquesting.quest.wOQm2yjgR9mYmJZ1cXlxOA.name=Remnants Power Armor
-betterquesting.quest.wOQm2yjgR9mYmJZ1cXlxOA.desc=You've lost an expensive piece of army-issue equipment! That suit is going to come out of your §cpay§r, and you will remain in this mans army until you are §cfive hundred and ten years old§r, which is the number of years it will take for you to pay for a Mark II Powered Combat Armor you have lost! Report to the armory and have a new suit issued to you, then report back to me, private! §cDismissed!
+betterquesting.quest.wOQm2yjgR9mYmJZ1cXlxOA.name=Броня Оставшихся
+betterquesting.quest.wOQm2yjgR9mYmJZ1cXlxOA.desc=Вы допустили потерю дорогостоящего обмундирования! Его стоимость будет §cвычтена из вашего жалования§r, и вы будете служить здесь пока вам не исполнится §cпятьсот десять лет§r, потому что именно §cстолько лет§r вам потребуется, чтобы оплатить комплект силовой боевой брони модель два, §cкоторый вы потеряли§r! Доложите об этом в арсенале, получите новый комплект а потом доложите мне, свободны.
 
 # Quest: Advanced Alloy Armor Set
-betterquesting.quest.x6BH5qVCRc-lUMqwC5oxeA.name=Advanced Alloy Armor Set
+betterquesting.quest.x6BH5qVCRc-lUMqwC5oxeA.name=Броня из продвинутого сплава
 betterquesting.quest.x6BH5qVCRc-lUMqwC5oxeA.desc=This is the first REALLY GOOD armor you can get early in the game. It's not the coolest in the modpack, but it's better than diamond.
 
 # Quest: Steam Suit
-betterquesting.quest.xU7jtFxOQR-4ccpcXT3W2A.name=Steam Suit
+betterquesting.quest.xU7jtFxOQR-4ccpcXT3W2A.name=Паровая броня
 betterquesting.quest.xU7jtFxOQR-4ccpcXT3W2A.desc=Ever wanted an power armor that is not using electricity power? Here it is, steam-powered power armor!%n%nSlows you down a little bit but gives you Haste V.
 
 
 ## Quest Line: Dimensional Adventures
-betterquesting.questline.IvOaHFdvTem9AKGdPDgBaA.name=Dimensional Adventures
+betterquesting.questline.IvOaHFdvTem9AKGdPDgBaA.name=Путешествия сквозь измерения
 betterquesting.questline.IvOaHFdvTem9AKGdPDgBaA.desc=No Description
 
 # Quest: Void Quartz
-betterquesting.quest.-WMTfvUrRlmEzH7hBIzMfg.name=Void Quartz
+betterquesting.quest.-WMTfvUrRlmEzH7hBIzMfg.name=Пустотный кварц
 betterquesting.quest.-WMTfvUrRlmEzH7hBIzMfg.desc=Another type of quartz, called Void Quartz, can be found in the Abyss biome. It’s easy to spot thanks to the dark surroundings. Void Quartz is an essential material used in crafting advanced storage cells in AE2.
 
 # Quest: Burning Stick
-betterquesting.quest.2uw1IrVfTVKt_7dxdEsNOQ.name=Burning Stick
+betterquesting.quest.2uw1IrVfTVKt_7dxdEsNOQ.name=Горящая палка
 betterquesting.quest.2uw1IrVfTVKt_7dxdEsNOQ.desc=Ouch! Ouch! Hot!%n%nThe Blaze Rod is a vital material for reaching the End. It drops, of course, from Blazes — but be careful! They always spawn infernal, so prepare for a tough fight.
 
 # Quest: The Nether
-betterquesting.quest.DgW8bQi1TbSrKcPoJms-1g.name=The Nether
+betterquesting.quest.DgW8bQi1TbSrKcPoJms-1g.name=Незер
 betterquesting.quest.DgW8bQi1TbSrKcPoJms-1g.desc=§eThe Nether§r is home to many resourses, such as:%n%n§6Quartz§r§r which can be used for §6Silicon§r.%n§6Infernal Coal§r which can be shredded for §6Coal Powder§r.%n§6Sulfur§r needed for various chemical processes.%n§6Red Phosphorus§r for incendiary weaponry.%n§6Glowstone§r for early §bChlorine Gas§r in a §3Combination Oven§r.%n§6Cobalt§r can also be rarely found near the Nether Roof.%n%nThe Nether has a backround radiation of §e0.1RAD/s§r.§r%n%n§cYou will burn in Nether permanently.%n%n§2Glowstone, Quartz and Phosphorus Bedrock Ore Deposits also exist.§r%n%n§2Depth Neodymium Deposits also spawn exclusively in the Nether.§r %n
 
 # Quest: Piglins?
-betterquesting.quest.JfANYrzhQKCVY4ATmF-Tsg.name=Piglins?
+betterquesting.quest.JfANYrzhQKCVY4ATmF-Tsg.name=Пиглинв?
 betterquesting.quest.JfANYrzhQKCVY4ATmF-Tsg.desc=Hey, say hello to the piglins of 1.14! I think you know who they are.%n%nIf not, then listen up. Piglins are very similar to zombie pigmen, but they will be aggressive towards you if you don't have gold armor on you (that is, they will be aggressive towards you ALWAYS, because I don't know how you'll survive in hell wearing gold armor). Also, if you throw them a gold bar, they'll be willing to trade it for something else.
 
 # Quest: Hellish Beauties
-betterquesting.quest.LendIsa-Q2ugsj2GWM_D6Q.name=Hellish Beauties
+betterquesting.quest.LendIsa-Q2ugsj2GWM_D6Q.name=Адские красоты
 betterquesting.quest.LendIsa-Q2ugsj2GWM_D6Q.desc=Crystals can be mined in the Crystal Biome. (Obviously.) They are mainly used to craft advanced Applied Energistics 2 storage cells, as well as some other less useful crafts, such as Crystal Lamps or Crystal Glasses.
 
 # Quest: Crystal Clear Production
-betterquesting.quest.XU2nsU1wQFG85rsSxuTPqA.name=Crystal Clear Production
+betterquesting.quest.XU2nsU1wQFG85rsSxuTPqA.name=Кристально чистое производство
 betterquesting.quest.XU2nsU1wQFG85rsSxuTPqA.desc=You've already mined the Nether Crystals, but they can't be recrafted into Crystal Shards. Instead, all you need to do is pour water near the block — it will then transform into a Budding Nether Crystal. This structure will begin growing Crystal Buds in all directions, which will eventually develop into a Crystal Flower (the final stage). Once fully grown, you can safely break the flower to obtain the Shards needed for AE2.
 
 # Quest: Efrine
-betterquesting.quest.dsZj1Tv8Se6m5E8R2_e49Q.name=Efrine
+betterquesting.quest.dsZj1Tv8Se6m5E8R2_e49Q.name=Эфрин
 betterquesting.quest.dsZj1Tv8Se6m5E8R2_e49Q.desc=Stange material. Feels cold and soft, like plasticine. Anything made from this material does not burn, and the armor gives you fire resistance.
 
 # Quest: Darkness in Powder Form
-betterquesting.quest.rIM_8imCQdyHqdA2ih4brQ.name=Darkness in Powder Form
+betterquesting.quest.rIM_8imCQdyHqdA2ih4brQ.name=Тьма в порошковой форме
 betterquesting.quest.rIM_8imCQdyHqdA2ih4brQ.desc=An alternative to Glowstone can be found in the Nether, called Gloomstone. It generates in special biomes and is required for certain AE2 crafting recipes.
 
 # Quest: New End
-betterquesting.quest.vQm4mFhbRsS8yjm9DkDAUw.name=New End
+betterquesting.quest.vQm4mFhbRsS8yjm9DkDAUw.name=Новый Конец
 betterquesting.quest.vQm4mFhbRsS8yjm9DkDAUw.desc=§eThe End§r is home to §6Trixite§r, a unique extraterrestrial mineral that when processed can yield §6Plutonium§r, §6Cobalt§r and §6Niobium§r. The Niobium is of great interest as it is a great source for early §3Catalytic Cracking Towers§r.%n%nDue to only the main end island existing, Trixite Ore is a limited resourse.§r Trixite Crystals can also be obtained from an §6Asteroid Mining Ship§r, but it is not recommended.%n%n§dEt Futurum Requiem§r backports many modern end features, such as §eChorus Fruit§r, §eShulkers§r and a respawnable §eEnder Dragon§r using §6End Crystals§r.%n%nThe §6Dragon Egg§r can also be used to create a Backpack which provides passive §eNight Vision§r, §eStrength 2§r and §eFire resistance§r, aswell as some §eRegeneration§r when on low health.%n%nEnderman farms can also be made using §3Fans§r to push the endermen into the killing zone.
 
 
 ## Quest Line: Three hundred caps
-betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.name=Three hundred caps
-betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.desc=Welcome to the shop!
+betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.name=Три сотни крышек
+betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.desc=Добро пожаловать в магазин!
 
 # Quest: Buy Advanced Alloy
-betterquesting.quest.-cnZWNjQRf6c1btgaDWOyA.name=Buy Advanced Alloy
+betterquesting.quest.-cnZWNjQRf6c1btgaDWOyA.name=Купить продвинутый сплав
 betterquesting.quest.-cnZWNjQRf6c1btgaDWOyA.desc=Need some advanced alloy? Buy some!
 
 # Quest: Sell Dust
-betterquesting.quest.7NPMYwlyRnuUYaXsIwEgRg.name=Sell Dust
+betterquesting.quest.7NPMYwlyRnuUYaXsIwEgRg.name=Продать пыль
 betterquesting.quest.7NPMYwlyRnuUYaXsIwEgRg.desc=I hate dust!
 
 # Quest: Buy Minecraft Grade Copper
-betterquesting.quest.D2Exp9OuTbyYS9fJwtw2-g.name=Buy Minecraft Grade Copper
+betterquesting.quest.D2Exp9OuTbyYS9fJwtw2-g.name=Купить красную медь
 betterquesting.quest.D2Exp9OuTbyYS9fJwtw2-g.desc=Need some minecraft grade copper? Buy some!
 
 # Quest: Buy Technetium Steel
-betterquesting.quest.QoKnQH_ETbiodGyDlEZzuA.name=Buy Technetium Steel
+betterquesting.quest.QoKnQH_ETbiodGyDlEZzuA.name=Купить технециевую сталь
 betterquesting.quest.QoKnQH_ETbiodGyDlEZzuA.desc=Need some technetium steel? Buy some!
 
 # Quest: Buy Steel
-betterquesting.quest.r6_zzsvOSRWQ6N6YCBilvw.name=Buy Steel
+betterquesting.quest.r6_zzsvOSRWQ6N6YCBilvw.name=Купить сталь
 betterquesting.quest.r6_zzsvOSRWQ6N6YCBilvw.desc=Need some steel? Buy some!
 
 
 ## Quest Line: Reward Area
-betterquesting.questline.VIthQchWRnKIQ6qTwFcPFg.name=Reward Area
-betterquesting.questline.VIthQchWRnKIQ6qTwFcPFg.desc=Trade your rewards.
+betterquesting.questline.VIthQchWRnKIQ6qTwFcPFg.name=Зона наград
+betterquesting.questline.VIthQchWRnKIQ6qTwFcPFg.desc=Торгуйте своими наградами.
 
 # Quest: LV1 > LV2 Lootbag Trade
 betterquesting.quest.8XIrl7C6Q5qBBT6HSgTHIA.name=LV1 > LV2 Lootbag Trade
