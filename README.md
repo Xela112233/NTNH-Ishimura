@@ -31,7 +31,7 @@
     <img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius: 50%; margin: 5px;" title="Bufka2011 (1864 contributions)">
   </a>
   <a href="https://github.com/BufkaSecond">
-    <img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius: 50%; margin: 5px;" title="BufkaSecond (220 contributions)">
+    <img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius: 50%; margin: 5px;" title="BufkaSecond (223 contributions)">
   </a>
   <a href="https://github.com/AniviaFlome">
     <img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" height="50" alt="AniviaFlome" style="border-radius: 50%; margin: 5px;" title="AniviaFlome (92 contributions)">
@@ -69,7 +69,7 @@
           <br />
           <sub><b>Bufka2011</b></sub></a>
         <br />
-        <sub><b>268572 words</b></sub>
+        <sub><b>268742 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/BufkaSecond"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16895253/medium/0b29547a406506ea79d4bbd68608d6ed.png" />
