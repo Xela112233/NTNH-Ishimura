@@ -402,7 +402,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=The §3Industrial Steam Turbine
 
 # Quest: Coker Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=Коксовая установка
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=The §3Coker Unit§r is a machine that turns oil products into §6Petroleum Coke§r, which is the same to the other kinds of coke, aswell as additional fluids as byproducts. The coker unit will require an external heat source in order to function, similar to the §3Crucible§r.%n%n§2§r§2Alongside the §2§r§2§r§2Electric Arc Furnace, the coker unit is one of the most polluting machines of the mod. It spreads 20 soot per second, making it a dangerous machine to use next to a glyphid nest.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=§3Коксовая установка§r это машина которая перерабатывает нефтепродукты в §6коксовый уголь§r, который идентичен другим коксовым углям, а также дополнительные побочные нефтепродукты. Коксовая установка требует внешнего нагрева, похожий принцип встречается у §3плавильни§r.%n%n§2§r§2В отличии от §2§r§2§r§2электрической дуговой печи, коксовая установка одна из самых сильных загрязнителей окружающей среды. Он выбрасывает 20 ед. сажи в секунду, делая её опаснейшей машиной для использования напротив гнезда глифидов.
 
 # Quest: Auxilary Cooling Tower
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=Вспомогательная градирня
@@ -1731,11 +1731,11 @@ betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=The §6Screwdriver§r is used t
 
 # Quest: The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.name=Край космоса...
-betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Well, you've completed the space stage of the game; now the entire space knows and fears you (you are a true space pirate). Here are a couple more nuances about the §3Dyson swarm§r:%n%n§2Do not place §3converters§r directly next to the §3receiver§r - this will cause a malfunction.§r%n%n§2Multiple players in the same game world can create multiple §3swarms§r, but keep in mind that different swarms reduce each other's §eefficiency§r. This can encourage players to either work together on one common §3swarm§r or compete to extract more §eenergy§r from their own §3swarm§r.§r
+betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Что ж, ты завершил космическую стадию игры; теперь весь космос знает и боится тебя (ты настоящий космический пират). Вот ещё несколько нюансов о §3Рое Дайсона§r:%n%n§2Не ставьте §3конвертеры§r вплотную к §3ресиверу§r - это вызовет ошибку в работе.§r%n%n§2Множестао игроков в одном мире могут создавать несколько §3роев§r, однако посните что разные рои уменьшают §eэффективность§r друг друга. Это модет заставить игроков либо работать вместе над одним оьщим §3роем§r, либо соревноваться, чтобы извлекать больше §eэнергии§r из их собственного §3роя§r.§r
 
 # Quest: All My Sounds Are Gone!
 betterquesting.quest.lH0bvUKoTYChtO49fWj9Qg.name=Все мои звуки пропали!
-betterquesting.quest.lH0bvUKoTYChtO49fWj9Qg.desc=Try updating your Java by downloading it from the official Jav website ([url]https://java.com[/url]).%n%nIf it didn't help - open an issue on our GitHub or ask for help in our Discord.
+betterquesting.quest.lH0bvUKoTYChtO49fWj9Qg.desc=Попробуйте обновить вашу Java, скачав её с официального сайта Jav ([url]https://java.com[/url]).%n%nЕсли это не помогло - откройте issue на нашем GitHub или попросите помощи в Discord.
 
 
 ### Quests in no quest lines ###

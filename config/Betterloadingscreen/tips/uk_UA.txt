@@ -49,32 +49,32 @@ Click on an item in the quest book to show its recipe in NEI
 Остерігайся Гліфідів
 Воднева бомба проти кашлчого малюка
 Передавай привіт DreamMaster з Bufka2011!
-Що? Варден тяжкий бос? Pfft... Martian Invasion Ship
-This is not a bug, this is an anomaly!
-ZIRNOX going brrrrrr
-Oh no, ZIRNOX going BOOOOOM
-PotatOS is funny :D
-Did you checked graphics settings?
-How much RAM do you have? 6GB fo NT:NH is perfect!
-Do not ragequit
-Historically accurate! Maybe...
-50% scientific accurate!
-How about to share this modpack with your friends?
-The freaking meteorite landed INSIDE our rock cave!
-Yaaay, pollution! >:D
-Oh no, pollution. :(
-Do you have radiation protection with you?
-Be sure to check out if there is a new update!
-The best way to process ore is Acidizer + Centrifuge
-Crystallized ore gives you 2 ingots when smelting
-NTM's Electric Furnaces are must!
-Don't mine coal without breathing protection
-Number One Asbestos Fan
-She was 'Nuclear' on my 'Tech' until I 'New Horizons'
-Did you already automated food production?
-It's automated, not automized
-Don't forget to feed your cat!
-Minecraft loading can take a while
+Що? Варден тяжкий бос? Пффф... Марсіанський Корабель Вторгнення
+Це не баг, це аномалія!
+ZIRNOX робить брррррр
+О ні, ZIRNOX робить БОООООМ
+PotatOS кумедна :D
+Ти перевірив налаштування графіки?
+Скільки у тебе оперативної пам'яті? Скільки у тебе оперативної пам'яті?
+Не здавайся
+Історично точно! Можливо...
+50% наукової точності!
+Як щодо того, щоб поділитися цим модпаком з друзями?
+Цей чортів метеорит приземлився ВСЕРЕДИНІ нашої кам'яної печери!
+Ура, забруднення! >:D
+О ні, забруднення. :(
+У вас є з собою захист від радіації?
+Обов'язково перевірте, чи є нове оновлення!
+Найкращий спосіб обробки руди - це підкислювач + центрифуга
+Кристалізована руда дає 2 злитки під час плавки
+Електричні печі NTM обов'язкові!
+Не видобувайте вугілля без засобів захисту органів дихання
+Вентилятор Азбестовий Номер Один
+Вона була «ядерною» на моїй «Технології», поки я не перейшов на «Нові горизонти».
+Ви вже автоматизували виробництво продуктів харчування?
+Це автоматизовано, а не автоматизовано
+Не забудьте погодувати свою кішку!
+Завантаження Minecraft може тривати деякий час
 World loading can take a while
 You can suggest your ideas on NTNH's GitHub repo!
 You can suggest your ideas on NTNH's Discord!
