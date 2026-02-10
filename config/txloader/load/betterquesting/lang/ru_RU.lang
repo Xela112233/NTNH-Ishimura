@@ -129,7 +129,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.desc=§3Паяльный стол§r
 
 # Quest: Crucible
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.name=Плавильня
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.desc=§3Плавильня§r - это важная машина, так как является центральным компонентом металлургии. Он используется как метод переработки руды, создания сплавов и литья металла. Ему требуется внешний источник тепла для плавления входных материалов в жидкости, и когда он заполнен, он выделяет постоянное количество сажи, которая может вызвать значительное загрязнение, которое невозможно устранить. Некоторые сплавы, как упоминалось ранее, можно создать альтернативно, используя §3Доменную печь§r, однако это обычно медленнее.%n%n[F1] Для получения дополнительной информации.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.desc=§3Плавильня§r - это важная машина, так как является центральным компонентом металлургии. Она используется как метод переработки руды, создания сплавов и литья металла. Ей требуется внешний источник тепла для плавления входных материалов в жидкости, и когда она заполнена, она выделяет постоянное количество сажи, которая может вызвать значительное загрязнение, которое невозможно устранить. Некоторые сплавы, как упоминалось ранее, можно создать альтернативно, используя §3Доменную печь§r, однако это обычно медленнее.%n%n[F1] Для получения дополнительной информации.
 
 # Quest: Arc Welder
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=Дуговой сварщик
@@ -386,19 +386,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.desc=§3Индустриальный
 
 # Quest: Rubber
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.name=Резина
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.desc=§6Rubber§r is an essential material used in many crafting recipes. It is created in a §3Chemical Plant§r with §bUnsaturated Hydrocarbons§r obtained from a §3Catalytic Cracking Tower§r.%n%n§6Latex§r is a rubber alternative which can be used in some recipes instead of normal rubber. It can be created early on using a §3Burner Press§r by processing dandelions or jungle wood.%n%n§2In NTM: Space cracked oil is required to obtain the first piece of rubber.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.desc=§6Резина§r - это важный материал, используемый во многих рецептах крафта. Она создается в §3Химической установке§r с помощью §bНенасыщенных углеводородов§r, получаемых из §3Башни каталитического крекинга§r.%n%n§6Латекс§r - это альтернатива резине, которая может использоваться в некоторых рецептах вместо обычной резины. Его можно создать на раннем этапе, используя §3Пресс§r для переработки одуванчиков или древесины джунглей.%n%n§2В NTM: Space для получения первого куска резины требуется крекированная нефть.
 
 # Quest: Bakelite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.name=Бакелит
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.desc=§6Bakelite§r is an alternative to Polymer and can be used for the same recipes. Since it doesnt require any §6Coal Powder§r or §6Fluorite§r to be made, it is easier and more convenient to automate than §6Polymer§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.desc=§6Бакелит§r - это альтернатива Полимеру и может использоваться в тех же рецептах. Поскольку для его создания не требуется §6Угольная пыль§r или §6Флюорит§r, его легче и удобнее автоматизировать, чем §6Полимер§r.
 
 # Quest: Desh
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.name=Деш
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.desc=§6Desh§r is an alloy made up of 9 rare earth metals to make its blend form, which is solidified and refined using §bMercury§r and §bLight oil§r in the §3Chemical Plant§r. Desh is an almost unbreakable material and as such its tools have infinite durability. %n%n§a§2Desh can also be made using DeshReady™ in a Rotary Furnace, or later on, in an Ore Acidizer.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.desc=§6Деш§r - это сплав, состоящий из 9 редкоземельных металлов для создания его смешанной формы, которая затвердевает и очищается с использованием §bРтути§r и §bЛегкой нефти§r в §3Химической установке§r. Деш - это практически неразрушимый материал, и поэтому его инструменты имеют бесконечную прочность. %n%n§a§2Деш также можно создать, используя Готовую смесь Деш™ в Ротационной печи или позже в Рудном окислителе.
 
 # Quest: Industrial Steam Turbine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.name=Промышленная паровая турбина
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=The §3Industrial Steam Turbine§r is a multiblock machine that is a much larger and more powerful version of the regular §3Steam Turbine§r. It has a §e100MHE§r internal power buffer, a 512,000 MB input buffer, and a 10,240,000 MB output buffer, and can process 102,400 MB per tick at the most. It is also the only turbine that operates at §e100%%§r efficiency.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=§3Промышленная паровая турбина§r - это мультиблочная машина, которая является гораздо большей и более мощной версией обычной §3Паровой турбины§r. Она имеет внутренний энергетический буфер §e100MHE§r, входной буфер 512,000 MB и выходной буфер 10,240,000 MB, и может обрабатывать до 102,400 MB за тик. Это также единственная турбина, которая работает с эффективностью §e100%%§r.
 
 # Quest: Coker Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=Коксовая установка
@@ -410,87 +410,87 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=§3Вспомогательна
 
 # Quest: Refinery Power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.name=Нефтеэнергия
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=Oil products can be combusted or burnt to produce massive amounts of energy.%n%nThe §3Industrial Combustion Engine§r combusts fuels, such as §bHeating Oil§r or §bDiesel§r to produce power. Various piston sets exist, which are needed for the engine to work, each one giving its own efficiency bonuses to fuel grades.%n%nThe §4§3Turbofan§r is the best place to use aviation type fuels, such as §bKerosene§r, as it provides §e100%%§r power efficiency. Be careful not to stand infront of it while its operational!%n%nThe §3Combined Cycle Gas Turbine§r is the only generator that can burn gaseous fuels at §e100%%§r efficiency. The CCGT uses §3§bEngine Lubricant§r, and produces §bDense Steam§r.%n%nThe §3Flare Stack§r is used for burning gasses such as §bUnsaturated Hydrocarbons§r for power, aswell as dealing with excess fluids.%n%nThe §3Fluid Burner§r is a much more efficient way of producing power from gases. Place a §3Boiler§r ontop and run the §bSteam§r through a turbine to generate power.%n%nConsider installing a §6Muffler§r on some of these machines as they are very loud. Shift-Click on a machine while holding a Muffler to apply.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=Нефтепродукты можно сжигать для производства огромного количества энергии.%n%n§3Промышленный двигатель внутреннего сгорания§r сжигает топливо, такое как §bМазут§r или §bДизель§r, для производства энергии. Существуют различные наборы поршней, которые необходимы для работы двигателя, каждый из которых дает свои бонусы к эффективности для разных сортов топлива.%n%n§4§3Турбовентилятор§r - лучшее место для использования авиационного топлива, такого как §bКеросин§r, так как он обеспечивает §e100%%§r эффективности выработки энергии. Будьте осторожны и не стойте перед ним во время работы!%n%n§3Газовая турбина комбинированного цикла (CCGT)§r - единственный генератор, который может сжигать газообразное топливо с эффективностью §e100%%§r. CCGT использует §3§bМоторную смазку§r и производит §bГорячий пар§r.%n%n§3Газовая башня§r используется для сжигания газов, таких как §bНенасыщенные углеводороды§r, для получения энергии, а также для утилизации избыточных жидкостей.%n%n§3Жидкостная горелка§r - гораздо более эффективный способ производства энергии из газов. Установите §3Бойлер§r сверху и пропустите §bПар§r через турбину для генерации энергии.%n%nРассмотрите возможность установки §6Глушителя§r на некоторые из этих машин, так как они очень шумные. Shift-клик по машине, держа Глушитель, чтобы применить.
 
 # Quest: Pumpjack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=Станок-качалка
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.desc=The §3Pumpjack§r is a more efficient §3Oil Derrick§r which extracts 750mb of §bCrude Oil§r and a random amount of §bNatural Gas§r between 50 and 250mb in a 1.25 second cycle. It depletes a single block of a deposit after extracting a random number of cycles of oil that is on average twice as large compared to the derrick.%n%nIn total, this means that the pumpjack is on average 3x as efficient at extracting oil and 3x as fast at doing so while producing the same amount of natural gas as the derrick.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.desc=§3Станок-качалка§r - это более эффективная §3Нефтяная вышка§r, которая извлекает 750mb §bСырой нефти§r и случайное количество §bПриродного газа§r от 50 до 250mb за цикл длительностью 1.25 секунды. Она истощает один блок месторождения после извлечения случайного количества циклов нефти, которое в среднем в два раза больше по сравнению с вышкой.%n%nВ целом это означает, что нефтяная качалка в среднем в 3 раза эффективнее извлекает нефть и в 3 раза быстрее делает это, производя при этом то же количество природного газа, что и вышка.
 
 # Quest: Ore Acidizer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.name=Рудный окислитель
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.desc=The §3Ore Acidizer§r is a useful machine, used for processing various items for utility, ore multiplication, and more. It is powered by electricity and requires various solvents depending on the item. The acidizer is quite the power hungry machine, consuming §e20kHE/s§r. %n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.desc=§3Рудный окислитель§r - это полезная машина, используемая для переработки различных предметов для утилитарных целей, умножения руды и многого другого. Она работает от электричества и требует различных растворителей в зависимости от предмета. Окислитель довольно энергоемкая машина, потребляющая §e20kHE/s§r. %n%n
 
 # Quest: Hydraulic Fracking Tower
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Башня гидроразрыва пласта
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=The §3Hydraulic Fracking Tower§r is used to extract infinite oil from a §eBedrock Oil Deposit§r. To operate, the machine needs §bFracking Solution§r. During its operation, the surrounding environment will sustain considerable damage. §6Oily Dirt§r and §6Oily Sand§r can be used to create §6Arsenic§r, a substitute of §6Bismuth§r.%n%nOperating the hydraulic fracking tower will consume §e100kHE/s§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=§3Башня гидроразрыва пласта§r используется для добычи бесконечной нефти из §eБедрокового нефтяного месторождения§r. Для работы машине требуется §bЖидкость для гидроразрыва пласта§r. Во время её работы окружающая среда будет получать значительный урон. §6Пропитанная нефтью земля земля§r и §6Пропитанный нефтью песок§r могут использоваться для создания §6Мышьяка§r, заменителя §6Висмута§r.%n%nРабота башни гидроразрыва пласта будет потреблять §e100kHE/s§r.
 
 # Quest: Centrifuge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUg.name=Центрифуга
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUg.desc=The §6§3Centrifuge§r allows for the seperation of ores, giving back more items than the usual mining method. It also seperates items into their respective items. Additionally, they are used in processing §e§6Bedrock Ores§r.%n%nOperating the centrifuge will consume §e4kHE/s§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUg.desc=§6§3Центрифуга§r позволяет разделять руды, возвращая больше предметов, чем обычный метод добычи. Она также разделяет предметы на их соответствующие компоненты. Кроме того, они используются при переработке §e§6Бедроковых руд§r.%n%nРабота центрифуги будет потреблять §e4kHE/s§r.
 
 # Quest: Electric Groundwater Pump
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.name=Электрический насос для грунтовых вод
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=The §3Electric Groundpump§r can be used to quickly generate §bWater§r, making it very useful later on for filling large §3Tanks§r and reactors. The pump requires a 3x3 cube of dirt directly beneath it and must be below Y:70, otherwise it won't work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=§3Электрический грунтовый насос§r может использоваться для быстрой генерации §bВоды§r, что делает его очень полезным на поздних этапах для заполнения больших §3Цистерн§r и реакторов. Насос требует куб земли размером 3x3 непосредственно под ним и должен находиться ниже Y:70, иначе он не будет работать.
 
 # Quest: Industrial Solidification Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.name=Промышленный отвердитель
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.desc=The §3Industrial Solidification Machine§r is a general use machine for the solidification of various fluids. An important product of this machine is §6Tar§r, which can be used to create §3Tanks§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.desc=§3Промышленн отвердитель§r - это универсальная машина для затвердевания различных жидкостей. Важным продуктом этой машины является §6Смола§r, которая может использоваться для создания §3Цистерн§r.
 
 # Quest: Industrial Liquification Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=Промышленный разжижитель
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=The §3Industrial Liquification Machine§r is a general use machine for the liquifying various items. It becomes very useful for cobblestone generation, and thus §6Silicon§r automation.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=§3Промышленный разжижитель§r - это универсальная машина для сжижения различных предметов. Она становится очень полезной для генерации булыжника, и, следовательно, автоматизации §6Кремния§r.
 
 # Quest: Tank
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=Цистерна
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=§3Tanks§r and §3Barrels§r are useful storage devices that can hold various fluids in various amounts. Each tank and barrel supports holding different types of corrosive, hot, or exotic fluids, and knowing which ones can hold your desired fluids can be vital to your fluid processing and storage facilities.%n%nTanks can hold up to 256,000mb of fluids, while a Steel Barrel can hold 16,000.%n%n§4§2Tanks cant hold highly Antimatter and Corrosive fluids and as such a Big-Ass Tank 9000 or a Magnetic Tank is needed respectively.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=§3Цистерны§r и §3Бочки§r - это полезные устройства хранения, которые могут вмещать различные жидкости в различных количествах. Каждый резервуар и бочка поддерживают хранение различных типов коррозионных, горячих или экзотических жидкостей, и знание того, какие из них могут вмещать нужные вам жидкости, может быть жизненно важным для ваших установок по переработке и хранению жидкостей.%n%nЦистерны могут вмещать до 256,000mb жидкостей, в то время как Стальная бочка может вмещать 16,000.%n%n§4§2Цистерны не могут вмещать высокоантиматериальные и коррозионные жидкости, поэтому для них требуется соответственно Охереть большая бочка 9000 или Магнитный резервуар.
 
 # Quest: Geiger Counter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=Счётчик Гейгера
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=The §6Geiger counter§r is a device used to measure §eRAD/s§r, in order to inform the player of any eventual radiation. It is an upgrade to the §6Dosimeter§r. It can measure three different types of radiation, those types being chunk radiation, environmental radiation and player contamination.%n%nIt can be used in one of two forms, either as a hand-held item or in its block form.%n%nHolding it in the inventory will show a meter on the bottom left of the screen, and right clicking while holding it will send a message in chat showing the various doses of radiation.%n%nIt will also click whenever it reads any kind of radiation, a signature function of any dosimeter.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=§6Счётчик Гейгера§r - это устройство, используемое для измерения §eRAD/s§r, чтобы информировать игрока о любом возможном излучении. Это улучшение по сравнению с §6Дозиметром§r. Счётчик может измерять три различных типа радиации: радиацию чанка, радиацию окружающей среды и загрязнение игрока.%n%nОн может использоваться в одной из двух форм: либо как переносной предмет, либо в форме блока.%n%nДержа его в инвентаре, вы увидите индикатор в левом нижнем углу экрана, а правый клик при удерживании отправит сообщение в чат, показывающее различные дозы радиации.%n%nОн также будет щелкать всякий раз, когда обнаружит любой вид радиации - характерная функция любого дозиметра.
 
 # Quest: Survey Scanner
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=Сканер
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=The §6Survey Scanner§r is a handheld device that will point out underground resourse deposits, such as §eDepth Rock§r and §eBedrock Ores§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=§6Cканер§r - это портативное устройство, которое укажет на подземные месторождения ресурсов, такие как §eГлубинная порода§r и §eБедроковые руды§r.
 
 # Quest: Nuclear Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=Ядерная доменная печь
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=The §3Nuclear Blast Furnace§r is an RTG-powered alternative to the standard §3Blast Furnace§r. It has 6 slots for RTG pellets, and requires a minimum of 15 heat to operate. It is significantly faster than the regular blast furnace.%n%nPellets with higher power levels will have a better effect of heating and thus speed. If sufficient heat is provided, it can alloy items near-instantaneously.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=§3Ядерная доменная печь§r - это работающая на РИТЭГе альтернатива стандартной §3Доменной печи§r. Она имеет 6 слотов для РИТЭГовых топливных элементов и требует минимум 15 единиц тепла для работы. Она значительно быстрее обычной доменной печи.%n%nТопливные элементы с более высоким уровнем мощности будут иметь лучший эффект нагрева и, следовательно, скорости. При достаточном нагреве она может сплавлять предметы практически мгновенно.
 
 # Quest: Launch Pad
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=Компактная пусковая площадка
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.desc=The §3Launch Pad§r is the main launch table for most missiles. Although it is the earliest available, missiles must first be erected before launch, resulting in a small delay.%n%nThe §3Silo Launch Pad§r is a miniaturized version of the launch pad. It can launch every generic missile with a delay of only 5 seconds. A rusted variant can be found in the naturally-occurring silo structure, holding the damaged Doomsday Missile.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.desc=§3Пусковая площадка§r - это основной стартовый стол для большинства ракет. Хотя она доступна раньше всего, ракеты должны сначала быть подняты перед запуском, что приводит к небольшой задержке.%n%n§3Силосная пусковая площадка§r - это миниатюрная версия пусковой площадки. Она может запускать любую стандартную ракету с задержкой всего в 5 секунд. Заржавевший вариант можно найти в естественно возникающей структуре шахты, содержащей поврежденную Ракету Судного дня.
 
 # Quest: Transport Drones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name=Транспортные дроны
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=§3Transport Drones§r are flying machines which will transport items and fluids between different containers. The drones require no power, and can transport both up and down. §3Waypoints§r can be used to make a better path for the transport drones to move around.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=§3Транспортные дроны§r - это летающие машины, которые будут перемещать предметы и жидкости между различными контейнерами. Дроны не требуют энергии и могут перемещаться как вверх, так и вниз. §3Путевые точки§r могут использоваться для создания лучшего маршрута для движения транспортных дронов.
 
 # Quest: Electrolysis Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzA.name=Электролизёр
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzA.desc=The §3Electrolysis Machine§r enables the separating of elements from fluids and the advanced processing of ores, making it an important machine in ore processing. Operating the machine consumes §e200kHE/s§r.%n%nThe electrolysis machine has 2 functions: one for the separation of fluids and one for ore processing.%n%nIn the first mode, the machine will take in a compatible fluid and separate it into 2 other fluids.%n%nIn the second mode, it will require §bNitric Acid§r and will process any kind of ore-derived crystal, allowing the maximum yield of the ore. There are 2 outputs, for the molten main product the outlet marked green and the secondary the one marked red, plus a byproduct kept in its item form. The outlets follow the same mechanics as the §3Crucible§r.%n%n§2Consider installing a Power Saving upgrade above level 2 on the electrolysis machine as it will significantly reduce the power consumption with only a minimal speed penalty.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzA.desc=§3Электролизёр§r позволяет разделять элементы из жидкостей и проводить продвинутую переработку руд, что делает её важной машиной в процессе переработки руды. Работа машины потребляет §e200kHE/s§r.%n%nЭлектролизная машина имеет 2 функции: одну для разделения жидкостей и одну для переработки руды.%n%nВ первом режиме машина принимает совместимую жидкость и разделяет её на 2 другие жидкости.%n%nВо втором режиме ей потребуется §bАзотная кислота§r, и она будет обрабатывать любой вид кристалла, полученного из руды, обеспечивая максимальный выход руды. Есть 2 выхода: для расплавленного основного продукта - выход, отмеченный зеленым, а для вторичного - отмеченный красным, плюс побочный продукт, сохраняемый в форме предмета. Выходы следуют той же механике, что и §3Плавильня§r.%n%n§2Рассмотрите возможность установки улучшения энергосбережения выше уровня 2, так как это значительно снизит энергопотребление с минимальным штрафом к скорости.
 
 # Quest: Semtex
 betterquesting.quest.D6A-to-oSe29nf5qIu4h_w.name=Семтекс
-betterquesting.quest.D6A-to-oSe29nf5qIu4h_w.desc=§6Semtex§r is an explosive that is used in conjunction with C-4 in many crafts.%n%nSemtex is used in many crafts of various ammunition and mines, such as the §6Stinger missile§r, §6anti-personnel mines§r, and so on. In all crafts that use Semtex (except, of course, the Semtex block and Semtex bar, as well as the explosive reactive armor plate), it can be replaced with a C-4 bar.%n%nIt is used to create the bomb of the same name.%n%n§2Semtex can be eaten, making you feel like a real American soldier.§r
+betterquesting.quest.D6A-to-oSe29nf5qIu4h_w.desc=§6Семтекс§r - это взрывчатое вещество, которое используется в сочетании с C-4 во многих рецептах.%n%nСемтекс используется во многих рецептах различных боеприпасов и мин, таких как §6Ракета Стингер§r, §6Противопехотные мины§r и так далее. Во всех рецептах, использующих Семтекс (за исключением, конечно, блока Семтекса и слитка Семтекса, а также пластины динамической защиты), его можно заменить слитком C-4.%n%nОн используется для создания бомбы с таким же названием.%n%n§2Семтекс можно съесть, что заставит тебя почувствовать себя настоящим американским солдатом.§r
 
 # Quest: Microchip
 betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.name=Микрочип
-betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.desc=§6Microchips§r are one of the most important components of future circuits and will be used in bulk throughout progression.
+betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.desc=§6Микрочипы§r - это один из самых важных компонентов будущих схем и будут использоваться в больших количествах на протяжении всего прогресса.
 
 # Quest: Powered Drill
 betterquesting.quest.UWNifpoeQfypMwfGniM40w.name=Силовой бур
-betterquesting.quest.UWNifpoeQfypMwfGniM40w.desc=The §6Powered Drill§r is a modular mining device which can make resourse gathering and excavation much faster than normal pickaxes. %n%nVarious modifications can be attached in the §3Weapon Modification Table§r, such as new drillbits for a larger mining radious or even new engines, which let it run on electricity.
+betterquesting.quest.UWNifpoeQfypMwfGniM40w.desc=§6Силовой бур§r - это модульное устройство для добычи, которое может сделать сбор ресурсов и раскопки намного быстрее, чем обычные кирки. %n%nРазличные модификации могут быть установлены на §3Столе модификации оружия§r, такие как новые буровые головки для большего радиуса добычи или даже новые двигатели, позволяющие ей работать от электричества.
 
 # Quest: Redstone Fluid Overflow
 betterquesting.quest.ZTrtIRiyRO2J5jHQ4sroaQ.name=Управление потоком с помощью редстоуна
-betterquesting.quest.ZTrtIRiyRO2J5jHQ4sroaQ.desc=§6§6§3Redstone-Over Radio§r in combination with a §3Redstone Fluid Valve§r can be used to detect when a tank is starting to fill up, and release the insides. This is useful for having buffers without having all the fluids being wasted.%n%n§2Here is an exmaple of a tank that will only output fluid once its full:§r%n%nFirstly, place a §6ROR Transmitter§r on one port of the tank, provide an ID and enable Polling.%n%n[img height=1000]betterquesting:textures/QB_Fluid1.png[/img]%n%nAfter that, place a §6ROR Logic Receiver§r next to the fluid valve and input the desired settings. Make sure that your signal is >= of your desired buffer. One redstone level equals to 16k mb.%n%n[img height=1000]betterquesting:textures/QB_Fluid2.png[/img]%n%nA §3Fluid Control Pump§r can also be used to limit throughput of fluids and to also add priorities.
+betterquesting.quest.ZTrtIRiyRO2J5jHQ4sroaQ.desc=§6§6§3Редстоун-по-радио§r в сочетании с §3Редстоуновым жидкостным клапаном§r может использоваться для обнаружения момента, когда резервуар начинает заполняться, и высвобождения содержимого. Это полезно для создания буферов без потери всех жидкостей.%n%n§2Вот пример резервуара, который будет выводить жидкость только после полного заполнения:§r%n%nВо-первых, поместите §6Передатчик РПР§r на один порт резервуара, задайте ID и включите Polling.%n%n[img height=1000]betterquesting:textures/QB_Fluid1.png[/img]%n%nПосле этого поместите §6Логический приемник РПР§r рядом с жидкостным клапаном и введите желаемые настройки. Убедитесь, что ваш сигнал >= желаемого буфера. Один уровень редстоуна равен 16k mb.%n%n[img height=1000]betterquesting:textures/QB_Fluid2.png[/img]%n%n§3Помпа контроля потока§r также может использоваться для ограничения пропускной способности жидкостей и добавления приоритетов.
 
 # Quest: Jetpack
 betterquesting.quest.l6zSmdfhSw6aTqiJsNDiHg.name=Реактивный ранец
-betterquesting.quest.l6zSmdfhSw6aTqiJsNDiHg.desc=The §6Jetpack§r can be used to travel upwards. It can be upgraded to unlock additional abilities, and can be equiped as an armor modification.
+betterquesting.quest.l6zSmdfhSw6aTqiJsNDiHg.desc=§6Реактивный ранец§r может использоваться для перемещения вверх. Он может быть улучшен для разблокировки дополнительных способностей и может быть экипирован как модификация брони.
 
 # Quest: Solid Fuel
 betterquesting.quest.l7cvDxEiTg6v1RvTk-ynTw.name=Твёрдое топливо
-betterquesting.quest.l7cvDxEiTg6v1RvTk-ynTw.desc=§6Solid Fuel§r is a compact solidified petroleum product with superior burn time and heat output compared to coal. Essential for advanced furnace operations and rocket propulsion systems.
+betterquesting.quest.l7cvDxEiTg6v1RvTk-ynTw.desc=§6Твёрдое топливо§r - это компактный затвердевший нефтяной продукт с превосходным временем горения и тепловой отдачей по сравнению с углем. Необходимо для работы продвинутых печей и ракетных двигательных систем.
 
 # Quest: Delinquent
 betterquesting.quest.nwCUMdHpQjykUlIVNW7Bcw.name=Нарушитель
@@ -498,40 +498,40 @@ betterquesting.quest.nwCUMdHpQjykUlIVNW7Bcw.desc=Будь жёстким.
 
 # Quest: Teleporter
 betterquesting.quest.refh8r3gQyavrC4KgSeWkw.name=Телепорт
-betterquesting.quest.refh8r3gQyavrC4KgSeWkw.desc=The §3Teleporter§r can be used to teleport players, and entities in general, to a specific location.%n%nRight-click a block with the §6Telelinker§r to set the desired exit position, then shift-click the teleporter with the telelinker to configure the teleporter.%n%n§2The teleporter is a one way trip so it is advised that multiple are made.%n%nInterdimensional teleportation using teleporters requires a very expensive type of fuel, so it is recommended that other teleportations methods are used, such as AE2 Spatial.
+betterquesting.quest.refh8r3gQyavrC4KgSeWkw.desc=§3Телепорт§r может использоваться для телепортации игроков и сущностей в целом в определенное место.%n%nПравый клик по блоку с помощью §6Телесвязывателя§r установит желаемую позицию выхода, затем shift-клик по телепорту с телесвязывателем настроит телепорт.%n%n§2Телепорт - это путешествие в одну сторону, поэтому рекомендуется создать несколько.%n%nМежпространственная телепортация с использованием телепортов требует очень дорогого типа топлива, поэтому рекомендуется использовать другие методы телепортации, такие как AE2 Spatial.
 
 # Quest: Pinwheels
 betterquesting.quest.t6tkjZliTEKxH0W6y39auQ.name=Вертушки
-betterquesting.quest.t6tkjZliTEKxH0W6y39auQ.desc=The §6Chlorine Pinwheel§r is a yellow propeller capable of producing chlorine indefinitely.%nAcquisition%n%nIt cannot be crafted, but can be found in structures (e.g., in a starship).%n%nThe chlorine spinner is an endless source of §bChlorine§r; to use it, simply place it in a container slot (e.g., in a barrel). The item will produce chlorine indefinitely, although the production rate is low (1 mb/t or 20 mb/s).%n%nThe §6Oxygen Pinwheel§r is analogous to the Chlorine Pinwheel, producing §bOxygen§r instead of §bChlorine§r.
+betterquesting.quest.t6tkjZliTEKxH0W6y39auQ.desc=§6Хлорная вертушка§r - это желтый пропеллер, способный производить хлор бесконечно.%nПолучение%n%nОна не может быть скрафчена, но может быть найдена в структурах (например, в звездолете).%n%nХлорная вертушка - это бесконечный источник §bХлора§r; чтобы использовать её, просто поместите её в слот контейнера (например, в бочку). Предмет будет производить хлор бесконечно, хотя скорость производства низкая (1 mb/t или 20 mb/s).%n%n§6Кислородная вертушка§r аналогична Хлорной вертушке, производя §bКислород§r вместо §bХлора§r.
 
 # Quest: Precision Assembly Machine
 betterquesting.quest.tKyjXZ3KQa6y3FLlxcC2_A.name=Прецизионная сборочная машина
-betterquesting.quest.tKyjXZ3KQa6y3FLlxcC2_A.desc=The §3Precision Assembly Machine§r is a machine which can produce §6Blueprints§r. Due to the recipes having a low success rate, automation of the ingredient is recommended.%n%nPufferfish can be obtained from throwing §6Fishing Dynamite§r in water.
+betterquesting.quest.tKyjXZ3KQa6y3FLlxcC2_A.desc=§3Прецизионная сборочная машина§r - это машина, которая может производить §6Чертежи§r. Поскольку рецепты имеют низкую вероятность успеха, рекомендуется автоматизация ингредиентов.%n%nИглобрюха можно получить, бросая §6Динамитные шашки для рыбалки§r в воду.
 
 # Quest: Weapon Steel
 betterquesting.quest.xADm9gLETmCgiS3amOTUcQ.name=Оружейная сталь
-betterquesting.quest.xADm9gLETmCgiS3amOTUcQ.desc=§6Weapon steel§r is a steel alloy made by further refining steel in a §3Rotary Furnace§r. As its name implies, it is used in the crafting of weapons and ammunition. It is the next tier of weapons grade alloy after §6Gunmetal§r.
+betterquesting.quest.xADm9gLETmCgiS3amOTUcQ.desc=§6Оружейная сталь§r - это стальной сплав, изготовленный путем дальнейшей очистки стали в §3Ротационной печи§r. Как следует из названия, она используется в крафте оружия и боеприпасов. Это следующий уровень сплава оружейного класса после §6Пушечной бронзы§r.
 
 # Quest: Mining Laser
 betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.name=Лазерный шахтёр
-betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.desc=The §3Mining Laser§r is a laser drill which can be used to quickly dig large areas. It has a §e100 MHE§r internal power buffer and a 64,000mB internal §bCrude Oil§r buffer. Its default radius is 3, which can be increased by the use of an effectiveness upgrade. It can also be equiped with various upgrades to unlock new functions such as shredding or voiding.
+betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.desc=§3Лазерный шахтёр§r - это лазерный бур, который может использоваться для быстрой копки больших областей. Он имеет внутренний энергетический буфер §e100 MHE§r и внутренний буфер §bСырой нефти§r на 64,000mB. Его радиус по умолчанию составляет 3, который может быть увеличен с помощью улучшения эффективности. Он также может быть оснащен различными улучшениями для разблокировки новых функций, таких как измельчение или уничтожение.
 
 
 ## Quest Line: LV3 - Reactors Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=LV3 - Эпоха Реакторов
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=As energy needs increase, more powerful energy sources will be needed. This chapter covers Nuclear Reactors aswell as other advanced machines needed to produce ever stronger materials.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=По мере роста потребностей в энергии потребуются более мощные источники энергии. Эта глава охватывает ядерные реакторы, а также другие продвинутые машины, необходимые для производства все более прочных материалов.
 
 # Quest: Gas Centrifuge
 betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.name=Газовая центрифуга
-betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.desc=The §3Gas Centrifuge§r is used to centrifuge §bUranium/Plutonium Hexafluoride§r to obtain enriched fuel for bombs and reactor fuel.%n%nTwo gas centrifuges in a row will yield §6Uranium-238§r and §6Uranium Fuel§r used in reactors. The uranium hexafluoride processing line does not consume the §6Sulfur§r and §6Fluorite§r, so loops are recommended.%n%nThe §6Gas Centrifuge Overclocking Upgrade§r is needed to obtain §6Uranium-235§r. Four gas centrifuges will have to be placed in a row and the upgrade on the last of them to obtain uranium-235 nuggets.%n%n[F1] For more information.%n
+betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.desc=§3Газовая центрифуга§r используется для центрифугирования §bГексафторида урана/плутония§r для получения обогащенного топлива для бомб и реакторного топлива.%n%nДве газовые центрифуги подряд дадут §6Уран-238§r и §6Урановое топливо§r, используемое в реакторах. Линия переработки гексафторида урана не потребляет §6Серу§r и §6Флюорит§r, поэтому рекомендуются циклы.%n%n§6Улучшение разгона газовой центрифуги§r необходимо для получения §6Урана-235§r. Четыре газовые центрифуги должны быть размещены в ряд, а улучшение установлено на последней из них для получения самородков урана-235.%n%n[F1] Для получения дополнительной информации.%n
 
 # Quest: Nuclear Fuel Processing
 betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.name=Обработка ядерного топлива
-betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.desc=With the §3Spent Fuel Pool Drum§r to cool down §3ZIRNOX§r or §3PWR§r depleted nuclear fuel and the §3PUREX§r to further process them, many new materials are now available.
+betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.desc=С помощью §3Бочки с отработанным топливом§r для охлаждения отработанного ядерного топлива §3ZIRNOX§r или §3PWR§r и §3PUREX§r для дальнейшей переработки теперь доступно множество новых материалов.
 
 # Quest: Fusion Reactor
 betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.name=Термоядерный реактор
-betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.desc=The §3Fusion Reactor§r is a large, expensive, and advanced reactor type that runs by fusing various plasma types to generate heat.%n%nThe main part of the fusion reactor, the §3"Torus"§r, features four connecting ports for external components. It requires electricity and §bPerfluoromethyl§r cooling to operate.%n%nThe §3Klystron§r is the main power source of the fusion reactor, which uses electricity and compressed air, to generate input energy, §eKyU§r, for the connected torus. It will throttle if the buffered electricity or compressed air falls below §e50%%§r, and if it falls below the torus' required input level, the plasma will extinguish.%n%nThe different plasma types also generate different useful byproducts and differing levels of neutron flux for breeding bulk quantities of materials, such as §6Lithium§r into §6Tritium§r.%n%nWelding the coils will require a §6Blowtorch§r or an §6Acetylene Welding Torch§r.%n%n§2For the additional components and power generation methods, please check out the two quests below.§r
+betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.desc=§3Термоядерный Реактор (Токамак)§r — большой, дорогой и продвинутый тип реактора, который работает за счёт синтеза различных видов плазмы для генерации тепла.%n%nОсновная часть термоядерного реактора, §3"Тор"§r, имеет четыре соединительных порта для внешних компонентов. Для работы требуется электричество и охлаждение §bПерфторметилом§r.%n%n§3Клистрон§r — основной источник энергии термоядерного реактора, который использует электричество и сжатый воздух для генерации входной энергии, §eКиУ§r, для подключённого тора. Он будет снижать мощность, если запас электричества или сжатого воздуха упадёт ниже §e50%%§r, а если он упадёт ниже требуемого тором уровня, плазма погаснет.%n%nРазные виды плазмы также производят разные полезные побочные продукты и различные уровни нейтронного потока для наработки больших количеств материалов, таких как §6Литий§r в §6Тритий§r.%n%nДля сварки катушек потребуется §6Газовая Горелка§r или §6Ацетиленовая Сварочная Горелка§r.%n%n§2Для получения информации о дополнительных компонентах и методах выработки энергии, пожалуйста, ознакомьтесь с двумя квестами ниже.§r
 
 # Quest: Large Factory Multiblocks
 betterquesting.quest.8XHLo-wQRN28gu4AwCtHVQ.name=Большие мультиблочные заводы
