@@ -57,11 +57,15 @@ betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=Lo §3Steam Engine§r (Motore a
 
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Batterie
-betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=Il §3Battery Socket§r è un dispositivo per lavorare con §3Batteries§r (Batterie) e §3Capacitors§r (Condensatori).%n%nLe §3Batterie§r stesse sono fonti di energia portatili, ma spesso è più comodo trasmettere energia tramite cavi e porte. Questo dispositivo offre proprio questa possibilità.%n%nLe regole di funzionamento sono semplici: l'energia viene fornita o prelevata dal sistema usando i §3Cavi§r. I consumatori possono anche essere installati vicini tra loro, porta a porta. L'interfaccia del dispositivo ha uno slot per batterie e altri oggetti che consumano elettricità.%n%nIl §3Battery Socket§r non può immagazzinare energia da solo (l'energia nel buffer sarà disponibile solo quando è presente una fonte interna o esterna). Se la fonte viene rimossa, il buffer, naturalmente, si svuoterà.%n%nPer impostazione predefinita, il dispositivo è impostato per ricevere energia. Puoi riconfigurarlo premendo il pulsante in alto a destra (di colore blu predefinito), passando così alla modalità di input e output simultaneo. Premendolo di nuovo, il dispositivo passerà alla modalità di solo output. Per impedire al dispositivo di ricevere o erogare elettricità, premilo ancora una volta. Modalità operative:%n%n §9Blu§r - solo ingresso (input)%n §aVerde§r - sia ingresso che uscita%n §6Arancione§r - solo uscita (output)%n §7Grigio§r - spento (né ingresso né uscita)%n%n§2Il pulsante sottostante gestisce le modalità controllate dal segnale di redstone. 
+betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=The §3Battery Socket§r is used to hold §6Batteries§r or §6Capacitors§r.%n%nBatteries have more energy storage, but a slower discharge time, meaning that only a small amount of stored power can be outputted to the grid.%n%nCapacitors on the other hand, have less energy storage, but a faster discharge time.
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Strumento per Analisi di Rete Cablata
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=Il §6Cable Network Analysis Tool§r (Strumento per Analisi di Rete Cablata) viene utilizzato per verificare l'integrità delle reti elettriche e analizzare i loro principali componenti funzionali. Per eseguire un test, con lo strumento in mano fai click destro sui cavi o sui macchinari della rete elettrica. Il dispositivo mostrerà i seguenti dati:%n%n§eLinks§r - includono cavi e meccanismi in grado di condurre energia (es. accumulatori di energia, pali della luce).%n%n§cProviders§r - tutti i meccanismi capaci di produrre energia e/o di immetterla nella rete (accumulatori in modalità "§averde§r" e "§6arancione§r", turbine, ecc.).%n%n§9Receivers§r - tutto ciò che assorbe energia dalla rete (accumulatori in modalità "§9blu§r", grinder e altri macchinari).%n%n§2L'analizzatore non solo mostra i componenti sopra citati, ma li conta anche. A ogni rete viene assegnato un codice univoco.%n%nLe particelle appaiono solo in un raggio di 20 blocchi!
+
+# Quest: Pipe Anchors
+betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.name=Pipe Anchors
+betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3Pipe Anchors§r are non solid fluid ducts which can be used instead of normal ducts.
 
 # Quest: Automatic Buzz Saw
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Sega Automatica
@@ -247,10 +251,6 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=L'§6Identificatore Multi Fluid
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Modalità NTM Aggiuntive
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.desc=§cNTNH§r è un modpack modulare, quindi sei libero di aggiungere, rimuovere o modificare config e mod a tuo piacimento!%n%n§dNTM§r offre un file di configurazione molto versatile che include modalità aggiuntive attivabili nel file hbm.cfg.%n%n§2Expensive Mode§r rende tutto più costoso, richiedendo non solo più risorse ma anche nuovi componenti. Nota bene: il libro delle quest non rifletterà i cambiamenti nella progressione se questa modalità è attiva.%n%n§2528 Mode§r introduce dei blocchi alla progressione sotto forma di template, che si sbloccano distruggendo una certa quantità di oggetti in un §3Annihilator§r. Inoltre, alcuni oggetti (principalmente i circuiti) hanno ora una probabilità percentuale di successo nel crafting. Tra le altre modifiche che aumentano la difficoltà: il §6Tantalio§r genera solo in aree specifiche, le mine antiuomo spawnano più frequentemente e tutti i blocchi dell'§dAE2§r §4ESPLODONO§r quando vengono utilizzati.%n%nCon la Expensive Mode attiva, molte probabilità di riciclo dell'§3Precision Assembler§r sono drasticamente ridotte, aumentando enormemente il costo effettivo dei materiali.%n%n§2Rampant Mode§r rende i Glyphid una minaccia enorme: l'inquinamento ora li rende molto più forti e aggressivi. Diventeranno comuni nuovi tipi di Glyphid ancora più distruttivi. Se l'inquinamento raggiunge livelli elevati, gli scout Glyphid possono spawnare passivamente, rendendo necessari sistemi di difesa automatizzati per impedire la creazione di nuovi alveari.%n%n§2Per le modalità che modificano i crafting, è necessario reinserire le ricette del modpack dopo aver creato una nuova cartella hbmrecipes e aver abilitato le modalità.§r %n
 
-# Quest: Capacitors
-betterquesting.quest.Nm_q2KL0QjapbSCTcQE8Ig.name=Condensatori
-betterquesting.quest.Nm_q2KL0QjapbSCTcQE8Ig.desc=I §3Capacitor§r (Condensatori) sono simili alle §3Batterie§r, cambia che hanno una capacità minore ma una velocità di output maggiore.
-
 # Quest: Packing Tape
 betterquesting.quest.RBJS7D2ATpq7GUingAewuQ.name=Nastro d'Imballaggio
 betterquesting.quest.RBJS7D2ATpq7GUingAewuQ.desc=Il §6Packing Tape§r (Nastro d'Imballaggio) permette di rompere e spostare i drawer senza che gli oggetti cadano tutti per terra.
@@ -394,7 +394,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.desc=§6Bakelite§r is an alternativ
 
 # Quest: Desh
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.name=Desh
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.desc=§6Desh§r is an alloy made up of 9 rare earth metals to make its blend form, which is solidified and refined using §bMercury§r and §bLight oil§r in the §3Chemical Plant§r. Desh is an almost unbreakable material and as such its tools have infinite durability. %n%n§a§2Desh can also be made using DeshReady™ in a Rotary Furnace, or later on, in an Ore Acidizer.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.desc=§6Desh§r is an alloy made up of 9 rare earth metals to make its blend form, which is solidified and refined using §bMercury§r and §bLight oil§r in the §3Chemical Plant§r. Desh is an almost unbreakable material and as such its tools have infinite durability. %n%n§a§2Desh can also be made using DeshReady™ in a Rotary Furnace, or later on, in an Ore Acidizer.§r%n%nMercury at this stage of the game can be obtained from centrifuging §eRedstone Ore§r or putting §eCinnabar§r in a §3Combination Oven§r. Large cinnabar veins can be found as depth ore.%n%nLater on, mercury can be obtained from processing §bOre Slop§r or §bVitriol§r in an §3Electrolyzer§r.
 
 # Quest: Industrial Steam Turbine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.name=Industrial Steam Turbine
@@ -761,10 +761,6 @@ betterquesting.quest.sCe8OyBsQEeMrUpYXUn9Yw.desc=With access to §6Tantalium§r 
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.name=Arsenic
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.desc=§6Arsenic§r is a substitute of §6Bismuth§r which can be made from acidizing §6Oily Dirt§r, found near §ebedrock oil deposits§r or from the environmental damage the §3Fracking Tower§r does, with §bHigh-Performance Solvent§r.
 
-# Quest: Schrabidate Capacitor
-betterquesting.quest.yzZHBBF6S7KJPnyG4LVW6A.name=Schrabidate Capacitor
-betterquesting.quest.yzZHBBF6S7KJPnyG4LVW6A.desc=The §3Schrabidate Capacitor§r is the best capacitor, capable of storing §e50GHE§r.
-
 
 ## Quest Line: LV3.5 - Space Age
 betterquesting.questline.enTskTtvRdajee3UMSgXKg.name=LV3.5 - Space Age
@@ -838,9 +834,13 @@ betterquesting.quest.LKTbDe35Rte7XOisZoywOQ.desc=The §3Drive Processor Tier 3§
 betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.name=Atmospheric Scanner
 betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.desc=The §6Atmospheric Scanner§r shows the atmospheric consistency of planets. Useful for when terraforming.
 
-# Quest: Orbital Station
-betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.name=Orbital Station
-betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.desc=The §3Orbital Station§r is a space station which is located at the orbit of §eEarth§r. §3Solar Panels§r in combination with §3Air Vents§r can be used to make a sustainable living environment in the station. Make sure to make airlocks to minimise air loss.%n%nThe orbital station can also be moved to distant planets using thrusters in combination with an §3Orbital Station Computer§r.
+# Quest: Mobile Orbital Station
+betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.name=Mobile Orbital Station
+betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.desc=By having an orbital station have an §3Orbital Station Computer§r and §3Drop Pods§r, one can move their station to any destination they wish, massively cutting down on material costs needed to make new rockets.
+
+# Quest: Drop Pod
+betterquesting.quest.Ou1Dd0LTTgqox9lIWWOLNg.name=Drop Pod
+betterquesting.quest.Ou1Dd0LTTgqox9lIWWOLNg.desc=With a §3Drop pod§r, one can access their space station without needing to build new rockets. They can also be used to land on other planets once the station has reached them.%n%n§2Make sure to keep spare drives.§r
 
 # Quest: Stainless Steel
 betterquesting.quest.Q0hC3CjIR4GB7MtYPpxXgA.name=Stainless Steel
@@ -886,6 +886,10 @@ betterquesting.quest.XzMOPvBIS9uEkD5JEXBvUw.desc=When a century-old joke gets ou
 betterquesting.quest.Z-fgT88oSuSYcPPLotHREg.name=CO2 Scrubber
 betterquesting.quest.Z-fgT88oSuSYcPPLotHREg.desc=The §3CO2 Scrubber§r is a mechanism for cleaning air in sealed environments under increased pressure.%n%nThe device absorbs §bCarbon Dioxide§r from the surrounding air and collects it. It only works if two conditions are met: the room is sealed and isolated, and the air pressure is elevated (above 1.0 atm). The latter can be achieved by adding a stream of §bOxygen§r from the ventilation to the Earth's air (resulting in a total pressure of 1.1 atm).%n%n§2The maximum number of scrubbers in a room is 5; any additional units placed will not collect carbon dioxide.§r
 
+# Quest: Orbital Station
+betterquesting.quest.ZPHsRbLaQm60QluCeA8pVQ.name=Orbital Station
+betterquesting.quest.ZPHsRbLaQm60QluCeA8pVQ.desc=The §3Orbital Station§r is a space station which is located at the orbit of §eEarth§r. §3Solar Panels§r in combination with §3Air Vents§r can be used to make a sustainable living environment in the station. Make sure to make airlocks to minimise air loss.
+
 # Quest: Stardar and Drive Processor
 betterquesting.quest.ZPfHiJvPQIutgvhSROlbeQ.name=Stardar and Drive Processor
 betterquesting.quest.ZPfHiJvPQIutgvhSROlbeQ.desc=The §3StarDar§r is your base of operations for mission planning, helping you to locate and scan potential landing zones on planets, and §6Program Drives§r that can be inserted into your rocket's astronavigational systems to make journeys to said planets.%n%nThe §3Drive Processor§r processes drives that have been programmed by the StarDar, allowing them to be inserted into rocket navigation computers.
@@ -905,6 +909,10 @@ betterquesting.quest.eItNlZ6bRS2kA-0Ymm_pdA.desc=Here is my own (Bufka2011) map 
 # Quest: Magma Drill
 betterquesting.quest.gaeSExcOTaawSPifbbIVtg.name=Magma Drill
 betterquesting.quest.gaeSExcOTaawSPifbbIVtg.desc=Unlike its counterpart from the original mod, the Magma Drill does not literally drill into the depths. It is designed for extracting magma from Moho, which, as known, is abundant on this planet both on the surface and in caves. To start working, the mechanism must be installed directly on the surface of a lava lake so that the lava touches the drill head and reaches the edges of the recess. Supply power to the drill, and it will operate automatically.%n%nMagma is output through casting channels into molds. Cooled magma forms Vulcanite, which should then be processed to obtain useful resources.%n%nIn addition to volcanite, the device extracts regular slag (much more than Vulcanite).
+
+# Quest: Orbital Station Computer
+betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.name=Orbital Station Computer
+betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.desc=The §3Orbital Station Computer§r, when having a drive inserted into it, can move the station to its destination.%n%n§3Thrusters§r with fuel are required to be attached to the station.
 
 # Quest: Alkylation Unit
 betterquesting.quest.icj9Y8q0QiWjFk2g7dTnww.name=Alkylation Unit
@@ -941,6 +949,10 @@ betterquesting.quest.w4uLB-JtTW-fCQA_qF6_ww.desc=The §3Vehicle Assembly Base§r
 # Quest: Volcanic Gem
 betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.name=Volcanic Gem
 betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.desc=A very valuable gemstone that is used to create a §6Cast Pickaxe§r, §6Meteorite Talisman§r, §6Black Diamond§r, §6Composite Euphemium Plates§r and §6Special 227mm Shells§r.
+
+# Quest: Hydrazine
+betterquesting.quest.xo0vihnyQgq8RTEi2c_ZZQ.name=Hydrazine
+betterquesting.quest.xo0vihnyQgq8RTEi2c_ZZQ.desc=§bHydrazine§r is a powerful rocket fuel which is needed to operate a §3Drop Pod§r.
 
 # Quest: Rocket Transporter Pad
 betterquesting.quest.y2yrIQ6QRve-p9fRVJD0YA.name=Rocket Transporter Pad
@@ -1461,6 +1473,10 @@ betterquesting.quest.lFAX1X73QMiTSYhQ3ozq_g.desc=§6ME Patterns§r are used to e
 # Quest: Network Visualisation Tool
 betterquesting.quest.mH0ic-3aRnOZ8FjP-n9qYw.name=Network Visualisation Tool
 betterquesting.quest.mH0ic-3aRnOZ8FjP-n9qYw.desc=The §6Network Visualisation Tool§r is used to visuallize an ME Network by right-clicking on any of its blocks, making it very useful when making a large network, especially one that uses §3P2P§r.
+
+# Quest: ME subnetting
+betterquesting.quest.n0clnMBkRw2Y4Asw6b1vJQ.name=ME subnetting
+betterquesting.quest.n0clnMBkRw2Y4Asw6b1vJQ.desc=§eSubnetworks§r are ME networks which can be accessed from a §eMain Network§r. In §dNTM§r§r they can be useful for storing items from passive processes without flooding the main storage network.%n%n§2This quest serves as a guide on how to set up a subnet, which can be used to store the resourses that Bedrock Ore Processing produces.§r%n%nIn the image below are two ME networks, the §cRed§r one as the §cMainnet§r, and the §9Blue§r one as the §9Subnet§r.%n%n[img height=1000]betterquesting:textures/BQ_NET1.png[/img]%n%nFor the purposes of this quest, the main network will store dirt blocks, while the subnet will store copper blocks.%n%n[img height=1000]betterquesting:textures/BQ_NET2.png[/img]%n%n[img height=1000]betterquesting:textures/BQ_NET3.png[/img]%n%nTo make the contents of the subnet, the copper blocks, visible to the main net, one must make an §3Interface§r-§3Storage Bus§r§r combo. The storage bus must be on the side of the main network.%n%n[img height=1000]betterquesting:textures/BQ_NET4.png[/img]%n%nMake sure to filter the main network storage bus, and to also make it "Extract Only".%n%n[img height=1000]betterquesting:textures/BQ_NET5.png[/img]%n%nNow the main network has access to materials stored on the sub network, which can be used for crafting.%n%n[img height=1000]betterquesting:textures/BQ_NET6.png[/img]
 
 # Quest: Overflow Void Card
 betterquesting.quest.xyHVMuUHQjSWbujlx1EMqw.name=Overflow Void Card
