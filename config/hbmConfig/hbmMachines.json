@@ -73,6 +73,10 @@
       "D:heatBalefie": 10.0
     }
   },
+  "icfLaser": {
+    "I:capacitorPower": 2500000,
+    "I:turboPower": 5000000
+  },
   "firebox": {
     "I:baseHeat": 100,
     "D:burnTimeMult": 1.0,
@@ -196,10 +200,10 @@
     "I:maxSteamPerTick": 6000,
     "D:efficiency": 0.85
   },
-  "steamturbineIndustrial": {
+  "steamturbineIndustrialMk2": {
     "INFO": "industrial steam turbine consumes 20% of availible steam per tick",
-    "I:inputTankSize": 512000,
-    "I:outputTankSize": 10240000,
+    "I:inputTankSize": 750000,
+    "I:outputTankSize": 3000000,
     "D:efficiency": 1.0
   },
   "steamturbineLeviathan": {
