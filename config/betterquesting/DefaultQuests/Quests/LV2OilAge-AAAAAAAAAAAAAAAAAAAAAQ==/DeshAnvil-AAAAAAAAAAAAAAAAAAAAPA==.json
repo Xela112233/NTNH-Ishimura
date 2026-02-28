@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "An upgraded version of the §3Anvil§r, [T3], which unlocks additional recipes.",
+      "desc:8": "An upgraded version of the §3Anvil§r, [T3], which unlocks additional recipes.\n\nAlternatively, the §3Desh Anvil§r can be skipped by making a §3Ferrouranium Anvil§r, [T4], from scavanged §e§r§6Uranium-238§r found in structures.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -26,7 +26,7 @@
       "simultaneous:1": 0,
       "snd_complete:8": "random.levelup",
       "snd_update:8": "random.levelup",
-      "taskLogic:8": "AND",
+      "taskLogic:8": "OR",
       "visibility:8": "NORMAL"
     }
   },
@@ -47,6 +47,23 @@
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "hbm:tile.anvil_desh"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:tile.anvil_ferrouranium"
         }
       },
       "taskID:8": "bq_standard:retrieval"

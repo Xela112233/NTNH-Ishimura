@@ -32,7 +32,31 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 1,
-  "rewards:9": {},
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 6,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:stone_button",
+          "tag:10": {
+            "orig_id:8": "minecraft:button",
+            "orig_meta:3": 0
+          }
+        },
+        "1:10": {
+          "Count:3": 12,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:torch"
+        }
+      }
+    }
+  },
   "tasks:9": {
     "0:10": {
       "index:3": 0,

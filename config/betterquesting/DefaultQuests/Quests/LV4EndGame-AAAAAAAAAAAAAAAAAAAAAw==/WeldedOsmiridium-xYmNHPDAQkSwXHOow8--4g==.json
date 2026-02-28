@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§6Welded Osmiridium Plates§r cost 120 Billion HE to produce, so good energy generation and storage infrastructure is needed.",
+      "desc:8": "§6Welded Osmiridium Plates§r cost 300 Billion §eHE§r to produce, so good energy generation and storage infrastructure is needed.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

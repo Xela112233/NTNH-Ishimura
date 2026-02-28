@@ -197,14 +197,12 @@
     "D:efficiency": 0.85
   },
   "steamturbineIndustrial": {
-    "L:maxPower": 100000000,
     "INFO": "industrial steam turbine consumes 20% of availible steam per tick",
     "I:inputTankSize": 512000,
     "I:outputTankSize": 10240000,
     "D:efficiency": 1.0
   },
   "steamturbineLeviathan": {
-    "L:maxPower": 100000000000,
     "INFO": "leviathan steam turbine consumes all availible steam per tick",
     "I:inputTankSize": 1000000000,
     "I:outputTankSize": 1000000000,

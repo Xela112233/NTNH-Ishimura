@@ -1,6 +1,7 @@
 {
   "info": "This file can be edited ingame using the /ntmclient command.",
   "AUDIO_SHIP_HUM_VOLUME": 0.1,
+  "BADGES_HUD": true,
   "COOLING_TOWER_PARTICLES": true,
   "DODD_RBMK_DIAGNOSTIC": true,
   "GEIGER_OFFSET_HORIZONTAL": 0,

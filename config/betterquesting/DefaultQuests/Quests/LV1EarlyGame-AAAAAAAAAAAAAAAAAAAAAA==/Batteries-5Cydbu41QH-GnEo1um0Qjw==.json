@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§3Battery Socket§r is a device for working with §3Batteries§r and §3Capacitors§r.\n\n§3Batteries§r themselves are portable power sources, but it is often more convenient to send power through wires via ports. This device provides just that opportunity.\n\nThe rules for operation are simple: energy is supplied to or from the array using §3Wires§r. Consumers can also be installed close together, port to port. The device interface has a slot for batteries and other items that consume electricity.\n\n§3Battery Socket§r cannot store energy from a battery or capacitor (the energy in the buffer will only be available when there is an internal or external source). If the source is removed, the buffer will, of course, be emptied.\n\nBy default, the energy storage device is set to input energy. You can reconfigure it by pressing the top button on the right (it is blue by default), thus switching the storage device to simultaneous energy input and output mode. Pressing it again will set the device to energy output mode. To stop the storage from receiving and outputting electricity, press it once more. Operating modes:\n\n    §9Blue§r - input only\n    §aGreen§r - both input and output\n    §6Orange§r - output only\n    §7Gray§r - off (neither input nor output)\n\n§2The button below is responsible for modes controlled by the red stone signal. ",
+      "desc:8": "The §3Battery Socket§r is used to hold §6Batteries§r or §6Capacitors§r.\n\nBatteries have more energy storage, but a slower discharge time, meaning that only a small amount of stored power can be outputted to the grid.\n\nCapacitors on the other hand, have less energy storage, but a faster discharge time.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -47,8 +47,19 @@
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "hbm:tile.machine_battery_socket"
-        },
-        "1:10": {
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
@@ -58,7 +69,27 @@
           }
         }
       },
-      "taskID:8": "bq_standard:retrieval"
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "OreDict:8": "",
+          "id:8": "hbm:item.battery_pack",
+          "tag:10": {
+            "charge:4": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }

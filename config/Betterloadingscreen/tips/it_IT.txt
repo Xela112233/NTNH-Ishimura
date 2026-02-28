@@ -38,7 +38,7 @@ Usa F3 + S per ricaricare l'audio se scompare
 La vita consiste nell'aprire issue, non nel chiuderli - Rongmario
 Visita r/feedthemems!
 VOGLIO RAZZO VOGLIO LUNA - St4o
-Ciao @Bufka2011, perché hai copiato le nostre regole (GTNH)? :kekwhat:
+Ciao @Bufka2011, perché hai copiato le nostre regole (GTNH)?
 Hai già creato il sistema AE2?
 Premi O per nascondere l'interfaccia NEI
 Prova anche GregTech: New Horizons!
@@ -109,7 +109,7 @@ Prova anche Factorio!
 Chiama tua mamma, falla felice
 Ricerca ricette NEI: cursore + R
 Le caldaie standard possono esplodere quando sono piene.
-I fluidi possono essere eliminati con un tubo di scarico.
+I fluidi possono essere eliminati col tubo di drenaggio.
 Il tubo di scarico potrebbe non essere il massimo per l'ambiente.
 Gli stampi della fonderia possono essere rimossi con un cacciavite.
 È tutto merito del gioco
@@ -128,7 +128,7 @@ I boiler standard esplodono quando sono pieni. I boiler industriali si fermano e
 Il tuo RBMK fa fuoriuscire radiazioni? Usa i pannelli di copertura. (#8)
 Le pompe di controllo di flusso cambiano la priorità di distribuzione dei fluidi. (#9)
 I tubi pneumatici spostano oggetti istantaneamente, anche nei chunk non caricati. (#10)
-I fluidi possono essere eliminati col tubo di drenaggio. Ma non è troppo buono per l'ambiente. (#11)
+I fluidi possono essere eliminati con un tubo di scarico. Ma non è troppo buono per l'ambiente. (#11)
 I ventilatori sono attivati dalla redstone e spingono le entità. Ideali per farm di alberi. (#12)
 Non mettere il microonde al massimo. (#13)
 Le torri di frazionamento si collegano verticalmente per aumentare la resa. (#14)
