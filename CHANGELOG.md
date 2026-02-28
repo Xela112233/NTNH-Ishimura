@@ -51,6 +51,10 @@
 - Poor render performance with Nuclear Blast Furnaces
 - Gas centrifuge recipe for mineral slurry doesn't show all outputs
 - Fixed Budding Certus Quartz block recipe (thanks to @kotofev for finding this bug)
+- Fixed taurun armor not having working gas masks
+- Refactored the armor system, stats like radiation and particle protection are no longer scattered over various registries, making future sets less likely to miss them
+- Fixed crucible smeling one too many items with no template installed, causing the gauge to exceed the boundaries
+- Potentially fixed another issue with artillery rocket targeting
 
 
 
@@ -100,6 +104,13 @@
 - Added ME Subnetting quest
 - Removed Schrabidate Capacitor quest
 - Added Pipe Anchors quest
+- Updated russian localization
+- Removed T45 protections entirely
+- The ICF laser controller max output can now be adjusted in the config, both stats for the capacitors and turbochargers can be changed separately
+- Updated Industrial Steam Turbine quest
+- Added Ferrouranium Anvil skip in the Desh Anvil quest
+- Added Deuterium Extraction Tower quest
+- Added PWR powered Steel Furnace quest
 
 
 

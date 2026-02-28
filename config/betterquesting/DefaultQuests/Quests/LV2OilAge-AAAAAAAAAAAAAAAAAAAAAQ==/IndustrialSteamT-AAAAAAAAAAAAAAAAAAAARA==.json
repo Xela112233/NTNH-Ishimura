@@ -12,13 +12,13 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The §3Industrial Steam Turbine§r is a multiblock machine that is a much larger and more powerful version of the regular §3Steam Turbine§r. It has a §e100MHE§r internal power buffer, a 512,000 MB input buffer, and a 10,240,000 MB output buffer, and can process 102,400 MB per tick at the most. It is also the only turbine that operates at §e100%§r efficiency.",
+      "desc:8": "The §3Industrial Steam Turbine§r is a multiblock machine that is a much larger and more powerful version of the regular §3Steam Turbine§r. It has an efficiency of §e100%§r and energy output slowly ramps up as §bSteam§r is supplied and slowly goes down as steam cuts out.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:tile.machine_large_turbine"
+        "id:8": "hbm:tile.machine_industrial_turbine"
       },
       "isMain:1": 1,
       "isSilent:1": 0,
@@ -50,7 +50,7 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "hbm:tile.machine_large_turbine"
+          "id:8": "hbm:tile.machine_industrial_turbine"
         }
       },
       "taskID:8": "bq_standard:retrieval"
