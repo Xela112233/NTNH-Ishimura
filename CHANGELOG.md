@@ -17,6 +17,7 @@
 **Changed**
 - Updated the main menu music
 - Conserve crate can now be bought via Bobmazon
+- Fixed the interface overload, now it is much more comfortable to use
 
 
 
