@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<appliedenergistics2:tile.BlockQuantumLinkChamber>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
