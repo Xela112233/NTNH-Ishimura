@@ -9,12 +9,14 @@
 **Fixed**
 - Fixed experience bar black background if there is an item in the hotbar
 - Fixed translucent particles becoming very dark with Complementary shaders enabled (e.g. cooling tower steam particles from Hbm's NTM)
-- Fixed crash when rendering guns
+- Fixed crash when rendering gun
+- Fixed #20
 
 
 
 **Changed**
 - Updated the main menu music
+- Conserve crate can now be bought via Bobmazon
 
 
 
