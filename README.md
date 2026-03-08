@@ -28,7 +28,7 @@
 <div align="center">
   <h2>🌟 Our Amazing Contributors 🌟</h2>
   <a href="https://github.com/Bufka2011">
-    <img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius: 50%; margin: 5px;" title="Bufka2011 (2047 contributions)">
+    <img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius: 50%; margin: 5px;" title="Bufka2011 (2058 contributions)">
   </a>
   <a href="https://github.com/BufkaSecond">
     <img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius: 50%; margin: 5px;" title="BufkaSecond (369 contributions)">
@@ -106,7 +106,7 @@
           <br />
           <sub><b>(ItsNeverLight)</b></sub></a>
         <br />
-        <sub><b>300 words</b></sub>
+        <sub><b>307 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/NKVDshni"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17283930/medium/b6f99536a90f590e689101c777aa3e48.jpg" />
