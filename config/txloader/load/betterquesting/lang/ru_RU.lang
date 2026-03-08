@@ -843,11 +843,11 @@ betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.name=Сканер атмосферы
 betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.desc=The §6Atmospheric Scanner§r shows the atmospheric consistency of planets. Useful for when terraforming.
 
 # Quest: Mobile Orbital Station
-betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.name=Mobile Orbital Station
+betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.name=Мобильная орбитальная станция
 betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.desc=By having an orbital station have an §3Orbital Station Computer§r and §3Drop Pods§r, one can move their station to any destination they wish, massively cutting down on material costs needed to make new rockets.
 
 # Quest: Drop Pod
-betterquesting.quest.Ou1Dd0LTTgqox9lIWWOLNg.name=Drop Pod
+betterquesting.quest.Ou1Dd0LTTgqox9lIWWOLNg.name=Десантная капсула
 betterquesting.quest.Ou1Dd0LTTgqox9lIWWOLNg.desc=With a §3Drop pod§r, one can access their space station without needing to build new rockets. They can also be used to land on other planets once the station has reached them.%n%n§2Make sure to keep spare drives.§r
 
 # Quest: Stainless Steel
@@ -895,7 +895,7 @@ betterquesting.quest.Z-fgT88oSuSYcPPLotHREg.name=Скруббер CO2
 betterquesting.quest.Z-fgT88oSuSYcPPLotHREg.desc=The §3CO2 Scrubber§r is a mechanism for cleaning air in sealed environments under increased pressure.%n%nThe device absorbs §bCarbon Dioxide§r from the surrounding air and collects it. It only works if two conditions are met: the room is sealed and isolated, and the air pressure is elevated (above 1.0 atm). The latter can be achieved by adding a stream of §bOxygen§r from the ventilation to the Earth's air (resulting in a total pressure of 1.1 atm).%n%n§2The maximum number of scrubbers in a room is 5; any additional units placed will not collect carbon dioxide.§r
 
 # Quest: Orbital Station
-betterquesting.quest.ZPHsRbLaQm60QluCeA8pVQ.name=Orbital Station
+betterquesting.quest.ZPHsRbLaQm60QluCeA8pVQ.name=Орбитальная станция
 betterquesting.quest.ZPHsRbLaQm60QluCeA8pVQ.desc=The §3Orbital Station§r is a space station which is located at the orbit of §eEarth§r. §3Solar Panels§r in combination with §3Air Vents§r can be used to make a sustainable living environment in the station. Make sure to make airlocks to minimise air loss.
 
 # Quest: Stardar and Drive Processor
