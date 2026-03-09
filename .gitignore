@@ -106,5 +106,4 @@ config/CustomOreGen/modules/default/CommonOres.xml
 config/CustomOreGen/modules/default/Chisel2.xml
 config/CustomOreGen/modules/default/BiomesOPlenty.xml
 config/CustomOreGen/modules/default/ArsMagica2.xml
-mods/CustomOreGen-1.7.10-1.2.26.jar
 config/CustomOreGen/CustomOreGen_Config_Default.xml
