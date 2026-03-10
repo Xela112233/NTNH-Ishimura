@@ -1,6 +1,6 @@
 # Better HUD configuration file
 # Any removed or corrupted properties will be reverted to default.
-# 2026-01-03 13:53:28.95
+# 2026-03-10 15:41:48.476
 armorBars:
 	enabled:false
 	posMode:0
@@ -80,9 +80,9 @@ coordinates:
 	decimals:0.0
 distance:
 	enabled:false
-	posMode:0
+	posMode:1
 	position:middleCenter
-	position2:5,5
+	position2:594,228
 	red:255.0
 	green:255.0
 	blue:255.0
@@ -93,22 +93,22 @@ enchantIndicator:
 	position:5,5
 experienceInfo:
 	enabled:false
-	posMode:0
-	position:topLeft
-	position2:5,5
+	posMode:1
+	position:bottomRight
+	position2:574,475
 	red:255.0
 	green:255.0
-	blue:255.0
-	total:false
+	blue:0.0
+	total:true
 foodHealthStats:
 	enabled:false
-	posMode:0
-	position:bottomRight
-	position2:5,5
+	posMode:1
+	position:bottomLeft
+	position2:402,219
 	red:255.0
 	green:255.0
 	blue:255.0
-	saturation:true
+	saturation:false
 fpsCount:
 	enabled:false
 	posMode:0
@@ -140,7 +140,7 @@ handBar:
 	durabilityMode:0
 	showName:true
 horseInfo:
-	enabled:true
+	enabled:false
 	jump:true
 	speed:true
 	distance:5.0
@@ -175,9 +175,9 @@ potionBar:
 	position2:5,5
 signReader:
 	enabled:false
-	posMode:0
-	position:middleLeft
-	position2:5,5
+	posMode:1
+	position:middleRight
+	position2:505,67
 	mode:1
 systemClock:
 	enabled:false
