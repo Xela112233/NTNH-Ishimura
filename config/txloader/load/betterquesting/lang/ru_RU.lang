@@ -912,11 +912,11 @@ betterquesting.quest.dVwxKlQ5SzaxZjGNcLFMEw.desc=The §3Solar Panel§r converts 
 
 # Quest: Space Map
 betterquesting.quest.eItNlZ6bRS2kA-0Ymm_pdA.name=Крсмическая карта
-betterquesting.quest.eItNlZ6bRS2kA-0Ymm_pdA.desc=Here is my own (Bufka2011) map of our Kerbol system!%n[img height=300]resources:SpaceMap_by_Bufka2011.png[/img]
+betterquesting.quest.eItNlZ6bRS2kA-0Ymm_pdA.desc=Вот моя собственная карта (Bufka2011) нашей системы Керболов!%n[img height=300]resources:SpaceMap_by_Bufka2011.png[/img]
 
 # Quest: Magma Drill
-betterquesting.quest.gaeSExcOTaawSPifbbIVtg.name=Magma Drill
-betterquesting.quest.gaeSExcOTaawSPifbbIVtg.desc=Unlike its counterpart from the original mod, the Magma Drill does not literally drill into the depths. It is designed for extracting magma from Moho, which, as known, is abundant on this planet both on the surface and in caves. To start working, the mechanism must be installed directly on the surface of a lava lake so that the lava touches the drill head and reaches the edges of the recess. Supply power to the drill, and it will operate automatically.%n%nMagma is output through casting channels into molds. Cooled magma forms Vulcanite, which should then be processed to obtain useful resources.%n%nIn addition to volcanite, the device extracts regular slag (much more than Vulcanite).
+betterquesting.quest.gaeSExcOTaawSPifbbIVtg.name=Магма бур
+betterquesting.quest.gaeSExcOTaawSPifbbIVtg.desc=В отличие от первоначального мода, Магма бур сверлит не в глубину. Предназначен для извлечения магмы из Мохо, которая, как известно, богата на этой планете как на поверхности, так и в пещерах. Для начала работы, Механизм должен быть установлен непосредственно на поверхности лавового озера, чтобы лава прикоснулась к боковой головке и достигала краев карандаша. Поставка энергии для сверла и будет работать автоматически.%n%nМагма выводится через литье каналов в литье. Охлаждающая магма формы Вулканит, которые затем должны быть обработаны для получения полезных ресурсов.%n%nПомимо вулкана прибор добывает обычный шлак (намного больше, чем Вулканит).
 
 # Quest: Orbital Station Computer
 betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.name=Orbital Station Computer
@@ -1670,7 +1670,7 @@ betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, fancy teleport pearls. You 
 
 # Quest: Time to Kill (Skeleton)
 betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Время убивать (Скелет)
-betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen. 
+betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Стрелы — это хорошо, если стреляешь ты. Но если одна попадет в тебя — что ж, добра не жди.
 
 # Quest: Time to Kill (Silverfish)
 betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.name=Время убивать (Чешуйница)
@@ -1747,11 +1747,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=§6Tantalium§r is a material n
 
 # Quest: Red Key
 betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.name=Красный ключ
-betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.desc=The §6Red Key§r is able to open any container that requires a regular key, regardless of the pin configuration of the lock, and it is one of the only two keys capable of opening the keyhole found on strange stone, in order to open a §eRed Room§r. The key has no durability, and can be reused indefinitely.%n%n
+betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.desc=§6Красный ключ§r способен открыть любой контейнер, который требует обычного ключа, независимо от конфигурации контакта блокировки, и это один из двух ключей, способных открыть ключевое отверстие, найденное в странном камне, чтобы открыть §eКрасную комнату§r. Ключ не имеет прочности и может быть использован бессрочно.%n%n
 
 # Quest: Safes and lockpicking
 betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.name=Сейфы и взлом
-betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=The §6Screwdriver§r is used to rotate conveyor blocks aswell as to create a §3Chicago Pile§r. It can also be used in combination with §6Bobby Pins§r to unlock §6Safes§r found in various structures.
+betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=§6Отвертка§r используется для поворота конвейерных блоков, а также для создания §3Чикагской поленницы§r. Её также можно использовать в сочетании с §6Отмычками§r, чтобы открывать §6Сейфы§r, найденные в различных структурах.
 
 # Quest: The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.name=Край космоса...
