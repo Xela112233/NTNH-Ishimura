@@ -2,7 +2,8 @@
 
 ## What's changed?
 **Added**
-- 
+- LagGoggles - allows you to check what impacts your performance
+   └ https://www.youtube.com/watch?v=2ALrIvw1S4I
 
 
 
