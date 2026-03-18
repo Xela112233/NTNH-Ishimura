@@ -1,0 +1,167 @@
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_key.command:53
+key_key.screenshot:60
+key_key.togglePerspective:63
+key_key.smoothCamera:83
+key_key.sprint:29
+key_key.fullscreen:87
+key_key.hotbar.1:2
+key_key.hotbar.2:3
+key_key.hotbar.3:4
+key_key.hotbar.4:5
+key_key.hotbar.5:6
+key_key.hotbar.6:7
+key_key.hotbar.7:8
+key_key.hotbar.8:9
+key_key.hotbar.9:10
+key_ae2wct.OpenTerminal:0
+key_ae2wct.OpenMagnetFilter:0
+key_ae2wct.SwitchMagnetMode:0
+key_ae2stuff.key.mode:0
+key_backhand.swap_offhand:33
+key_key.toggle_focus.desc:0
+key_key.search_connected_inventories.desc:0
+key_key.control_operation.desc:29
+key_key.pick_block.desc:0
+key_key.betterquesting.quests:41
+key_hbm.key.calculator:49
+key_hbm.key.toggleBack:46
+key_hbm.key.toggleMagnet:44
+key_hbm.key.toggleHUD:47
+key_hbm.key.dash:42
+key_hbm.key.trainInv:19
+key_hbm.key.slamkey:29
+key_hbm.key.qmaw:59
+key_hbm.key.reload:19
+key_hbm.key.gunPrimary:-100
+key_hbm.key.gunSecondary:-99
+key_hbm.key.gunTertitary:-98
+key_hbm.key.craneMoveUp:200
+key_hbm.key.craneMoveDown:208
+key_hbm.key.craneMoveLeft:203
+key_hbm.key.craneMoveRight:205
+key_hbm.key.craneLoad:28
+key_hbm.key.ability:-99
+key_hbm.key.abilityAlt:56
+key_hbm.key.copyToolAlt:56
+key_hbm.key.copyToolCtrl:29
+key_key.openCompendium:25
+key_navigator.key.action:211
+key_openblocks.keybind.vario_switch:0
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
+key_schematica.key.load:181
+key_schematica.key.save:55
+key_schematica.key.control:74
+key_schematica.key.layerInc:0
+key_schematica.key.layerDec:0
+key_key.serverutilities.nbt:0
+key_key.serverutilities.trash:0
+key_asjcore.noEntityInteract:68
+key_keys.adventureBackpack.openInventory:-97
+key_keys.adventureBackpack.toggleActions:48
+key_ae2fc.key.OpenTerminal:0
+key_ae2fc.key.Restock:0
+key_ae2fc.key.PickBlock:0
+key_Reload Shaders:0
+key_Toggle Shaders:0
+key_Shaderpack Selection Screen:0
+key_Print GLSM Debug:0
+key_Zoom:34
+key_Baubles Inventory:0
+key_key.betterHud.open:22
+key_bbw.key.mode:0
+key_bbw.key.fluidmode:0
+key_key.craftingtweaks.rotate:19
+key_key.craftingtweaks.balance:48
+key_key.craftingtweaks.clear:46
+key_key.craftingtweaks.toggleButtons:0
+key_key.craftingtweaks.compress:37
+key_key.craftingtweaks.decompress:0
+key_Options Gui:23
+key_key.toggleCleanView:0
+key_key.materialCosts:0
+key_key.clipboardPaste:0
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
+key_waila.keybind.details:42
+key_Speak:47
+key_Gliby's Options Menu:52
+key_ingameinfoxml.key.toggle:0
+key_jecalculation.key.gui_craft:36
+key_jecalculation.key.gui_math:0
+key_Open Key Wizard:66
+key_key.mm-ctrl:29
+key_key.mm-cut:45
+key_key.mm-copy:46
+key_key.mm-paste:47
+key_key.mm-reset:44
+key_Open Mobs Info GUI:0
+key_key.fart.desc:33
+key_openmodslib.key.calc:13
+key_key.openglasses.interact:0
+key_key.openglasses.interactToggle:0
+key_2.1. Increase the reverse:19
+key_2.2. Decrease the reverse:33
+key_2.3. Zero the reverse:47
+key_3.1. Increase the regulator:21
+key_3.2. Decrease the regulator:35
+key_3.3. Zero the regulator:49
+key_1. Toggle brakes:48
+key_4.1. Toggle stoker:22
+key_4.2. Activate sound signal:36
+key_4.3. Toggle headlights:50
+key_5.1. Open workbench:26
+key_5.2. Open furnace:27
+key_6. Toggle debug options:62
+key_7. Toggle track boxes rendering:66
+key_Open Equipment:25
+key_signpic.key.gui:43
+key_gui.xaero_switch_waypoint_set:0
+key_gui.xaero_instant_waypoint:78
+key_gui.xaero_toggle_slime:0
+key_gui.xaero_toggle_grid:0
+key_gui.xaero_toggle_waypoints:0
+key_gui.xaero_toggle_map_waypoints:0
+key_gui.xaero_toggle_map:0
+key_gui.xaero_enlarge_map:44
+key_gui.xaero_waypoints_key:22
+key_gui.xaero_zoom_in:0
+key_gui.xaero_zoom_out:0
+key_gui.xaero_new_waypoint:199
+key_gui.xaero_display_all_sets:0
+key_gui.xaero_toggle_light_overlay:0
+key_gui.xaero_minimap_settings:207
+key_gui.xaero_open_map:-96
+key_gui.xaero_open_settings:27
+key_gui.xaero_map_zoom_in:0
+key_gui.xaero_map_zoom_out:0
+key_gui.xaero_quick_confirm:54
+key_key.cofh.empower:47
+key_key.cofh.multimode:46
+key_key.sort_config:0
+key_key.sort_nogui:0
+key_key.sort_gui:-98
+key_key.dropoff:0
+key_key.bogosorter.controls_button:0
+key_key.carbon_config.key:82
+key_key.control:0
+key_Profile GUI:0
+key_Chunk loading minimap:0
+key_Chunk redraw visualization:0
+key_key.craftpresence.config_keycode.name:210

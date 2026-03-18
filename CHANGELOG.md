@@ -21,6 +21,7 @@
    └ Doesn't have a GUI or tooltips or anything, only acts as a monitor
    └ Ideal for >15x15 reactor monitoring, since the displays are tileable
 - Added default server list that will update automatically
+- Added default key options
 
 
 
