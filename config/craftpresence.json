@@ -1,5 +1,5 @@
 {
-  "_schemaVersion": 6,
+  "_schemaVersion": 7,
   "_lastMCVersionId": 5,
   "generalSettings": {
     "detectATLauncherInstance": true,
@@ -13,7 +13,7 @@
     "detectWorldData": true,
     "clientId": "1368022831618854922",
     "defaultIcon": "discord",
-    "enableJoinRequests": false,
+    "enableJoinRequests": true,
     "preferredClientLevel": 3,
     "resetTimeOnInit": false,
     "autoRegister": false
@@ -33,11 +33,11 @@
         "textOverride": "In the {dimension.name}"
       },
       "overworld": {
-        "textOverride": "On the Kerbin (Earth)",
+        "textOverride": "On Kerbin (Earth)",
         "iconOverride": "kerbin"
       },
       "earth": {
-        "textOverride": "On the Kerbin (Earth)",
+        "textOverride": "On Kerbin (Earth)",
         "iconOverride": "kerbin"
       },
       "mun": {
@@ -77,18 +77,30 @@
         "iconOverride": "tekto"
       },
       "orbit": {
-        "textOverride": "On the {dimension.name}",
+        "textOverride": "In Orbit",
         "iconOverride": "orbit"
+      },
+      "the_nether": {
+        "textOverride": "In the Nether",
+        "iconOverride": "nether"
+      },
+      "the_end": {
+        "textOverride": "In the End",
+        "iconOverride": "end"
       }
     }
   },
   "serverSettings": {
     "fallbackServerIcon": "default",
-    "fallbackServerName": "Minecraft Server",
-    "fallbackServerMotd": "A Minecraft Server",
+    "fallbackServerName": "NTNH Server",
+    "fallbackServerMotd": "Nuclear Tech: New Horizons",
     "serverData": {
       "default": {
         "textOverride": "Playing on {server.motd.raw}"
+      },
+      "5.252.21.11": {
+        "textOverride": "On the Balefire - Official NTNH SMP",
+        "iconOverride": "default"
       }
     },
     "pingRateInterval": 5,
@@ -99,13 +111,13 @@
       "textOverride": "In the Main Menu"
     },
     "loadingData": {
-      "textOverride": "Loading..."
+      "textOverride": "Loading Nuclear Tech: New Horizons..."
     },
     "lanData": {
       "textOverride": "Playing on a LAN Server"
     },
     "singleplayerData": {
-      "textOverride": "Playing Singleplayer - "
+      "textOverride": "Playing Singleplayer - {world.name}"
     },
     "realmData": {
       "textOverride": "Playing on {server.motd.raw}"
@@ -118,7 +130,7 @@
     "formatWords": true,
     "debugMode": false,
     "verboseMode": false,
-    "refreshRate": 2,
+    "refreshRate": 5,
     "allowPlaceholderPreviews": false,
     "guiSettings": {
       "fallbackGuiIcon": "unknown",
@@ -129,7 +141,7 @@
       }
     },
     "itemMessages": {
-      "default": "Holding {item.message.holding}"
+      "default": "Holding {item.main_hand.message}"
     },
     "entitySettings": {
       "fallbackEntityIcon": "unknown",
@@ -149,8 +161,7 @@
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
     "allowDuplicatePackets": false,
     "maxConnectionAttempts": 10,
-    "enableClassGraph": false,
-    "useClassLoader": true
+    "enableClassGraph": false
   },
   "accessibilitySettings": {
     "languageId": "en_US",
@@ -165,36 +176,39 @@
       "useAsMain": false,
       "isInstance": false,
       "activityType": 0,
+      "statusDisplayType": 0,
       "partyPrivacy": 1,
       "details": "{getFirst(menu.message, dimension.message)}",
-      "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
+      "detailsUrl": "",
+      "gameState": "{getOrDefault(server.message, custom.world_info)} | {custom.player_info_health}",
+      "gameStateUrl": "",
+      "appName": "",
       "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
+      "largeImageUrl": "",
       "smallImageKey": "discord",
-      "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
+      "smallImageText": "Nuclear Tech: New Horizons",
+      "smallImageUrl": "",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
       "buttons": {
-        "default": {
-          "label": "Example Text",
-          "url": "https://google.com"
+        "secondary": {
+          "label": "Download on GitHub",
+          "url": "https://github.com/NTNewHorizons/NTNH/releases/latest"
         }
       }
     },
-    "dynamicIcons": {
-      "default": "https://placehold.co/256/png"
-    },
+    "dynamicIcons": {},
     "dynamicVariables": {
-      "default": "Example Text",
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",
       "players": "{server.players.current} / {server.players.max} Players",
-      "player_info_in": "({custom.player_info.health})",
+      "player_info_in": "({custom.player_info_health})",
       "player_info_items": "Items: {item.main_hand.message}",
       "player_info_out": "As {player.name}",
-      "player_info_health": "Health: {player.health.current}/{player.health.max}",
+      "player_info_health": "HP: {player.health.current}/{player.health.max}",
       "world_info": "On {world.name}",
-      "pack": "{pack.name}"
+      "pack": "Nuclear Tech: New Horizons"
     }
   }
 }
