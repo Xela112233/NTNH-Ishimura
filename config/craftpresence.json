@@ -181,7 +181,7 @@
       "partyPrivacy": 1,
       "details": "{getFirst(menu.message, dimension.message)}",
       "detailsUrl": "",
-      "gameState": "{getFirst(server.message, custom.world_info, '')}{custom.player_info_health}",
+      "gameState": "{getOrDefault(server.message, custom.world_info)} | {custom.player_info_health}",
       "gameStateUrl": "",
       "appName": "",
       "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
@@ -211,8 +211,8 @@
       "player_info_in": "({custom.player_info_health})",
       "player_info_items": "Items: {item.main_hand.message}",
       "player_info_out": "As {player.name}",
-      "player_info_health": "{nullOrEmpty(player.health.current) ? '' : ' | HP: ' + player.health.current + '/' + player.health.max}",
-      "world_info": "{nullOrEmpty(world.name) ? '' : 'On ' + world.name}",
+      "player_info_health": "HP: {player.health.current}/{player.health.max}",
+      "world_info": "On {world.name}",
       "pack": "Nuclear Tech: New Horizons"
     }
   }
