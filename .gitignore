@@ -67,3 +67,5 @@ config/crash_assistant/problematic_mods_config.json
 icon.png
 
 TimeUsage.txt
+
+falsepattern/fplib_deploader.jar

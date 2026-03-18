@@ -107,6 +107,7 @@
 - Safes now properly use the inventorytweaks API, allowing slot sorting via GUI
 - The meltdown disabling dial now also affects meldown caused by breaking fuel channels while hot
 - The dots on the grpahite moderator columns are now a lot darker to tell them apart from fuel channels much more easily
+- Increased the maximum stacksize per slot in a food containers (lunch bag and lunchbox)
 
 
 
