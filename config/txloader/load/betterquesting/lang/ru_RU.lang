@@ -912,10 +912,10 @@ betterquesting.quest.dVwxKlQ5SzaxZjGNcLFMEw.desc=The §3Solar Panel§r converts 
 
 # Quest: Space Map
 betterquesting.quest.eItNlZ6bRS2kA-0Ymm_pdA.name=Крсмическая карта
-betterquesting.quest.eItNlZ6bRS2kA-0Ymm_pdA.desc=Вот моя собственная карта (Bufka2011) нашей системы Керболов!%n[img height=300]resources:SpaceMap_by_Bufka2011.png[/img]
+betterquesting.quest.eItNlZ6bRS2kA-0Ymm_pdA.desc=Вот моя (Bufka2011) собственная карта нашей Кербольной системы!%n[img height=300]resources:SpaceMap_by_Bufka2011.png[/img]
 
 # Quest: Magma Drill
-betterquesting.quest.gaeSExcOTaawSPifbbIVtg.name=Магма бур
+betterquesting.quest.gaeSExcOTaawSPifbbIVtg.name=Магмовый бур
 betterquesting.quest.gaeSExcOTaawSPifbbIVtg.desc=В отличие от первоначального мода, Магма бур сверлит не в глубину. Предназначен для извлечения магмы из Мохо, которая, как известно, богата на этой планете как на поверхности, так и в пещерах. Для начала работы, Механизм должен быть установлен непосредственно на поверхности лавового озера, чтобы лава прикоснулась к боковой головке и достигала краев карандаша. Поставка энергии для сверла и будет работать автоматически.%n%nМагма выводится через литье каналов в литье. Охлаждающая магма формы Вулканит, которые затем должны быть обработаны для получения полезных ресурсов.%n%nПомимо вулкана прибор добывает обычный шлак (намного больше, чем Вулканит).
 
 # Quest: Orbital Station Computer
@@ -1670,7 +1670,7 @@ betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, fancy teleport pearls. You 
 
 # Quest: Time to Kill (Skeleton)
 betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Время убивать (Скелет)
-betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Стрелы — это хорошо, если стреляешь ты. Но если одна попадет в тебя — что ж, добра не жди.
+betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Стрелы - это хорошо, если стреляешь ты. Но если одна попадет в тебя - что ж, добра не жди. 
 
 # Quest: Time to Kill (Silverfish)
 betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.name=Время убивать (Чешуйница)
