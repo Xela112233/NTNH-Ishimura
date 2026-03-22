@@ -1,13 +1,5 @@
 # NTNH (Nuclear Tech: New Horizons) 🚀
 
-[![Website](https://img.shields.io/badge/Website-ntnewhorizons.com-ff6a00?style=flat-square&logo=googlechrome&logoColor=white)](https://ntnewhorizons.com)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865f2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wtNVzeE5QB)
-[![X / Twitter](https://img.shields.io/badge/X-@ntnewhorizons-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ntnewhorizons)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_us-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/ntnewhorizons)
-[![Technic](https://img.shields.io/badge/Technic-Install-6c4e9e?style=flat-square&logo=minecraft&logoColor=white)](https://www.technicpack.net/modpack/nuclear-tech-new-horizons)
-[![CurseForge](https://img.shields.io/badge/CurseForge-Download-f16436?style=flat-square&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/ntnh)
-[![GitHub Release](https://img.shields.io/github/v/release/NTNewHorizons/NTNH?style=flat-square&label=Latest+Release&color=ff2200)](https://github.com/NTNewHorizons/NTNH/releases/latest)
-
 ---
 
 **A hardcore quest-based modpack for Minecraft 1.7.10**, inspired by the legendary GTNH, but with a unique approach to progression and survival!
