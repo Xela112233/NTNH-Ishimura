@@ -161,8 +161,7 @@
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
     "allowDuplicatePackets": false,
     "maxConnectionAttempts": 10,
-    "enableClassGraph": false,
-    "useClassLoader": true
+    "enableClassGraph": false
   },
   "accessibilitySettings": {
     "languageId": "en_US",
