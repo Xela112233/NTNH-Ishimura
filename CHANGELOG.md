@@ -22,6 +22,7 @@
    └ Ideal for >15x15 reactor monitoring, since the displays are tileable
 - Added default server list that will update automatically
 - Added default key options
+- Added Matter Manipulator recipes up to Matter Manipulator MKI
 
 
 
@@ -47,6 +48,11 @@
 - Potentially fixed a dupe regarding safes
 - Moved the flow control pump's GUI code out of the block class which should hopefully fix an issue where spigot servers crash instantly when placed down
 - Fixed RBMKs melting down when removing the covers from fuel channels with hot fuel in them
+- Fixed Backhand integration and resolved block placement issues with certain mods
+- Fixed bibliocraft clipboard skipping a page
+- Fixed offhand attack dealing 1 damage
+- Fixed offhand item switching animations
+- Fixed sponge recipe
 
 
 
