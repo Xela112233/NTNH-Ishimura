@@ -57,6 +57,7 @@ recipes.remove(<appliedenergistics2:tile.BlockDrive>);
 recipes.remove(<appliedenergistics2:tile.BlockController>);
 recipes.remove(<appliedenergistics2:tile.BlockSpatialIOPort>);
 recipes.remove(<appliedenergistics2:tile.BlockQuantumRing>);
+recipes.remove(<appliedenergistics2:tile.BlockQuantumLinkChamber>);
 recipes.remove(<appliedenergistics2:tile.BlockSecurity>);
 recipes.remove(<appliedenergistics2:tile.BlockCharger>);
 
