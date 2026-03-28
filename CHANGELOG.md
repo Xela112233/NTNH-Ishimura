@@ -25,6 +25,32 @@
 - Added Matter Manipulator recipes up to Matter Manipulator MKI
 - Added new ore generation system (GTNH-like https://docs.google.com/spreadsheets/d/1KayyJUUNZorZVQM-iK6vzE_nZjC9YsTl/edit?gid=1205797392#gid=1205797392 )
 - Finally added crafting recipes to other types of Vending Blocks
+- Key pad
+   └ Fits visually with the RBMK display block
+   └ Allows up to four buttons to be configured with a screwdriver (shift click!)
+   └ Buttons will send RoR signals when pressed, with a configured value on the configured frequencies
+   └ Can be set to polling, which will re-send the command until the button is pressed again
+   └ Single push buttons and buttons set to polling which are enabled will glow in the dark
+   └ Each button can be assigned a label with glow in the dark paint
+   └ Allows RBMK control rods to be fully remote controllable with no console
+- Gauge
+   └ Allows up to four gauges to be configured with a screwdriver
+   └ Gauges can read RoR signals and display numeric values on a specified range
+   └ Minimum and maximum values can be defined, the gauge also has a red area for when the value exceeds the maximum
+   └ If the minimum value is larger than the maximum, the needle will start at the top and run backwards
+   └ Also has glow in the dark paint labels
+- Astroturf
+   └ Looks like the classic pre-biome grass and doesn't die from fracking or radiation
+- Radioactive Angel
+   └ Boss mob that can be crafted and spawned, find the shards!
+- Invasion mode
+   └ Spawned from defeating the radioactive angel, whos pieces can be found on ike.
+   └ has 3 waves + a boss wave
+   └ Good luck!
+   └ Purely optional.
+- Combat Drop pods
+   └ Spawn glyphids for now for invasion mode
+- New UFO mobs
 
 
 
@@ -55,6 +81,15 @@
 - Fixed offhand attack dealing 1 damage
 - Fixed offhand item switching animations
 - Fixed sponge recipe
+- Fixed some damage categories not applying correctly, causing things like general energy resistance to not work against lasers
+- Fixed RoR components not being able to be attached to the top of reasim fuel rods
+- Fixed a crash in multiplayer regarding RBMK control rods
+- Fixed outdated QMAW description of some RBMK parts
+- Fixed log spam when placing down a RoR controller
+- Fixed the RBMK fuel crane being all jittery and awful
+- Fixed RoR reader sending the xenon value on RBMK fuel rods that's 100x the intended value
+- Fixed rocket launch pads (regular + orbital) don't accept inserted rocket fuel
+- Meteor dungeons spawning above ground
 
 
 
@@ -113,12 +148,23 @@
 - The annihilator now creates pollution when destroying fluids, with a 200% pollution modifier
 - MOX fuel now uses plutonium-239 instead of RGP, and more uranium-238
    └ This makes it a decent option for pu239 from the chicago pile without having to use HEP239
-- Updated russian localization
+- Updated russian, ukrainian and chinese localizations
 - Safes now properly use the inventorytweaks API, allowing slot sorting via GUI
 - The meltdown disabling dial now also affects meldown caused by breaking fuel channels while hot
 - The dots on the grpahite moderator columns are now a lot darker to tell them apart from fuel channels much more easily
 - Increased the maximum stacksize per slot in a food containers (lunch bag and lunchbox)
 - Updated Discord RPC (status/activity)
+- Updated textures for some nuclear bomb GUIs
+- Updated textures for steel tools
+- RBMK fuel rods too hot to be taken out manually can now be removed by players in creative mode
+- Updated the SILEX recycling recipe for MOX fuel to reflect the recent recipe change 
+   └ High-xenon MOX pellets now yield xenon-135 again
+- Improved logging for incorrectly configured machine recipes
+- Removed the legacy toolbox item
+- Due to complaints, the MOX recipe was now made more expensive
+- Manual control rods now have the extendrods command, which allows the target setting to be adjusted without using an absolute value
+- Removed the legacy relay structure
+- Placing RBMK fuel rods in the fuel channels by right click no longer consumes the item in creative mode
 
 
 
