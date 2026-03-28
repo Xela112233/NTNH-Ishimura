@@ -24,6 +24,7 @@
 - Added default key options
 - Added Matter Manipulator recipes up to Matter Manipulator MKI
 - Added new ore generation system (GTNH-like https://docs.google.com/spreadsheets/d/1KayyJUUNZorZVQM-iK6vzE_nZjC9YsTl/edit?gid=1205797392#gid=1205797392 )
+- Finally added crafting recipes to other types of Vending Blocks
 
 
 
