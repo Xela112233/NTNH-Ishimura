@@ -378,7 +378,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.desc=The §3Catalytic Cracking Tower
 
 # Quest: Desh Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.name=Desh Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.desc=An upgraded version of the §3Anvil§r, [T3], which unlocks additional recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.desc=An upgraded version of the §3Anvil§r, [T3], which unlocks additional recipes.%n%nAlternatively, the §3Desh Anvil§r can be skipped by making a §3Ferrouranium Anvil§r, [T4], from scavanged §e§r§6Uranium-238§r found in structures.
 
 # Quest: Industrial Boiler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.name=Industrial Boiler
@@ -398,7 +398,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.desc=§6Desh§r is an alloy made up 
 
 # Quest: Industrial Steam Turbine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.name=Industrial Steam Turbine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=The §3Industrial Steam Turbine§r is a multiblock machine that is a much larger and more powerful version of the regular §3Steam Turbine§r. It has a §e100MHE§r internal power buffer, a 512,000 MB input buffer, and a 10,240,000 MB output buffer, and can process 102,400 MB per tick at the most. It is also the only turbine that operates at §e100%%§r efficiency.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=The §3Industrial Steam Turbine§r is a multiblock machine that is a much larger and more powerful version of the regular §3Steam Turbine§r. It has an efficiency of §e100%%§r and energy output slowly ramps up as §bSteam§r is supplied and slowly goes down as steam cuts out.
 
 # Quest: Coker Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=Coker Unit
@@ -701,6 +701,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=§bHigh-Performance Solvent§r 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABeA.name=Radiation-Powered Engine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABeA.desc=The §3Radiation-Powered Engine§r turns nuclear waste into decayed waste while also making energy in the process and giving guaranteed consistent decay times.%n%n§2Blueprints can be found in structures or purchased from Bobmazon.
 
+# Quest: PWR powered Steel Furnace
+betterquesting.quest.CYbDJkRORT-LPEInaoL3BQ.name=PWR powered Steel Furnace
+betterquesting.quest.CYbDJkRORT-LPEInaoL3BQ.desc=Instead of using the §bHot Coolant§r for power, one can use it to make the §3Steel Furnace§r go at ludicrous speeds.
+
 # Quest: Uranium-238
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.name=Uranium-238
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.desc=§6Uranium-238§r is the most common uranium isotope in the game. %n%nThis material has many uses, some of which are: §6Ferrouranium§r, MOX fuel, depleted uranium ammunition, absorber Pellets for the §3Watz§r powerplant and can also be turned into §6Schrabidium§r later on in the §3Exposure Chamber§r.
@@ -760,6 +764,10 @@ betterquesting.quest.sCe8OyBsQEeMrUpYXUn9Yw.desc=With access to §6Tantalium§r 
 # Quest: Arsenic
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.name=Arsenic
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.desc=§6Arsenic§r is a substitute of §6Bismuth§r which can be made from acidizing §6Oily Dirt§r, found near §ebedrock oil deposits§r or from the environmental damage the §3Fracking Tower§r does, with §bHigh-Performance Solvent§r.
+
+# Quest: Deuterium Extraction Tower
+betterquesting.quest.yYyMBFJrRUOt39If3zFaFg.name=Deuterium Extraction Tower
+betterquesting.quest.yYyMBFJrRUOt39If3zFaFg.desc=The §3Deuterium Extraction Tower§r is a much larger version of the Deuterium Extractor, making it an easy and viable way of making cheap fuel for the §b§r§3Fusion Reactor§r.%n%n§2A Ferrouranium Anvil is required.§r
 
 
 ## Quest Line: LV3.5 - Space Age
@@ -1097,7 +1105,7 @@ betterquesting.quest.q0Q4S7F-QlCzGWDkdOBMqw.desc=The Martian Invasion Ship is a 
 
 # Quest: Welded Osmiridium Plate
 betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.name=Welded Osmiridium Plate
-betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.desc=§6Welded Osmiridium Plates§r cost 120 Billion HE to produce, so good energy generation and storage infrastructure is needed.
+betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.desc=§6Welded Osmiridium Plates§r cost 300 Billion §eHE§r to produce, so good energy generation and storage infrastructure is needed.
 
 
 ## Quest Line: Building and Decorating
