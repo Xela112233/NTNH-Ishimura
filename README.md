@@ -30,10 +30,10 @@
 <div align="center">
   <h2>🌟 Our Amazing Contributors 🌟</h2>
   <a href="https://github.com/Bufka2011">
-    <img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius: 50%; margin: 5px;" title="Bufka2011 (2080 contributions)">
+    <img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius: 50%; margin: 5px;" title="Bufka2011 (2105 contributions)">
   </a>
   <a href="https://github.com/BufkaSecond">
-    <img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius: 50%; margin: 5px;" title="BufkaSecond (376 contributions)">
+    <img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius: 50%; margin: 5px;" title="BufkaSecond (378 contributions)">
   </a>
   <a href="https://github.com/AniviaFlome">
     <img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" height="50" alt="AniviaFlome" style="border-radius: 50%; margin: 5px;" title="AniviaFlome (92 contributions)">
@@ -41,11 +41,11 @@
   <a href="https://github.com/Rt194646">
     <img src="https://avatars.githubusercontent.com/u/209053148?v=4" width="50" height="50" alt="Rt194646" style="border-radius: 50%; margin: 5px;" title="Rt194646 (31 contributions)">
   </a>
+  <a href="https://github.com/Rerserder">
+    <img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" height="50" alt="Rerserder" style="border-radius: 50%; margin: 5px;" title="Rerserder (25 contributions)">
+  </a>
   <a href="https://github.com/bocan225">
     <img src="https://avatars.githubusercontent.com/u/209335201?v=4" width="50" height="50" alt="bocan225" style="border-radius: 50%; margin: 5px;" title="bocan225 (20 contributions)">
-  </a>
-  <a href="https://github.com/Rerserder">
-    <img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" height="50" alt="Rerserder" style="border-radius: 50%; margin: 5px;" title="Rerserder (19 contributions)">
   </a>
   <a href="https://github.com/intelcore13900k">
     <img src="https://avatars.githubusercontent.com/u/203885009?v=4" width="50" height="50" alt="intelcore13900k" style="border-radius: 50%; margin: 5px;" title="intelcore13900k (2 contributions)">
