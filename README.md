@@ -30,10 +30,10 @@
 <div align="center">
   <h2>🌟 Our Amazing Contributors 🌟</h2>
   <a href="https://github.com/Bufka2011">
-    <img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius: 50%; margin: 5px;" title="Bufka2011 (2150 contributions)">
+    <img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius: 50%; margin: 5px;" title="Bufka2011 (2149 contributions)">
   </a>
   <a href="https://github.com/BufkaSecond">
-    <img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius: 50%; margin: 5px;" title="BufkaSecond (381 contributions)">
+    <img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius: 50%; margin: 5px;" title="BufkaSecond (378 contributions)">
   </a>
   <a href="https://github.com/AniviaFlome">
     <img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" height="50" alt="AniviaFlome" style="border-radius: 50%; margin: 5px;" title="AniviaFlome (92 contributions)">
