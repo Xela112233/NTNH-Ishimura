@@ -30,10 +30,10 @@
 <div align="center">
   <h2>🌟 Our Amazing Contributors 🌟</h2>
   <a href="https://github.com/Bufka2011">
-    <img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius: 50%; margin: 5px;" title="Bufka2011 (2160 contributions)">
+    <img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius: 50%; margin: 5px;" title="Bufka2011 (2167 contributions)">
   </a>
   <a href="https://github.com/BufkaSecond">
-    <img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius: 50%; margin: 5px;" title="BufkaSecond (377 contributions)">
+    <img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius: 50%; margin: 5px;" title="BufkaSecond (378 contributions)">
   </a>
   <a href="https://github.com/AniviaFlome">
     <img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" height="50" alt="AniviaFlome" style="border-radius: 50%; margin: 5px;" title="AniviaFlome (92 contributions)">
@@ -49,6 +49,9 @@
   </a>
   <a href="https://github.com/intelcore13900k">
     <img src="https://avatars.githubusercontent.com/u/203885009?v=4" width="50" height="50" alt="intelcore13900k" style="border-radius: 50%; margin: 5px;" title="intelcore13900k (2 contributions)">
+  </a>
+  <a href="https://github.com/Xekitan">
+    <img src="https://avatars.githubusercontent.com/u/84423252?v=4" width="50" height="50" alt="Xekitan" style="border-radius: 50%; margin: 5px;" title="Xekitan (2 contributions)">
   </a>
   <a href="https://github.com/ShamansJackal">
     <img src="https://avatars.githubusercontent.com/u/74203576?v=4" width="50" height="50" alt="ShamansJackal" style="border-radius: 50%; margin: 5px;" title="ShamansJackal (1 contributions)">
